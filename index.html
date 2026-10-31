@@ -1,0 +1,267 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Daytrade Desk</title>
+    <script type="module" crossorigin src="/daytrade-desk/assets/index-BfwokaWJ.js"></script>
+    <link rel="stylesheet" crossorigin href="/daytrade-desk/assets/index-Ti2IWtl2.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <strong id="sym" class="sym">BTCUSDT</strong>
+      <span id="last" class="last num">—</span>
+      <span id="chg" class="num">—</span>
+      <span class="stat"><span id="hi-label">24h H</span> <b id="hi" class="num">—</b></span>
+      <span class="stat"><span id="lo-label">24h L</span> <b id="lo" class="num">—</b></span>
+      <span class="stat">Bid <b id="bid" class="num">—</b></span>
+      <span class="stat">Ask <b id="ask" class="num">—</b></span>
+      <span class="stat">Spread <b id="spread" class="num">—</b></span>
+      <span class="stat">Bar closes <b id="countdown" class="num">—</b></span>
+      <span class="stat">Times <b id="clock-note">local</b></span>
+      <span id="status" class="status" role="status">Connecting</span>
+    </header>
+
+    <div class="desk">
+      <aside class="col left">
+        <div id="market-tabs" class="tabs" role="group" aria-label="Market"></div>
+        <section id="token-panel" class="panel" hidden>
+          <h2>Upstox live feed</h2>
+          <p id="token-state" class="hint"></p>
+          <form id="token-form" class="inline">
+            <input id="token-input" type="password" aria-label="Upstox Analytics Token" placeholder="Paste Analytics Token" autocomplete="off" />
+            <button type="submit">Save</button>
+          </form>
+          <button id="token-remove" type="button" class="ghost" hidden>Remove token</button>
+          <p class="hint">
+            <a href="https://account.upstox.com/developer/apps#analytics" target="_blank" rel="noreferrer">Get a token from Upstox</a>:
+            open the Analytics tab and generate one. It is read-only, cannot place orders and lasts a year. It stays in this browser and is sent only to Upstox.
+          </p>
+        </section>
+        <section class="panel">
+          <h2>Watchlist</h2>
+          <form id="watch-form" class="inline">
+            <input id="watch-input" aria-label="Add to watchlist" autocomplete="off" />
+            <button type="submit">Add</button>
+          </form>
+          <ul id="search-results" class="rows results" hidden></ul>
+          <p id="watch-error" class="error" hidden></p>
+          <ul id="watchlist" class="rows"></ul>
+        </section>
+        <section class="panel grow">
+          <h2>Top movers <small id="movers-note"></small></h2>
+          <ul id="movers" class="rows"></ul>
+        </section>
+      </aside>
+
+      <main class="col center">
+        <div class="toolbar">
+          <div id="tfs" class="group" role="group" aria-label="Timeframe"></div>
+          <div id="toggles" class="group" role="group" aria-label="Indicators"></div>
+          <div id="tools" class="group" role="group" aria-label="Drawing tools"></div>
+        </div>
+        <div class="chart-wrap">
+          <div id="chart" class="chart"></div>
+          <div id="legend" class="legend num"></div>
+          <div id="banner" class="banner" hidden></div>
+          <p id="underlying" class="underlying" hidden></p>
+        </div>
+        <div class="dock">
+          <nav id="tool-tabs" class="tool-tabs" aria-label="Tools"></nav>
+          <div class="tool-area">
+            <section id="tool-scan" class="tool" hidden>
+              <div class="controls">
+                <label>Scan
+                  <select id="scan-mode"><option value="daily">Daily setups</option><option value="orb">Opening-range breakouts</option></select>
+                </label>
+                <label id="scan-top-field">Coins, most traded first <input id="scan-top" type="number" min="5" max="100" value="30" /></label>
+                <label>Session start
+                  <select id="w-anchor"><option value="00:00">00:00 UTC</option><option value="08:00">08:00 UTC, London</option><option value="13:30">13:30 UTC, US open</option></select>
+                </label>
+                <label>Opening range
+                  <select id="w-or"><option value="15">15 minutes</option><option value="5">5 minutes</option><option value="30">30 minutes</option><option value="60">60 minutes</option></select>
+                </label>
+                <button id="scan-run" type="button" class="primary">Run scan</button>
+              </div>
+              <div id="scan-out"><p class="hint">Scans the current tab's markets for breakouts, flags and oversold bounces.</p></div>
+            </section>
+
+            <section id="tool-news" class="tool" hidden>
+              <div class="controls">
+                <label>Show
+                  <select id="news-scope"><option value="asset">This market</option><option value="all">All markets</option></select>
+                </label>
+              </div>
+              <div id="news-out"></div>
+            </section>
+
+            <section id="tool-entry" class="tool" hidden>
+              <div class="controls">
+                <label>Setup
+                  <select id="entry-setup"><option value="orb">Opening-range breakout</option><option value="level">Close beyond a level</option></select>
+                </label>
+                <label>Direction
+                  <select id="entry-side"><option value="buy">Long</option><option value="sell">Short</option></select>
+                </label>
+                <label>Level <input id="entry-level" type="number" min="0" step="any" /></label>
+                <label>Min volume multiple <input id="entry-volume" type="number" min="0" step="any" /></label>
+                <button id="entry-run" type="button" class="primary">Check now</button>
+                <button id="entry-watch" type="button" class="ghost">Watch</button>
+              </div>
+              <div id="entry-out"></div>
+              <p class="hint">Watching checks every 30 seconds and sounds an alert, only while this page is open. Session start and range length are on the Scanner tab.</p>
+            </section>
+
+            <section id="tool-levels" class="tool" hidden>
+              <div class="controls">
+                <label>Method
+                  <select id="lv-method"><option value="classic">Classic pivots</option><option value="fib">Fibonacci pivots</option><option value="camarilla">Camarilla</option></select>
+                </label>
+                <label>From the last
+                  <select id="lv-period"><option value="day">Day</option><option value="week">Week</option><option value="month">Month</option></select>
+                </label>
+                <button id="lv-run" type="button" class="ghost">Refresh</button>
+              </div>
+              <div id="levels-out"></div>
+            </section>
+
+            <section id="tool-plan" class="tool" hidden>
+              <div class="columns">
+                <div>
+                  <h3>Exit plan</h3>
+                  <div class="fields">
+                    <label>Direction
+                      <select id="p-side"><option value="buy">Long</option><option value="sell">Short</option></select>
+                    </label>
+                    <label>Entry <input id="f-entry" type="number" min="0" step="any" /></label>
+                    <label>Stop type
+                      <select id="p-stoprule">
+                        <option value="price">Price</option><option value="pct">Percent</option><option value="atr">ATR multiple</option>
+                        <option value="or-mid">Range midpoint</option><option value="or-far">Range far side</option>
+                      </select>
+                    </label>
+                    <label>Stop value <input id="f-stop" type="number" min="0" step="any" /></label>
+                    <label>Target in R <input id="p-target-r" type="number" min="0" step="any" value="2" /></label>
+                    <label>Or target price <input id="p-target-price" type="number" min="0" step="any" /></label>
+                    <label>Out within, hours <input id="p-hold" type="number" min="0" max="72" step="any" value="8" /></label>
+                    <button id="use-last" type="button" class="ghost">Entry = last</button>
+                  </div>
+                  <p id="plan" class="plan num"></p>
+                  <button id="plan-alerts" type="button" class="ghost">Alert me at the stop and target</button>
+                </div>
+                <div>
+                  <h3>Budget and limits</h3>
+                  <div class="fields">
+                    <label><span>Budget <span id="account-cur"></span></span> <input id="f-account" type="number" min="0" step="any" /></label>
+                    <label>Risk % a trade <input id="f-risk" type="number" min="0" max="100" step="any" /></label>
+                    <label>Fee % a side <input id="f-fee" type="number" min="0" step="any" /></label>
+                    <label>Max position % <input id="f-maxpos" type="number" min="0" step="any" /></label>
+                    <label>Max order <input id="f-maxorder" type="number" min="0" step="any" /></label>
+                    <label>Max leverage <input id="f-lev" type="number" min="1" step="any" /></label>
+                    <label>Trades a day <input id="f-trades" type="number" min="0" step="1" /></label>
+                    <label>Min reward:risk <input id="f-minrr" type="number" min="0" step="any" /></label>
+                    <label>Daily loss limit <input id="f-limit" type="number" min="0" step="any" /></label>
+                    <label class="check"><input id="f-short" type="checkbox" /> Allow shorts</label>
+                  </div>
+                </div>
+                <div>
+                  <h3>Risk check and ticket <small>simulated, no real orders</small></h3>
+                  <button id="risk-run" type="button" class="primary">Run risk check</button>
+                  <div id="risk-out"></div>
+                  <div id="ticket-out"></div>
+                  <p id="position" class="plan num"></p>
+                  <button id="paper-close" type="button" class="ghost" hidden>Close position</button>
+                  <p id="trade-msg" class="error" hidden></p>
+                </div>
+              </div>
+            </section>
+
+            <section id="tool-tm" class="tool" hidden>
+              <div class="controls">
+                <label>Replays <input id="tm-replays" type="number" min="100" max="100000" step="100" value="10000" /></label>
+                <label>Seed <input id="tm-seed" type="number" min="1" step="1" value="19" /></label>
+                <button id="tm-run" type="button" class="primary">Replay this plan</button>
+              </div>
+              <div id="tm-out"><p class="hint">Replays the current plan through this market's own recent bars, thousands of times, before any risk is taken.</p></div>
+            </section>
+
+            <section id="tool-alerts" class="tool" hidden>
+              <div class="columns">
+                <div>
+                  <h3>Price alerts</h3>
+                  <form id="alert-form" class="inline">
+                    <input id="alert-price" aria-label="Alert price" type="number" min="0" step="any" placeholder="Price" />
+                    <button type="submit">Add</button>
+                  </form>
+                  <ul id="alerts" class="rows"></ul>
+                </div>
+                <div>
+                  <h3>On bar close</h3>
+                  <label class="check"><input id="sig-vwap" type="checkbox" /> VWAP cross</label>
+                  <label class="check"><input id="sig-rsi" type="checkbox" /> RSI 70 / 30</label>
+                  <label class="check"><input id="sig-ema" type="checkbox" /> EMA 9 / 21 cross</label>
+                  <h3>Bells</h3>
+                  <label class="check"><input id="sig-bell" type="checkbox" /> Session-start bell</label>
+                  <p class="hint">Alerts sound only while this page is open.</p>
+                </div>
+              </div>
+            </section>
+
+            <section id="tool-journal" class="tool" hidden>
+              <h3>Journal <small id="journal-note"></small></h3>
+              <div id="stats" class="stats num"></div>
+              <p id="limit-msg" class="error" hidden></p>
+              <form id="manual-form" class="fields">
+                <label>Side
+                  <select id="m-side"><option value="long">Long</option><option value="short">Short</option></select>
+                </label>
+                <label>Quantity <input id="m-qty" type="number" min="0" step="any" required /></label>
+                <label>Entry <input id="m-entry" type="number" min="0" step="any" required /></label>
+                <label>Exit <input id="m-exit" type="number" min="0" step="any" required /></label>
+                <button type="submit" class="ghost">Log a real trade</button>
+                <button id="export" type="button" class="ghost">Export CSV</button>
+              </form>
+              <ul id="journal" class="rows"></ul>
+            </section>
+
+            <section id="tool-compare" class="tool" hidden>
+              <div class="controls"><button id="compare-run" type="button" class="ghost">Refresh</button></div>
+              <div id="compare-out"></div>
+            </section>
+
+            <section id="tool-earnings" class="tool" hidden>
+              <div class="controls">
+                <label>Company <select id="earnings-ticker"></select></label>
+              </div>
+              <div id="earnings-out"></div>
+            </section>
+
+            <section id="tool-congress" class="tool" hidden>
+              <div class="controls">
+                <label>Filter by member or ticker <input id="congress-filter" autocomplete="off" placeholder="Pelosi or NVDA" /></label>
+              </div>
+              <div id="congress-out"></div>
+            </section>
+          </div>
+        </div>
+      </main>
+
+      <aside class="col right">
+        <section class="panel">
+          <h2>Order book <small id="imbalance" class="num"></small></h2>
+          <p id="book-note" class="hint" hidden></p>
+          <div id="book" class="book num"></div>
+        </section>
+        <section class="panel grow">
+          <h2>Tape <small id="delta" class="num"></small></h2>
+          <p id="tape-note" class="hint" hidden></p>
+          <ul id="tape" class="tape num"></ul>
+        </section>
+      </aside>
+    </div>
+
+    <footer class="foot">Simulated trades only, with no real orders. Prices come directly from public exchange data and can lag. Commodity and stock contracts here are perpetuals on OKX, not the underlying futures or shares. Not financial advice.</footer>
+
+    <div id="toasts" class="toasts" aria-live="assertive"></div>
+  </body>
+</html>
