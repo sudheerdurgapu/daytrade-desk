@@ -1,6 +1,162 @@
 {
-  "generated_at": "2026-11-02T07:21:03Z",
+  "generated_at": "2026-11-02T17:23:07Z",
   "filings": [
+    {
+      "member": "Hon. Donald Sternoff Beyer Jr",
+      "district": "VA08",
+      "filed": "2026-11-01",
+      "doc_id": "20035743",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035743.pdf",
+      "trades": [
+        {
+          "ticker": null,
+          "asset": "California CMNTY VAR 11/01/54",
+          "type_name": "purchase",
+          "owner_name": "joint",
+          "date": "2026-10-07",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 25,
+          "late": false
+        }
+      ]
+    },
+    {
+      "member": "Hon. John J Mr McGuire III",
+      "district": "VA05",
+      "filed": "2026-11-01",
+      "doc_id": "20035484",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf",
+      "trades": [
+        {
+          "ticker": "AVGO",
+          "asset": "Broadcom Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-09-24",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 38,
+          "late": false
+        },
+        {
+          "ticker": "MU",
+          "asset": "Micron Technology, Inc. - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-09-24",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 38,
+          "late": false
+        },
+        {
+          "ticker": "MU",
+          "asset": "Micron Technology, Inc. - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-09-25",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 37,
+          "late": false
+        },
+        {
+          "ticker": "MU",
+          "asset": "Micron Technology, Inc. - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-10-01",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 31,
+          "late": false
+        }
+      ]
+    },
+    {
+      "member": "Hon. Carol Devine Miller",
+      "district": "WV01",
+      "filed": "2026-10-30",
+      "doc_id": "20035734",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035734.pdf",
+      "trades": [
+        {
+          "ticker": "HONA",
+          "asset": "Honeywell Aerospace Inc. - Common Stock",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-09-29",
+          "amount": "$710.52",
+          "days_to_disclose": 31,
+          "late": false
+        }
+      ]
+    },
+    {
+      "member": "Hon. Thomas H. Kean Jr",
+      "district": "NJ07",
+      "filed": "2026-10-30",
+      "doc_id": "20035591",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf",
+      "trades": [
+        {
+          "ticker": "ABT",
+          "asset": "Abbott Laboratories Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "self",
+          "date": "2026-09-17",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 43,
+          "late": false
+        },
+        {
+          "ticker": "ESAB",
+          "asset": "ESAB Corporation Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-09-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 31,
+          "late": false
+        },
+        {
+          "ticker": "JNJ",
+          "asset": "Johnson & Johnson Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "self",
+          "date": "2026-09-30",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 30,
+          "late": false
+        },
+        {
+          "ticker": "MDLZ",
+          "asset": "Mondelez International, Inc. - Class A Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "self",
+          "date": "2026-09-23",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 37,
+          "late": false
+        },
+        {
+          "ticker": "SYK",
+          "asset": "Stryker Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "self",
+          "date": "2026-09-30",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 30,
+          "late": false
+        },
+        {
+          "ticker": "TXN",
+          "asset": "Texas Instruments Incorporated - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-09-17",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 43,
+          "late": false
+        }
+      ]
+    },
     {
       "member": "Hon. David J. Taylor",
       "district": "OH02",
@@ -236,328 +392,7 @@
       "filed": "2026-10-27",
       "doc_id": "20035563",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035563.pdf",
-      "trades": [
-        {
-          "ticker": "ABT",
-          "asset": "Abbott Laboratories Common Stock",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-02",
-          "amount": "$50,001 - $100,000",
-          "days_to_disclose": 25,
-          "late": false
-        },
-        {
-          "ticker": "GOOG",
-          "asset": "Alphabet Inc. - Class C Capital Stock",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-02",
-          "amount": "$100,001 - $250,000",
-          "days_to_disclose": 25,
-          "late": false
-        },
-        {
-          "ticker": "AMZN",
-          "asset": "Amazon.com, Inc. - Common Stock",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-02",
-          "amount": "$100,001 - $250,000",
-          "days_to_disclose": 25,
-          "late": false
-        },
-        {
-          "ticker": "AMZN",
-          "asset": "Amazon.com, Inc. - Common Stock",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-10-27",
-          "amount": "$15,001 - $50,000",
-          "days_to_disclose": 0,
-          "late": false
-        },
-        {
-          "ticker": "AAPL",
-          "asset": "Apple Inc. - Common Stock",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-02",
-          "amount": "$250,001 - $500,000",
-          "days_to_disclose": 25,
-          "late": false
-        },
-        {
-          "ticker": "BRK.B",
-          "asset": "Berkshire Hathaway Inc. New Common Stock",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-10-15",
-          "amount": "$15,001 - $50,000",
-          "days_to_disclose": 12,
-          "late": false
-        },
-        {
-          "ticker": "CVX",
-          "asset": "Chevron Corporation Common Stock",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-10-14",
-          "amount": "$15,001 - $50,000",
-          "days_to_disclose": 13,
-          "late": false
-        },
-        {
-          "ticker": "CMG",
-          "asset": "Chipotle Mexican Grill, Inc. Common Stock",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-02",
-          "amount": "$15,001 - $50,000",
-          "days_to_disclose": 25,
-          "late": false
-        },
-        {
-          "ticker": "COST",
-          "asset": "Costco Wholesale Corporation - Common Stock",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-02",
-          "amount": "$250,001 - $500,000",
-          "days_to_disclose": 25,
-          "late": false
-        },
-        {
-          "ticker": "COST",
-          "asset": "Costco Wholesale Corporation - Common Stock",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-10-13",
-          "amount": "$100,001 - $250,000",
-          "days_to_disclose": 14,
-          "late": false
-        },
-        {
-          "ticker": "XOM",
-          "asset": "ExxonMobil Holdings Corporation Common Stock",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-10-14",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 13,
-          "late": false
-        },
-        {
-          "ticker": "HD",
-          "asset": "Home Depot, Inc.",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-10-22",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 5,
-          "late": false
-        },
-        {
-          "ticker": "HON",
-          "asset": "Honeywell International Inc.",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-10-01",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 26,
-          "late": false
-        },
-        {
-          "ticker": "IBM",
-          "asset": "International Business Machines Corporation Common Stock",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-10-20",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 7,
-          "late": false
-        },
-        {
-          "ticker": "LOW",
-          "asset": "Lowe's Companies, Inc. Common Stock",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-10-22",
-          "amount": "$15,001 - $50,000",
-          "days_to_disclose": 5,
-          "late": false
-        },
-        {
-          "ticker": "MA",
-          "asset": "Mastercard Incorporated Common Stock",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-02",
-          "amount": "$15,001 - $50,000",
-          "days_to_disclose": 25,
-          "late": false
-        },
-        {
-          "ticker": "MCD",
-          "asset": "McDonald's Corporation Common Stock",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-02",
-          "amount": "$15,001 - $50,000",
-          "days_to_disclose": 25,
-          "late": false
-        },
-        {
-          "ticker": "MCD",
-          "asset": "McDonald's Corporation Common Stock",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-27",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 0,
-          "late": false
-        },
-        {
-          "ticker": "MSFT",
-          "asset": "Microsoft Corporation - Common Stock",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-02",
-          "amount": "$250,001 - $500,000",
-          "days_to_disclose": 25,
-          "late": false
-        },
-        {
-          "ticker": "NVDA",
-          "asset": "NVIDIA Corporation - Common Stock",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-02",
-          "amount": "$15,001 - $50,000",
-          "days_to_disclose": 25,
-          "late": false
-        },
-        {
-          "ticker": "PEP",
-          "asset": "Pepsico, Inc.",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-10-21",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 6,
-          "late": false
-        },
-        {
-          "ticker": "PG",
-          "asset": "Procter & Gamble Company",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-10-08",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 19,
-          "late": false
-        },
-        {
-          "ticker": "REZI",
-          "asset": "Resideo Technologies, Inc. Common Stock",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-10-21",
-          "amount": "$344.99",
-          "days_to_disclose": 6,
-          "late": false
-        },
-        {
-          "ticker": "SOLS",
-          "asset": "Solstice Advanced Materials Inc. - Common Stock",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-10-21",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 6,
-          "late": false
-        },
-        {
-          "ticker": "SBUX",
-          "asset": "Starbucks Corporation - Common Stock",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-02",
-          "amount": "$15,001 - $50,000",
-          "days_to_disclose": 25,
-          "late": false
-        },
-        {
-          "ticker": "TSLA",
-          "asset": "Tesla, Inc. - Common Stock",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-02",
-          "amount": "$15,001 - $50,000",
-          "days_to_disclose": 25,
-          "late": false
-        },
-        {
-          "ticker": "TJX",
-          "asset": "TJX Companies, Inc.",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-02",
-          "amount": "$15,001 - $50,000",
-          "days_to_disclose": 25,
-          "late": false
-        },
-        {
-          "ticker": "TJX",
-          "asset": "TJX Companies, Inc.",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-02",
-          "amount": "$15,001 - $50,000",
-          "days_to_disclose": 25,
-          "late": false
-        },
-        {
-          "ticker": "VZ",
-          "asset": "Verizon Communications Inc. Common Stock",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-02",
-          "amount": "$15,001 - $50,000",
-          "days_to_disclose": 25,
-          "late": false
-        },
-        {
-          "ticker": "V",
-          "asset": "Visa Inc.",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-02",
-          "amount": "$15,001 - $50,000",
-          "days_to_disclose": 25,
-          "late": false
-        },
-        {
-          "ticker": "WMT",
-          "asset": "Walmart Inc. - Common Stock",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-02",
-          "amount": "$50,001 - $100,000",
-          "days_to_disclose": 25,
-          "late": false
-        },
-        {
-          "ticker": "DIS",
-          "asset": "Walt Disney Company",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-10-28",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": -1,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. Sheri Biggs",
@@ -565,18 +400,7 @@
       "filed": "2026-10-27",
       "doc_id": "20035525",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035525.pdf",
-      "trades": [
-        {
-          "ticker": null,
-          "asset": "Oaktree Strategic Credit Fund Class S",
-          "type_name": "purchase",
-          "owner_name": "spouse",
-          "date": "2026-09-30",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 27,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. Darrell E. Issa",
@@ -584,28 +408,7 @@
       "filed": "2026-10-22",
       "doc_id": "20035700",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035700.pdf",
-      "trades": [
-        {
-          "ticker": null,
-          "asset": "US Treasury Note 3.375% due 09/15/28 CUSIP 91282CNY3",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-10-08",
-          "amount": "$5,000,001 - $25,000,000",
-          "days_to_disclose": 14,
-          "late": false
-        },
-        {
-          "ticker": null,
-          "asset": "US Treasury Note 3.375% due 09/15/28 CUSIP 91282CNY3",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-10-14",
-          "amount": "$5,000,001 - $25,000,000",
-          "days_to_disclose": 8,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Cleo Fields",
@@ -613,48 +416,7 @@
       "filed": "2026-10-22",
       "doc_id": "20035669",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035669.pdf",
-      "trades": [
-        {
-          "ticker": "NVDA",
-          "asset": "NVIDIA Corporation - Common Stock",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-10-01",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 21,
-          "late": false
-        },
-        {
-          "ticker": "NVDA",
-          "asset": "NVIDIA Corporation - Common Stock",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-10-01",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 21,
-          "late": false
-        },
-        {
-          "ticker": "NVDA",
-          "asset": "NVIDIA Corporation - Common Stock",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-10-01",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 21,
-          "late": false
-        },
-        {
-          "ticker": "TSM",
-          "asset": "Taiwan Semiconductor Manufacturing Company Ltd.",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-10-09",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 13,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. Rudy C. Yakym III",
@@ -846,38 +608,6 @@
       "filed": "2026-10-02",
       "doc_id": "20035558",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Nancy Pelosi",
-      "district": "CA11",
-      "filed": "2026-10-02",
-      "doc_id": "20035553",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035553.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Diana Harshbarger",
-      "district": "TN01",
-      "filed": "2026-10-01",
-      "doc_id": "9116357",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116357.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Diana Harshbarger",
-      "district": "TN01",
-      "filed": "2026-10-01",
-      "doc_id": "9116356",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116356.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Diana Harshbarger",
-      "district": "TN01",
-      "filed": "2026-10-01",
-      "doc_id": "9116355",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116355.pdf",
       "trades": []
     }
   ],
