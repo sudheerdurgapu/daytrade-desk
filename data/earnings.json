@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T06:30:19Z",
+  "generated_at": "2026-11-03T14:36:55Z",
   "status": "ok",
   "companies": [
     {
@@ -247,6 +247,25 @@
       "name": "Apple Inc.",
       "quarters": [
         {
+          "end": "2026-09-26",
+          "start": "2026-06-28",
+          "fiscal": "Q4 2026",
+          "derived": true,
+          "revenue": 114477000000,
+          "gross_profit": 54820000000,
+          "operating_income": 35631000000,
+          "net_income": 30711000000,
+          "eps_diluted": 2.11,
+          "gross_margin": 47.9,
+          "operating_margin": 31.1,
+          "net_margin": 26.8,
+          "revenue_yoy": 11.7,
+          "net_income_yoy": 11.8,
+          "eps_yoy": 14.7,
+          "filed": "2026-11-03",
+          "form": "10-K"
+        },
+        {
           "end": "2026-06-27",
           "start": "2026-03-29",
           "fiscal": "Q3 2026",
@@ -319,7 +338,7 @@
           "revenue_yoy": 7.9,
           "net_income_yoy": 86.4,
           "eps_yoy": 89.7,
-          "filed": "2025-10-31",
+          "filed": "2026-11-03",
           "form": "10-K"
         },
         {
@@ -339,25 +358,6 @@
           "net_income_yoy": 9.3,
           "eps_yoy": 12.1,
           "filed": "2026-07-31",
-          "form": "10-Q"
-        },
-        {
-          "end": "2025-03-29",
-          "start": "2024-12-29",
-          "fiscal": "Q2 2025",
-          "derived": false,
-          "revenue": 95359000000,
-          "gross_profit": 44867000000,
-          "operating_income": 29589000000,
-          "net_income": 24780000000,
-          "eps_diluted": 1.65,
-          "gross_margin": 47.1,
-          "operating_margin": 31.0,
-          "net_margin": 26.0,
-          "revenue_yoy": 5.1,
-          "net_income_yoy": 4.8,
-          "eps_yoy": 7.8,
-          "filed": "2026-05-01",
           "form": "10-Q"
         }
       ]

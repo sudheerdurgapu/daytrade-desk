@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-11-03T06:30:21Z",
+  "generated_at": "2026-11-03T14:36:56Z",
   "filings": [
+    {
+      "member": "Hon. Ann Wagner",
+      "district": "MO02",
+      "filed": "2026-11-02",
+      "doc_id": "20035751",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035751.pdf",
+      "trades": [
+        {
+          "ticker": null,
+          "asset": "American Expr Natl Bank CD",
+          "type_name": "partial sale",
+          "owner_name": "joint",
+          "date": "2026-10-20",
+          "amount": "$100,001 - $250,000",
+          "days_to_disclose": 13,
+          "late": false
+        }
+      ]
+    },
     {
       "member": "Hon. Donald Sternoff Beyer Jr",
       "district": "VA08",
@@ -373,18 +392,7 @@
       "filed": "2026-10-27",
       "doc_id": "20035714",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035714.pdf",
-      "trades": [
-        {
-          "ticker": null,
-          "asset": "Montego",
-          "type_name": "sale",
-          "owner_name": "joint",
-          "date": "2025-07-10",
-          "amount": "$15,001 - $50,000",
-          "days_to_disclose": 474,
-          "late": true
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. Pete Sessions",
@@ -600,14 +608,6 @@
       "filed": "2026-10-02",
       "doc_id": "9116361",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116361.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Michael Rulli",
-      "district": "OH06",
-      "filed": "2026-10-02",
-      "doc_id": "20035558",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035558.pdf",
       "trades": []
     }
   ],
