@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T07:50:09Z",
+  "generated_at": "2026-11-04T15:59:52Z",
   "status": "ok",
   "companies": [
     {
@@ -847,6 +847,25 @@
       "name": "ADVANCED MICRO DEVICES INC",
       "quarters": [
         {
+          "end": "2026-09-26",
+          "start": "2026-06-28",
+          "fiscal": "Q3 2026",
+          "derived": false,
+          "revenue": 13377000000,
+          "gross_profit": 7210000000,
+          "operating_income": 2832000000,
+          "net_income": 2428000000,
+          "eps_diluted": 1.46,
+          "gross_margin": 53.9,
+          "operating_margin": 21.2,
+          "net_margin": 18.2,
+          "revenue_yoy": 44.7,
+          "net_income_yoy": 95.3,
+          "eps_yoy": 94.7,
+          "filed": "2026-11-04",
+          "form": "10-Q"
+        },
+        {
           "end": "2026-06-27",
           "start": "2026-03-29",
           "fiscal": "Q2 2026",
@@ -919,7 +938,7 @@
           "revenue_yoy": 35.6,
           "net_income_yoy": 61.2,
           "eps_yoy": 59.6,
-          "filed": "2025-11-05",
+          "filed": "2026-11-04",
           "form": "10-Q"
         },
         {
@@ -939,25 +958,6 @@
           "net_income_yoy": 229.1,
           "eps_yoy": 237.5,
           "filed": "2026-08-05",
-          "form": "10-Q"
-        },
-        {
-          "end": "2025-03-29",
-          "start": "2024-12-29",
-          "fiscal": "Q1 2025",
-          "derived": false,
-          "revenue": 7438000000,
-          "gross_profit": 3736000000,
-          "operating_income": 806000000,
-          "net_income": 709000000,
-          "eps_diluted": 0.44,
-          "gross_margin": 50.2,
-          "operating_margin": 10.8,
-          "net_margin": 9.5,
-          "revenue_yoy": 35.9,
-          "net_income_yoy": 476.4,
-          "eps_yoy": 528.6,
-          "filed": "2026-05-06",
           "form": "10-Q"
         }
       ]

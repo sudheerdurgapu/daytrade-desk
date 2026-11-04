@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-11-04T07:50:09Z",
+  "generated_at": "2026-11-04T15:59:54Z",
   "filings": [
+    {
+      "member": "Hon. Robert E. Latta",
+      "district": "OH05",
+      "filed": "2026-11-03",
+      "doc_id": "20035763",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035763.pdf",
+      "trades": [
+        {
+          "ticker": "FMAO",
+          "asset": "Farmers & Merchants Bancorp, Inc.",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 14,
+          "late": false
+        }
+      ]
+    },
     {
       "member": "Hon. Ann Wagner",
       "district": "MO02",
@@ -363,28 +382,7 @@
       "filed": "2026-10-27",
       "doc_id": "20035715",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035715.pdf",
-      "trades": [
-        {
-          "ticker": null,
-          "asset": "AIX Ventures Fund II, LP (GLAS Funds, LP)",
-          "type_name": "partial sale",
-          "owner_name": "self",
-          "date": "2026-10-01",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 26,
-          "late": false
-        },
-        {
-          "ticker": null,
-          "asset": "Mercato Partners Traverse IV QP, LP (GLAS Funds, LP)",
-          "type_name": "partial sale",
-          "owner_name": "self",
-          "date": "2026-09-30",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 27,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. Jodey Arrington",
@@ -600,14 +598,6 @@
       "filed": "2026-10-05",
       "doc_id": "20035539",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035539.pdf",
-      "trades": []
-    },
-    {
-      "member": "Tony Wied",
-      "district": "WI08",
-      "filed": "2026-10-02",
-      "doc_id": "9116361",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116361.pdf",
       "trades": []
     }
   ],
