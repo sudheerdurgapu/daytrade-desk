@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T23:42:28Z",
+  "generated_at": "2026-11-07T04:56:49Z",
   "filings": [
     {
       "member": "Hon. Maria Elvira Salazar",
@@ -56,6 +56,45 @@
           "date": "2026-10-23",
           "amount": "$1,001 - $15,000",
           "days_to_disclose": 13,
+          "late": false
+        }
+      ]
+    },
+    {
+      "member": "Hon. Josh Gottheimer",
+      "district": "NJ05",
+      "filed": "2026-11-05",
+      "doc_id": "20035770",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf",
+      "trades": [
+        {
+          "ticker": "AMAT",
+          "asset": "Applied Materials, Inc. - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "joint",
+          "date": "2026-10-26",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 10,
+          "late": false
+        },
+        {
+          "ticker": "BHE",
+          "asset": "Benchmark Electronics, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "joint",
+          "date": "2026-10-12",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 24,
+          "late": false
+        },
+        {
+          "ticker": "TLK",
+          "asset": "PT Telekomunikasi Indonesia, Tbk",
+          "type_name": "sale",
+          "owner_name": "joint",
+          "date": "2026-10-15",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
           "late": false
         }
       ]
@@ -436,28 +475,7 @@
       "filed": "2026-10-28",
       "doc_id": "20035689",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035689.pdf",
-      "trades": [
-        {
-          "ticker": null,
-          "asset": "Black Belt Energy Gas Dist Ala Gas 05.00% 12/01/2035 Proj Rev BDS Ser. 2025 F",
-          "type_name": "purchase",
-          "owner_name": "joint",
-          "date": "2026-10-14",
-          "amount": "$250,001 - $500,000",
-          "days_to_disclose": 14,
-          "late": false
-        },
-        {
-          "ticker": null,
-          "asset": "Tennessee Energy Ac 5% Edr Idr Due 12/01/35",
-          "type_name": "sale",
-          "owner_name": "joint",
-          "date": "2026-10-14",
-          "amount": "$250,001 - $500,000",
-          "days_to_disclose": 14,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. Diana Harshbarger",
@@ -673,14 +691,6 @@
       "filed": "2026-10-07",
       "doc_id": "9116376",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Josh Gottheimer",
-      "district": "NJ05",
-      "filed": "2026-10-07",
-      "doc_id": "20035590",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035590.pdf",
       "trades": []
     }
   ],
