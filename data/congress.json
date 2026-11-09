@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-11-09T10:59:15Z",
+  "generated_at": "2026-11-09T21:23:52Z",
   "filings": [
+    {
+      "member": "Hon. Nancy Pelosi",
+      "district": "CA11",
+      "filed": "2026-11-06",
+      "doc_id": "20035780",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035780.pdf",
+      "trades": [
+        {
+          "ticker": "WBD",
+          "asset": "Warner Bros. Discovery, Inc. - Series A Common Stock",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-10-07",
+          "amount": "$50,001 - $100,000",
+          "days_to_disclose": 30,
+          "late": false
+        }
+      ]
+    },
+    {
+      "member": "Hon. John J Mr McGuire III",
+      "district": "VA05",
+      "filed": "2026-11-06",
+      "doc_id": "20035775",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035775.pdf",
+      "trades": [
+        {
+          "ticker": "WDC",
+          "asset": "Western Digital Corporation - Common Stock",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-10-15",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 22,
+          "late": false
+        }
+      ]
+    },
+    {
+      "member": "Hon. Rohit Khanna",
+      "district": "CA17",
+      "filed": "2026-11-05",
+      "doc_id": "9116399",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116399.pdf",
+      "trades": []
+    },
     {
       "member": "Hon. Maria Elvira Salazar",
       "district": "FL27",
@@ -278,68 +324,7 @@
       "filed": "2026-10-30",
       "doc_id": "20035591",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035591.pdf",
-      "trades": [
-        {
-          "ticker": "ABT",
-          "asset": "Abbott Laboratories Common Stock",
-          "type_name": "partial sale",
-          "owner_name": "self",
-          "date": "2026-09-17",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 43,
-          "late": false
-        },
-        {
-          "ticker": "ESAB",
-          "asset": "ESAB Corporation Common Stock",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-09-29",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 31,
-          "late": false
-        },
-        {
-          "ticker": "JNJ",
-          "asset": "Johnson & Johnson Common Stock",
-          "type_name": "partial sale",
-          "owner_name": "self",
-          "date": "2026-09-30",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 30,
-          "late": false
-        },
-        {
-          "ticker": "MDLZ",
-          "asset": "Mondelez International, Inc. - Class A Common Stock",
-          "type_name": "partial sale",
-          "owner_name": "self",
-          "date": "2026-09-23",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 37,
-          "late": false
-        },
-        {
-          "ticker": "SYK",
-          "asset": "Stryker Corporation Common Stock",
-          "type_name": "partial sale",
-          "owner_name": "self",
-          "date": "2026-09-30",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 30,
-          "late": false
-        },
-        {
-          "ticker": "TXN",
-          "asset": "Texas Instruments Incorporated - Common Stock",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-09-17",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 43,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. David J. Taylor",
@@ -347,88 +332,7 @@
       "filed": "2026-10-29",
       "doc_id": "20035727",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035727.pdf",
-      "trades": [
-        {
-          "ticker": "T",
-          "asset": "AT&T Inc.",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-10-15",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 14,
-          "late": false
-        },
-        {
-          "ticker": "LRCX",
-          "asset": "Lam Research Corporation - Common Stock",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-10-15",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 14,
-          "late": false
-        },
-        {
-          "ticker": "MPC",
-          "asset": "Marathon Petroleum Corporation Common Stock",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-10-15",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 14,
-          "late": false
-        },
-        {
-          "ticker": "MPC",
-          "asset": "Marathon Petroleum Corporation Common Stock",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-10-15",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 14,
-          "late": false
-        },
-        {
-          "ticker": "PLD",
-          "asset": "Prologis, Inc. Common Stock",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-10-15",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 14,
-          "late": false
-        },
-        {
-          "ticker": "PLD",
-          "asset": "Prologis, Inc. Common Stock",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-10-15",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 14,
-          "late": false
-        },
-        {
-          "ticker": "RPM",
-          "asset": "RPM International Inc. Common Stock",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-10-15",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 14,
-          "late": false
-        },
-        {
-          "ticker": "V",
-          "asset": "Visa Inc.",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-10-15",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 14,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. Kevin Hern",
@@ -436,38 +340,7 @@
       "filed": "2026-10-28",
       "doc_id": "20035710",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035710.pdf",
-      "trades": [
-        {
-          "ticker": "ASML",
-          "asset": "ASML Holding N.V. - New York Registry Shares",
-          "type_name": "partial sale",
-          "owner_name": "joint",
-          "date": "2026-10-23",
-          "amount": "$15,001 - $50,000",
-          "days_to_disclose": 5,
-          "late": false
-        },
-        {
-          "ticker": "STX",
-          "asset": "Seagate Technology Holdings PLC - Ordinary Shares",
-          "type_name": "partial sale",
-          "owner_name": "self",
-          "date": "2026-10-23",
-          "amount": "$15,001 - $50,000",
-          "days_to_disclose": 5,
-          "late": false
-        },
-        {
-          "ticker": "TXN",
-          "asset": "Texas Instruments Incorporated - Common Stock",
-          "type_name": "partial sale",
-          "owner_name": "joint",
-          "date": "2026-10-14",
-          "amount": "$15,001 - $50,000",
-          "days_to_disclose": 14,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. Suzan K. DelBene",
@@ -667,30 +540,6 @@
       "filed": "2026-10-12",
       "doc_id": "20035635",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035635.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Gilbert Cisneros",
-      "district": "CA31",
-      "filed": "2026-10-12",
-      "doc_id": "20035622",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035622.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Lisa McClain",
-      "district": "MI09",
-      "filed": "2026-10-12",
-      "doc_id": "20035585",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035585.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Rohit Khanna",
-      "district": "CA17",
-      "filed": "2026-10-07",
-      "doc_id": "9116376",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116376.pdf",
       "trades": []
     }
   ],
