@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-11-10T12:14:14Z",
+  "generated_at": "2026-11-10T19:55:13Z",
   "filings": [
+    {
+      "member": "Hon. Thomas Suozzi",
+      "district": "NY03",
+      "filed": "2026-11-09",
+      "doc_id": "20035014",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035014.pdf",
+      "trades": [
+        {
+          "ticker": null,
+          "asset": "US Treasury Bill",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-13",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 27,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "US Treasury Bill",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-15",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 25,
+          "late": false
+        }
+      ]
+    },
+    {
+      "member": "Hon. David Kustoff",
+      "district": "TN08",
+      "filed": "2026-11-09",
+      "doc_id": "20024921",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20024921.pdf",
+      "trades": [
+        {
+          "ticker": "WBD",
+          "asset": "Warner Bros. Discovery, Inc. - Series A Common Stock",
+          "type_name": "sale",
+          "owner_name": "joint",
+          "date": "2026-10-07",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 33,
+          "late": false
+        }
+      ]
+    },
     {
       "member": "Hon. Nancy Pelosi",
       "district": "CA11",
@@ -256,48 +304,7 @@
       "filed": "2026-11-01",
       "doc_id": "20035484",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf",
-      "trades": [
-        {
-          "ticker": "AVGO",
-          "asset": "Broadcom Inc. - Common Stock",
-          "type_name": "partial sale",
-          "owner_name": "spouse",
-          "date": "2026-09-24",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 38,
-          "late": false
-        },
-        {
-          "ticker": "MU",
-          "asset": "Micron Technology, Inc. - Common Stock",
-          "type_name": "purchase",
-          "owner_name": "spouse",
-          "date": "2026-09-24",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 38,
-          "late": false
-        },
-        {
-          "ticker": "MU",
-          "asset": "Micron Technology, Inc. - Common Stock",
-          "type_name": "purchase",
-          "owner_name": "spouse",
-          "date": "2026-09-25",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 37,
-          "late": false
-        },
-        {
-          "ticker": "MU",
-          "asset": "Micron Technology, Inc. - Common Stock",
-          "type_name": "purchase",
-          "owner_name": "spouse",
-          "date": "2026-10-01",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 31,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. Carol Devine Miller",
@@ -305,18 +312,7 @@
       "filed": "2026-10-30",
       "doc_id": "20035734",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035734.pdf",
-      "trades": [
-        {
-          "ticker": "HONA",
-          "asset": "Honeywell Aerospace Inc. - Common Stock",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-09-29",
-          "amount": "$710.52",
-          "days_to_disclose": 31,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. Thomas H. Kean Jr",
@@ -524,22 +520,6 @@
       "filed": "2026-10-14",
       "doc_id": "20035487",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035487.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Kevin Hern",
-      "district": "OK01",
-      "filed": "2026-10-13",
-      "doc_id": "20035588",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035588.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Rick Larsen",
-      "district": "WA02",
-      "filed": "2026-10-12",
-      "doc_id": "20035635",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035635.pdf",
       "trades": []
     }
   ],
