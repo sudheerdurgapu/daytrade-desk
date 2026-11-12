@@ -1,6 +1,692 @@
 {
-  "generated_at": "2026-11-11T22:07:58Z",
+  "generated_at": "2026-11-12T03:15:10Z",
   "filings": [
+    {
+      "member": "Hon. Charles J. \"Chuck\" Fleischmann",
+      "district": "TN03",
+      "filed": "2026-11-10",
+      "doc_id": "9116403",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116403.pdf",
+      "trades": []
+    },
+    {
+      "member": "Hon. Julie Johnson",
+      "district": "TX32",
+      "filed": "2026-11-10",
+      "doc_id": "20035806",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035806.pdf",
+      "trades": [
+        {
+          "ticker": "WBD",
+          "asset": "Warner Bros. Discovery, Inc. - Series A Common Stock",
+          "type_name": "sale",
+          "owner_name": "joint",
+          "date": "2026-10-07",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 34,
+          "late": false
+        }
+      ]
+    },
+    {
+      "member": "Hon. Gilbert Cisneros",
+      "district": "CA31",
+      "filed": "2026-11-10",
+      "doc_id": "20035788",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf",
+      "trades": [
+        {
+          "ticker": "ARE",
+          "asset": "Alexandria Real Estate Equities, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "LNT",
+          "asset": "Alliant Energy Corporation",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "APP",
+          "asset": "Applovin Corporation - Class A Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "self",
+          "date": "2026-10-14",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 27,
+          "late": false
+        },
+        {
+          "ticker": "APP",
+          "asset": "Applovin Corporation - Class A Common Stock",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "ARGX",
+          "asset": "argenx SE - American Depositary Shares",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-15",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 26,
+          "late": false
+        },
+        {
+          "ticker": "ARGX",
+          "asset": "argenx SE - American Depositary Shares",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-14",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 27,
+          "late": false
+        },
+        {
+          "ticker": "ARGX",
+          "asset": "argenx SE - American Depositary Shares",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-27",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 14,
+          "late": false
+        },
+        {
+          "ticker": "BNS",
+          "asset": "Bank Nova Scotia Halifax Pfd 3 Ordinary Shares",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-09",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 32,
+          "late": false
+        },
+        {
+          "ticker": "BNPQF",
+          "asset": "BNP PARIBAS ORD",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-13",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 28,
+          "late": false
+        },
+        {
+          "ticker": "BBIO",
+          "asset": "BridgeBio Pharma, Inc. - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-27",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 14,
+          "late": false
+        },
+        {
+          "ticker": "BBIO",
+          "asset": "BridgeBio Pharma, Inc. - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-11-02",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 8,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "California Community Choice Financing Authority Rev Bonds",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-19",
+          "amount": "$250,001 - $500,000",
+          "days_to_disclose": 22,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "California Health Facilities Financing Authority Rev Bonds",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-23",
+          "amount": "$250,001 - $500,000",
+          "days_to_disclose": 18,
+          "late": false
+        },
+        {
+          "ticker": "CF",
+          "asset": "CF Industries Holdings, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "CMG",
+          "asset": "Chipotle Mexican Grill, Inc. Common Stock",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "CIEN",
+          "asset": "Ciena Corporation",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-21",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 20,
+          "late": false
+        },
+        {
+          "ticker": "CINF",
+          "asset": "Cincinnati Financial Corporation - Common Stock",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "CSCO",
+          "asset": "Cisco Systems, Inc. - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "CMS",
+          "asset": "CMS Energy Corporation Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "CMCSA",
+          "asset": "Comcast Corporation - Class A Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "CTVA",
+          "asset": "Corteva, Inc. Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "self",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 27,
+          "late": false
+        },
+        {
+          "ticker": "EIX",
+          "asset": "Edison International Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "LLY",
+          "asset": "Eli Lilly and Company Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "ENGQF",
+          "asset": "ENGIE SA ORD",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-13",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 28,
+          "late": false
+        },
+        {
+          "ticker": "FIS",
+          "asset": "Fidelity National Information Services, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "FOXA",
+          "asset": "Fox Corporation - Class A Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "GIS",
+          "asset": "General Mills, Inc. Common Stock",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "HD",
+          "asset": "Home Depot, Inc.",
+          "type_name": "partial sale",
+          "owner_name": "self",
+          "date": "2026-10-06",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 35,
+          "late": false
+        },
+        {
+          "ticker": "ILMN",
+          "asset": "Illumina, Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "self",
+          "date": "2026-10-27",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 14,
+          "late": false
+        },
+        {
+          "ticker": "PODD",
+          "asset": "Insulet Corporation - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "LNTH",
+          "asset": "Lantheus Holdings, Inc. - Common Stock",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-15",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 26,
+          "late": false
+        },
+        {
+          "ticker": "LNTH",
+          "asset": "Lantheus Holdings, Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "self",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 27,
+          "late": false
+        },
+        {
+          "ticker": "LITE",
+          "asset": "Lumentum Holdings Inc. - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "MTSI",
+          "asset": "MACOM Technology Solutions Holdings, Inc. - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-27",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 14,
+          "late": false
+        },
+        {
+          "ticker": "META",
+          "asset": "Meta Platforms, Inc. - Class A Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-09",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 32,
+          "late": false
+        },
+        {
+          "ticker": "MICR",
+          "asset": "Micron Solutions, Inc.",
+          "type_name": "partial sale",
+          "owner_name": "self",
+          "date": "2026-10-21",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 20,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "Milwaukee, Wisconsin GO Promissory Notes Series N2",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-13",
+          "amount": "$100,001 - $250,000",
+          "days_to_disclose": 28,
+          "late": false
+        },
+        {
+          "ticker": "MBGL",
+          "asset": "Mobility Global Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-15",
+          "amount": "$50,001 - $100,000",
+          "days_to_disclose": 26,
+          "late": false
+        },
+        {
+          "ticker": "MRNA",
+          "asset": "Moderna, Inc. - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "MRAAF",
+          "asset": "Murata Manufacturing Ordinary Shares",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-08",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 33,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "New York Liberty Development Corporation Revenue Bonds",
+          "type_name": "partial sale",
+          "owner_name": "self",
+          "date": "2026-10-13",
+          "amount": "$50,001 - $100,000",
+          "days_to_disclose": 28,
+          "late": false
+        },
+        {
+          "ticker": "NCLH",
+          "asset": "Norwegian Cruise Line Holdings Ltd. Ordinary Shares",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "NVDA",
+          "asset": "NVIDIA Corporation - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "ON",
+          "asset": "ON Semiconductor Corporation - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 27,
+          "late": false
+        },
+        {
+          "ticker": "PTC",
+          "asset": "PTC Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "self",
+          "date": "2026-10-27",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 14,
+          "late": false
+        },
+        {
+          "ticker": "O",
+          "asset": "Realty Income Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "RVTY",
+          "asset": "Revvity, Inc. Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "self",
+          "date": "2026-10-27",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 14,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "San Mateo Foster City, CA, Pub. Financing Auth. Rev. Bonds",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-27",
+          "amount": "$100,001 - $250,000",
+          "days_to_disclose": 14,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "San Ramon Valley CA Fire Protection District Cert of Participation",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-11-04",
+          "amount": "$250,001 - $500,000",
+          "days_to_disclose": 6,
+          "late": false
+        },
+        {
+          "ticker": "NOW",
+          "asset": "ServiceNow, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-21",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 20,
+          "late": false
+        },
+        {
+          "ticker": "SNEJF",
+          "asset": "SONY GROUP CORP",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 27,
+          "late": false
+        },
+        {
+          "ticker": "SARO",
+          "asset": "StandardAero, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 27,
+          "late": false
+        },
+        {
+          "ticker": "STRC",
+          "asset": "2000164032 Strategy Inc - Variable Rate Series A Perpetual Stretch Preferred Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-06-05",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 158,
+          "late": true
+        },
+        {
+          "ticker": "STRC",
+          "asset": "Strategy Inc - Variable Rate Series A Perpetual Stretch Preferred Stock",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-15",
+          "amount": "$50,001 - $100,000",
+          "days_to_disclose": 26,
+          "late": false
+        },
+        {
+          "ticker": "TXRH",
+          "asset": "Texas Roadhouse, Inc. - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-16",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 25,
+          "late": false
+        },
+        {
+          "ticker": "CPB",
+          "asset": "The Campbell's Company - Common Stock",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "COO",
+          "asset": "The Cooper Companies, Inc.",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 27,
+          "late": false
+        },
+        {
+          "ticker": "TTD",
+          "asset": "The Trade Desk, Inc. - Class A Common Stock",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "TKO",
+          "asset": "TKO Group Holdings, Inc. Class A Common Stock",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-06",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 35,
+          "late": false
+        },
+        {
+          "ticker": "TOELF",
+          "asset": "Tokyo Electron Ltd Ordinary Shares",
+          "type_name": "partial sale",
+          "owner_name": "self",
+          "date": "2026-10-23",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 18,
+          "late": false
+        },
+        {
+          "ticker": "TOELF",
+          "asset": "Tokyo Electron Ltd Ordinary Shares",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-30",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 11,
+          "late": false
+        },
+        {
+          "ticker": "UBER",
+          "asset": "Uber Technologies, Inc. Common Stock",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": "WBD",
+          "asset": "Warner Bros. Discovery, Inc. - Series A Common Stock",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-07",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 34,
+          "late": false
+        },
+        {
+          "ticker": "WFC",
+          "asset": "Wells Fargo & Company Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 21,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "Wisconsin State Health & Educational Facilities Authority Rev. Bonds",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-09",
+          "amount": "$250,001 - $500,000",
+          "days_to_disclose": 32,
+          "late": false
+        }
+      ]
+    },
     {
       "member": "Hon. Thomas Suozzi",
       "district": "NY03",
@@ -247,18 +933,7 @@
       "filed": "2026-11-03",
       "doc_id": "20035763",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035763.pdf",
-      "trades": [
-        {
-          "ticker": "FMAO",
-          "asset": "Farmers & Merchants Bancorp, Inc.",
-          "type_name": "purchase",
-          "owner_name": "spouse",
-          "date": "2026-10-20",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 14,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. Ann Wagner",
@@ -266,18 +941,7 @@
       "filed": "2026-11-02",
       "doc_id": "20035751",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035751.pdf",
-      "trades": [
-        {
-          "ticker": null,
-          "asset": "American Expr Natl Bank CD",
-          "type_name": "partial sale",
-          "owner_name": "joint",
-          "date": "2026-10-20",
-          "amount": "$100,001 - $250,000",
-          "days_to_disclose": 13,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. Donald Sternoff Beyer Jr",
@@ -285,18 +949,7 @@
       "filed": "2026-11-01",
       "doc_id": "20035743",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035743.pdf",
-      "trades": [
-        {
-          "ticker": null,
-          "asset": "California CMNTY VAR 11/01/54",
-          "type_name": "purchase",
-          "owner_name": "joint",
-          "date": "2026-10-07",
-          "amount": "$15,001 - $50,000",
-          "days_to_disclose": 25,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. John J Mr McGuire III",
@@ -496,30 +1149,6 @@
       "filed": "2026-10-14",
       "doc_id": "20035651",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035651.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Richard W. Allen",
-      "district": "GA12",
-      "filed": "2026-10-14",
-      "doc_id": "20035648",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035648.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Suzan K. DelBene",
-      "district": "WA01",
-      "filed": "2026-10-14",
-      "doc_id": "20035627",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035627.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Daniel Meuser",
-      "district": "PA09",
-      "filed": "2026-10-14",
-      "doc_id": "20035487",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035487.pdf",
       "trades": []
     }
   ],
