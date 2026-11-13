@@ -1,6 +1,205 @@
 {
-  "generated_at": "2026-11-13T15:56:59Z",
+  "generated_at": "2026-11-13T21:51:20Z",
   "filings": [
+    {
+      "member": "Hon. David J. Taylor",
+      "district": "OH02",
+      "filed": "2026-11-12",
+      "doc_id": "20035831",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+      "trades": [
+        {
+          "ticker": "GOOGL",
+          "asset": "Alphabet Inc. - Class A Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-11-03",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 9,
+          "late": false
+        },
+        {
+          "ticker": "GOOGL",
+          "asset": "Alphabet Inc. - Class A Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-11-03",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 9,
+          "late": false
+        },
+        {
+          "ticker": "AMGN",
+          "asset": "Amgen Inc. - Common Stock",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-11-03",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 9,
+          "late": false
+        },
+        {
+          "ticker": "AMGN",
+          "asset": "Amgen Inc. - Common Stock",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-11-03",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 9,
+          "late": false
+        },
+        {
+          "ticker": "T",
+          "asset": "AT&T Inc.",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-11-03",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 9,
+          "late": false
+        },
+        {
+          "ticker": "T",
+          "asset": "AT&T Inc.",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-11-03",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 9,
+          "late": false
+        },
+        {
+          "ticker": "AVGO",
+          "asset": "Broadcom Inc. - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-11-05",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 7,
+          "late": false
+        },
+        {
+          "ticker": "ETN",
+          "asset": "Eaton Corporation, PLC Ordinary Shares",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-11-03",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 9,
+          "late": false
+        },
+        {
+          "ticker": "ETN",
+          "asset": "Eaton Corporation, PLC Ordinary Shares",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-11-03",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 9,
+          "late": false
+        },
+        {
+          "ticker": "LLY",
+          "asset": "Eli Lilly and Company Common Stock",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-11-03",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 9,
+          "late": false
+        },
+        {
+          "ticker": "LLY",
+          "asset": "Eli Lilly and Company Common Stock",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-11-03",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 9,
+          "late": false
+        },
+        {
+          "ticker": "HD",
+          "asset": "Home Depot, Inc.",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-11-05",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 7,
+          "late": false
+        },
+        {
+          "ticker": "IBP",
+          "asset": "Installed Building Products, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-11-03",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 9,
+          "late": false
+        },
+        {
+          "ticker": "KR",
+          "asset": "Kroger Company",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-11-03",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 9,
+          "late": false
+        },
+        {
+          "ticker": "KR",
+          "asset": "Kroger Company",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-11-03",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 9,
+          "late": false
+        },
+        {
+          "ticker": "LRCX",
+          "asset": "Lam Research Corporation - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-11-05",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 7,
+          "late": false
+        },
+        {
+          "ticker": "PG",
+          "asset": "Procter & Gamble Company",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-11-05",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 7,
+          "late": false
+        },
+        {
+          "ticker": "V",
+          "asset": "Visa Inc.",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-11-03",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 9,
+          "late": false
+        },
+        {
+          "ticker": "V",
+          "asset": "Visa Inc.",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-11-03",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 9,
+          "late": false
+        }
+      ]
+    },
     {
       "member": "Hon. Lloyd Doggett",
       "district": "TX37",
@@ -904,38 +1103,7 @@
       "filed": "2026-11-05",
       "doc_id": "20035770",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf",
-      "trades": [
-        {
-          "ticker": "AMAT",
-          "asset": "Applied Materials, Inc. - Common Stock",
-          "type_name": "purchase",
-          "owner_name": "joint",
-          "date": "2026-10-26",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 10,
-          "late": false
-        },
-        {
-          "ticker": "BHE",
-          "asset": "Benchmark Electronics, Inc. Common Stock",
-          "type_name": "purchase",
-          "owner_name": "joint",
-          "date": "2026-10-12",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 24,
-          "late": false
-        },
-        {
-          "ticker": "TLK",
-          "asset": "PT Telekomunikasi Indonesia, Tbk",
-          "type_name": "sale",
-          "owner_name": "joint",
-          "date": "2026-10-15",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 21,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. Daniel Meuser",
@@ -1151,14 +1319,6 @@
       "filed": "2026-10-15",
       "doc_id": "20035637",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035637.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Michael T. McCaul",
-      "district": "TX10",
-      "filed": "2026-10-14",
-      "doc_id": "9116378",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116378.pdf",
       "trades": []
     }
   ],
