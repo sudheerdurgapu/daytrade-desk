@@ -1,6 +1,64 @@
 {
-  "generated_at": "2026-11-12T19:37:27Z",
+  "generated_at": "2026-11-13T00:55:29Z",
   "filings": [
+    {
+      "member": "Hon. Lloyd Doggett",
+      "district": "TX37",
+      "filed": "2026-11-11",
+      "doc_id": "20035826",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035826.pdf",
+      "trades": [
+        {
+          "ticker": "KO",
+          "asset": "Coca-Cola Company",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-01",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 41,
+          "late": false
+        }
+      ]
+    },
+    {
+      "member": "Hon. Richard W. Allen",
+      "district": "GA12",
+      "filed": "2026-11-11",
+      "doc_id": "20035821",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf",
+      "trades": [
+        {
+          "ticker": "SHW",
+          "asset": "Sherwin-Williams Company",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-10-09",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 33,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "US Treasury Note 3.5% DUE 1/31/30 (91282CGJ4)",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-02",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "US Treasury Note 4% DUE 7/31/29 (91282CLC3)",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-02",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 40,
+          "late": false
+        }
+      ]
+    },
     {
       "member": "Hon. Charles J. \"Chuck\" Fleischmann",
       "district": "TN03",
@@ -885,18 +943,7 @@
       "filed": "2026-11-05",
       "doc_id": "20035662",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035662.pdf",
-      "trades": [
-        {
-          "ticker": "NVDA",
-          "asset": "NVIDIA Corporation - Common Stock",
-          "type_name": "partial sale",
-          "owner_name": "spouse",
-          "date": "2026-09-25",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 41,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. Mike Kelly",
@@ -904,28 +951,7 @@
       "filed": "2026-11-04",
       "doc_id": "20035765",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035765.pdf",
-      "trades": [
-        {
-          "ticker": null,
-          "asset": "Fairfax Cnty VA Ser A Go",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-15",
-          "amount": "$50,001 - $100,000",
-          "days_to_disclose": 20,
-          "late": false
-        },
-        {
-          "ticker": null,
-          "asset": "North Carolina Hsg Fin Agy Hom S",
-          "type_name": "purchase",
-          "owner_name": "spouse",
-          "date": "2026-10-01",
-          "amount": "$50,001 - $100,000",
-          "days_to_disclose": 34,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. Robert E. Latta",
@@ -1133,22 +1159,6 @@
       "filed": "2026-10-14",
       "doc_id": "9116378",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116378.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Mike Kelly",
-      "district": "PA16",
-      "filed": "2026-10-14",
-      "doc_id": "20035652",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035652.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Richard Dean Dr McCormick",
-      "district": "GA06",
-      "filed": "2026-10-14",
-      "doc_id": "20035651",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035651.pdf",
       "trades": []
     }
   ],
