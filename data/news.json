@@ -1,6 +1,818 @@
 {
-  "generated_at": "2026-11-14T15:37:01Z",
+  "generated_at": "2026-11-14T20:28:14Z",
   "items": [
+    {
+      "title": "Solana vs Ethereum: Which Could Bounce Back Faster in 2027? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR05adUc4T2E2RHlKbU9YRUdaYTJuMDlpWmFUaE1vZEs2NkxLSmdUTlZvcmVzMGlPcXdtUURESGtfQ3lhWjFsbHNuOG5QZ2ZWVVBhOU90SHA0RDlIVE53MGRkNUlnNnRucloyX01lUDkzUWdKQ3pkVTNTMWdEblYxTmVRSGRJM1JsLVdCdFkwdUUwdU1QZlZ2VUFUckd2Y0YzOTlpbkp3QVBGOUx1MVBBRkRwbWNhOUk?oc=5",
+      "source": "24/7 Wall St.",
+      "time": 1794687780,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "What Happens if Bitcoin Falls Below $65,000? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYU5FLVVqc3hPOGpWOFBKZjNqSDlKZ0dUMFJseXR1X2twNXpHdjlFa1lQc25mRjJaU0dGUmpEMVBKVDlIYVlFSVRvNkRnRVRkRWNMaGJGQjUzQlRQUlZFdGw3QXo5V3RQV25tOTZ6aDktdVM0S1ZhRGQxQnJWSFhnOUJ5alNnNHlRdDhDMmhlV3Z0cWd4MnREU0lscw?oc=5",
+      "source": "Yahoo Finance",
+      "time": 1794686824,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "What Happens if Bitcoin Falls Below $65,000? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkIyTGJvcWdhbmNFRzltMnVETEU0N3NrRE5BVGtCRlNqV2VhM2hDMlRxLU03aDBBZ25BOFd3RkpzSXBlUVMwdFNsbVE4T0hPUmJNVkRaaE9FWUMwdjFmRmRTWmZKLXg2M3RLbWxZZVpaN2pmdXphU2hmT3RNYmd2YU1veVltM3VCc0pZVjh2b2djdGt2cUs4Vk9HRmZEYzA1cEE?oc=5",
+      "source": "24/7 Wall St.",
+      "time": 1794686820,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Which Crypto Use Cases Are Actually Growing? Jeff Dorman Says Bitcoin Isn\u2019t One - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3BGOGFqeUZRZ3NqR09qcXVjNGdwT3V6YWFLd0h1TlppV01wOUxhRFZCckdCYUtWMjByQjV5eWFfVkJGbkEtV3VkS2tSandNWlNrN0VKdU00czcxbEJlS2k2S2pyX2RSb0l1YnU0SHdNN05XMjQ2X2VZR2ZGY29GWFhjTzVQb0Fn?oc=5",
+      "source": "Yahoo Finance",
+      "time": 1794686427,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "XRP price prediction \u2014 These TWO factors can help altcoin reclaim $1.2-level - AMBCrypto",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0o1VXpidXllUnQxVFpMM1NJVnNFTDNsamRjcDRLX3Z6eWx0VmpVXzRlQmJqVHF6U1F6bFBJYlhDdUpRUWVISmdyWmNBLWU0REt1a1NoN05UX3RnejgzSlFOYUU2Z3BtcDlRVG9KRmhKbFJ6RTNaQmJaUjBNZ0NncWhBVkdybGsxM0RCR1AtQkVKUEtaNUlTLWExRkQ?oc=5",
+      "source": "AMBCrypto",
+      "time": 1794686423,
+      "asset": "XRP",
+      "tags": []
+    },
+    {
+      "title": "The Chinese spy allegation that toppled Nvidia's CEO is starting to look shaky - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWTNUMDdhTjZBOXhTMUpjTVZsdm9oM1hDRkdhblZHTTlEbzFlbVgxN0VtUVdXMlVNSDNaSldFTS1VdkhpUzBvZ0x4SUxRbWV5SHVMc0RUNmt3dUxUTHJEVGF3RHdxbER1V1dxVU9hY0g1dEpZdE1WVGVQNlFCRlY4S1VqaVN2aG9zazBGUDJwZWt1WHcwai14X0ZhNkhoeXNUcG83Zw?oc=5",
+      "source": "Business Insider",
+      "time": 1794686400,
+      "asset": "NVDA",
+      "tags": []
+    },
+    {
+      "title": "Solana News: DTCC Plans to Bring Tokenized Securities to Solana as Remittix Sets a Planned $0.46 RTX Listing Price - StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMGcyd0tqTVd0Mlh2T2k0NEFOS3lodjJQVjJOYXZZUHRWN1ZqMEVLLUxOZWRMZWQwclZwa2Z6U2VWZzlLQ0tjNkxOeUg1b003UjNsdk5XSjVUZ2dOQWRTVm5ONGE1N0NVbFVuYVlPcU5mZUExY0tUdWlENnF3bkNQOVZwUUxBZE9HMnM5ZTRGcDBZQUkzQlRPVGRyZDhndHptUmIwSm9pUjNhWXBERF81TjlVMmIxME9qSUREWHpBaVp1ckx5Y1VrUnRyQjdnM0FwcGRuN2M4QVVSTklBSzBuYS1hR2tvUWdrSVoxMVZ0SVlGUUFpc2VDY1N0ZkVkdklFeDdNVE5FRjBaQQ?oc=5",
+      "source": "StreetInsider",
+      "time": 1794686204,
+      "asset": "SOL",
+      "tags": [
+        "listing"
+      ]
+    },
+    {
+      "title": "Does Dogecoin Have a Future After This Crash? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNWd3QktaUGRKWGtiOGlwNmo1dzFPNUt1SVZtbUVIR203aGVORzdlQU1oazB3N3IwLVFVQVByN2RFTjdkdTlEaU0wdmhuNjhEcUJ2LXVmRHNzR0hvckhqU0Q2aU9GQkRBZURtRzJ6MnM1dkI0bF9lQTNtdGdob0hSeko0X0RGU25RT3dKUEFHUFcyVk9IeklhMk85V0Q0UW0zeXEzWEFn?oc=5",
+      "source": "24/7 Wall St.",
+      "time": 1794685740,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Analyst Explains Why Bitcoin Dumped to $65K on Saturday: Details - CryptoPotato",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMEdBaENodW1hNGIxSlZSLTRRc0d2LW55NHhENHNUbkRYR2xoNlA0aUdvOUFUNE01VjFRUVBHS216RG1ZbUY5X0ZnOUwtRFRiUU9ScUhVLU5jLU1uVnRaaXVjN0tNblpXWVpRZ0JfcHVabXh4YndJc3dLRnVrNGZiblVyc3BpOGl6VjJnSmdQaWt4dw?oc=5",
+      "source": "CryptoPotato",
+      "time": 1794685620,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Riverside County Gas Prices Still Falling - MyNewsLA.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWkZwNDQ0RlBEaDdBOE5FWVREQ3FUOXEzdklQYTkzN0ZJS3ZDa25zS0JncGk5MG5mUVdMRDlRUmhhTjJFZ041clFHS1hCbDB0czVpalJ3dzNoMWZjUzdDWUMzdEhXd09Ud0Q3MVVjNG1oODl3UmRrLTY5WGtwSWx4QlQwamszUnFHT0RuODg4NA?oc=5",
+      "source": "MyNewsLA.com",
+      "time": 1794685338,
+      "asset": "NATGAS",
+      "tags": []
+    },
+    {
+      "title": "Meta (NASDAQ:META) Connects The World: What Comes Next? - Kalkine Media",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYXgwXzdqZC1GWkdIYTJmUHBfWUc0RzA0S0FCTDNnS01CbDZHb0hGU0hVMUlvMF83OElWZmY4OGVrTnhETEZXZ3REanQzSnc1RUJWSV96cEJucUw4Q3ZtZkJ0S1VPRXQwdHNURVhBaXRjYVM1MEwzSGtyeGVSV0NoaXMxaDhTOHR1cmM5bzBLVjRoMENrQVRYZ3JsSDlKTmwx?oc=5",
+      "source": "Kalkine Media",
+      "time": 1794685320,
+      "asset": "META",
+      "tags": []
+    },
+    {
+      "title": "Will the CLARITY Act Pass Before the New Congress Takes Over in January? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMUlteERUN0tjZDhPSWxWWFZGMmdNb3ZaU1RfTW93THhDT2d6VzI1OTktQ3Mtdk0xdmZmSThHT2Q1Ul94Q0pJS0V1dFU1ZFNiTk05dDB3Zmc1Z2ZEMDlSUW1ibjZtNkJzRlVYR25PczVmOW1mSW9BLU1HaEtwMDVNZks2c09aWVpaUXY2bkMtRDlsc0JUREM1ZnBjMkFheWdqeUs2NWQwMFY2cmF5WXZTZmExb1M2MnhZejZDWmVtTGRDZDQ4TjNHOG5B?oc=5",
+      "source": "24/7 Wall St.",
+      "time": 1794684780,
+      "asset": "ETH",
+      "tags": []
+    },
+    {
+      "title": "Crypto Update: Ethereum Tests Glamsterdam as Remittix Earn Goes Live With Up to 21.4% APY - StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZVZLLU5rZzlsTlBKRmNZbHZrQ2cwdDQ3eDc1NEtkZTZodzR0bDhRYk9PaENvWDA5QUFSME4wbG50elNWejJndDVzLVp5U2tqRi1Yd1Mzd3lQc09PQmVrc0x0UDJ5clJpVHI4aksydG1qUjRsWTNCcWU2OUhiT3VmQXNLVU5ZSE5taDd3Y3hQckhGZzdfWDhOTkZfX3lSbXY0YjBDZm9JU3d3UWstT0R6T1lna0ViSEEwVUM0b25lam9fcUgyTnNlbmxueDU5cUlmYjNwN3g0SjlicHFGd00tSjIxSWJUekhS?oc=5",
+      "source": "StreetInsider",
+      "time": 1794684773,
+      "asset": "ETH",
+      "tags": []
+    },
+    {
+      "title": "Ethereum Flashes Death Cross as ETF Outflows Surge, Futures Open Interest Dives - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRXJfZUgxeXcwejNwdUJLRFBMc2xsOC1oUkFoVFREY19CZC1KaHRXRUtsQm1SVXJEd2RhNzEyVTBCcUx2WTR1LWtXcmx3TjBzNlltdkNQV3owNE5GMGdUQTEwUXVvaEhxREo3QlZrY2pZNXp5S2FUT1FpQ0NNX0l1RnVfbUNwWnI1LW5IbDlDbU5TeV9oeDNrQmJOZHo2QnpHNEZNMFR3UUtLNkh4bF9JZkJCRHR2dEJBbUtWV1lwdHI1d1U?oc=5",
+      "source": "Benzinga",
+      "time": 1794684605,
+      "asset": "BTC",
+      "tags": [
+        "etf",
+        "flows"
+      ]
+    },
+    {
+      "title": "Why Is XRP Crashing Below $1? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSENxM2xvb3FBWE1pT2pjWFd2QjF5bzVnYWZvVjBTMkdJeVRKbWs1dW9nVXEzRnJJdjRyZ1ZMNEljNGpyZTVmVnBJdHdyanU2ZDI1TjRDeVZSWXJUZHZ2b1h5OEpWNjg2UnVCUWZPWnotZ1pyYTY3bjlWQ0pDR2xST25vYmJWYkpxbC03Vk40MA?oc=5",
+      "source": "24/7 Wall St.",
+      "time": 1794684360,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "NVIDIA (NVDA): Can AI Demand Sustain Growth Through Leadership Uncertainty? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0pZeVVHdkYxcndfVGlLN0VvdnRfZkFzZ2xpMTRUTXVNd1NTYUdyVFFPLU1xMGZXazlUSEREZk9iUDRub0o2OGlNZmVuYTJWRnk2U2ZwREpMN0t0YS03S2ExenhEMmRLZm5PeGVVeVBYLV9tNEhLLVJ2bDdqWWZtX0tSLW5lRUg0R1Iyb3NwQ3hWNEt6bTQ1NA?oc=5",
+      "source": "Yahoo Finance",
+      "time": 1794684270,
+      "asset": "NVDA",
+      "tags": []
+    },
+    {
+      "title": "Why Is Bitcoin Crashing This Week? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcmZZbmRObG5qR0F0V1dHOGFkaDJVSlBpb2lVelppUEZmTGoyak9TZzhKRmZjbVNLY20tUjAtaWdpR214d3RBY3ZRWE93N0ZUdTRjV2x2Zm5UY3JiaFR1REdpMjdfZHpCUGFwN1ZXTjQwN29lSmM4TGNUdWlxWV9WelN1TkhiRkFMWVlPNlRjUGt3cmZ4cEdN?oc=5",
+      "source": "24/7 Wall St.",
+      "time": 1794683820,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Apple's Market Value Grew From $350 Billion to $4 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Apple's Next Chapter Under John Ternus - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQdHhPclo5T2s4bW1sSll3SXRPbWxZdGtaTVRYTWc3M3BlVi11Q2pwbjdiekNObkZRc2FKWGMzdTdSNkhnVFo3alh4UUFVTDd6dW9pMGlqZnc0RFdMSFFQUU14MktRcHEzQm9ENXFYTDk1VVZMejNiWnJicVlmOFFLb01JNFUzbnl2N0pFUE9jdWpFWVN3dDlaUVktNlJJY01XdU5vOXotWWZlanN6Z01PTXF6c0JHcklpcFFXUFkxTVVmYklNOXVEWGdidkI0VWJmblNnYVlydVZHSmxTNDIwWjU3UVNWeGktbjA4d0kwME5rTWxyNTNBWXBpS2Z0d2gwTXA0Wkstb0NKZ21iX3d3c1UxWjlHZm9CdElUN0FxaHpCSjZvNndfTVV3N2l0VnFYaGc?oc=5",
+      "source": "The Motley Fool",
+      "time": 1794683460,
+      "asset": "AAPL",
+      "tags": []
+    },
+    {
+      "title": "Tesla (TSLA) Breaks Ground On $10 Billion Texas Solar Factory As EU Approvals Advance - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMlV5RTN0QzFLN2xXWXl6cUxIbDEyVlQ5M0FMeWJnQ2tFLTdlMFR6anB5OUVLSVVPUmpwMC16UzhrOG84NFFlWW9ZWmViYWhkaW9uS2RKZmNfUUd3RXpNTHoyR2F0MmlCWUxQQ3JMVUVmYTh2bmloWDhwTFhJRHp1ZjE1dVVFSHBsV2YxdA?oc=5",
+      "source": "Yahoo Finance",
+      "time": 1794683248,
+      "asset": "TSLA",
+      "tags": []
+    },
+    {
+      "title": "Amazon named as Fermi\u2019s 600 MW customer for Project Matador - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZcmhVdTBoNW1KdWotak84OGtrb0lOS1hvejllWWhTbFY2ODl4T01uNHdZbkNvbDZwT0lsMmFrTjk5YU9xdXhWbWFhX0FWNjFGU3hIUEVNaDdzUENfdGxFdUtCOUEyUWlEUk92UkJKbGQ?oc=5",
+      "source": "Crypto Briefing",
+      "time": 1794683124,
+      "asset": "AMZN",
+      "tags": []
+    },
+    {
+      "title": "Alphabet's cloud revenue doubles with 103% grow... - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdU5fRVBHUXR3cXhsWkFBRENaenVZV2xUYTVsUkRuWnAxSWpWV0JOcEtxcno2bFJ1cXRvMW45MXQ3Zzk0Vkh1dDBFd1p0emJpbkVNUmpDVmFLU28xWnQ1U3JSbnNUZDI4a3FxUi13Nl9YZ1hqdUNKenlFbzRDZU1fNUhrR3FzY010dmEwRGUzd2ZyclIzYmV3SnlZSXNkNWNPb3NV?oc=5",
+      "source": "Pluang",
+      "time": 1794682984,
+      "asset": "GOOGL",
+      "tags": []
+    },
+    {
+      "title": "Jordi Visser: This Is the Real Reason Behind Bitcoin\u2019s Decline\u2014What Does It Take for a Rally? - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qX1NWU3RNcVI0Q3FLSGZXU285UXBnekZCRHN3amFJVUFSVWRLSVpVcXlUaTdTSmktazd4WGlsY0x0U3N4QWVRbjF6RFpwWnBTYlJHRzhCcEM?oc=5",
+      "source": "Cryptonews.net",
+      "time": 1794682835,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Bitcoin to $1 Million by 2028? Blockstream CEO Adam Back Says Yes - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeWpCa0tnT2tzWmgzWmlPSnRDYW11bVhpSWg2TG9oelJLU2JpckZTVTBSanY1TnFicTRoSU9NZWtVVlVzVk5DWVRQQ0Uycl80T3BMZFMtWDRDTEpGc1lZOFhCY1lLczdscWFncUpiOXhmT0hJTUJhb04ySFdQRThDSDhwb1RiN1J3Wkd5bkpQa2lBZ2wxc3kzMGZ4ZXBMVm9w?oc=5",
+      "source": "Yahoo Finance",
+      "time": 1794682800,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Global crude oil prices down for second consecutive week - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92NHV2Wnd0U1p2YURHREpjeHJYb0J1eGxXcHc5cGFKdE5vakplWFBzbDVZSnNJeTB4OWlpQXE4QzdHUWtQWnhoanFCM3dFaVFDbHRtdnFzRG53ajYwYmtRZjNHVWllc0ZFSjFDVW1OZFRaQmhpNXA4?oc=5",
+      "source": "News On AIR",
+      "time": 1794682686,
+      "asset": "BRENT",
+      "tags": []
+    },
+    {
+      "title": "Most AI Stocks Need Perfect Conditions to Win. This One Doesn't. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNREUxb1ByZnRuQnlGdlV2R0t6cVJuOXMtVWVFNTlMRjJvY2dJVWNBbUtyaHZ5ZVE4dTFCQjBnUnQ2dENMZnBZTEVlVDVNLWltdlduejRqVWZCaDJiR255NEhOOFhpTUhJZG9rdWk0RkhlRk9XRkIxVGJYeEx5VmdzTFVoZkN3LVZVcFN0ejZqRjFOZ0ExNi1TcFUwSldQZw?oc=5",
+      "source": "Yahoo Finance",
+      "time": 1794682620,
+      "asset": "GOOGL",
+      "tags": []
+    },
+    {
+      "title": "Asante Gold withdraws 2026 production and cost guidance - Mugglehead Investment Magazine",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3ZGMHdtS0V0Q3BRbm1fcG9wZjdkbk91VHRYamhfVVg4aHNlTm5YSGdUd3RqNzY2YkI0SDh4ZGcta3BtMGdMUmNUNWJ5TExxR0liX01qY2IyaGdBWjhzOTF4LUFZVTZKX0w4LVJicWF1VmpvWE5lWTBJSFZ4NkM1d0JXRQ?oc=5",
+      "source": "Mugglehead Investment Magazine",
+      "time": 1794682417,
+      "asset": "GOLD",
+      "tags": []
+    },
+    {
+      "title": "JPMorgan Lifts Strategy Stake 36% and Holds $540M in BlackRock\u2019s Bitcoin ETF - CryptoPotato",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPanl1MU15aDN3WndmZ3BDS1lBc0JwTDEwQ3VndDU5WnNlODl2TmRobjJYVkxHeTRWdFZiNlZBaU5SaGxpMG5RTk1GdEVEUVFaOV91LWxyT2ktR1o2YXhIc1Y2MkZnc0xOcGFYYjZEQ1lJbFdrV00yMG04MUFYTlNfcU9GUjdOSW5sak14bUY0aGlzZXVadWswYlZRSEJERzQ0?oc=5",
+      "source": "CryptoPotato",
+      "time": 1794682140,
+      "asset": "BTC",
+      "tags": [
+        "etf"
+      ]
+    },
+    {
+      "title": "Most AI Stocks Need Perfect Conditions to Win. This One Doesn't. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEJYMTBUMFMxZ2xXcDE3SnAtdE9FVzRlZnA0aEExQ1FlbnlhTWtSekNDN2ViWkRKR3NWWC1MNHp4R19tS3Vaa0VGS05aMkZya0RKaDBIS2tpV3d6M3NFN1liV3lnS1QxcDlwUTlHQ1JJLWxSbHpzOWdsVTdqX09fb09SNHNFTktXUUNjTkllZHpKSU1YSWVwZA?oc=5",
+      "source": "The Motley Fool",
+      "time": 1794681420,
+      "asset": "GOOGL",
+      "tags": []
+    },
+    {
+      "title": "Nvidia uncertainty and ETF outflows deepen market weakness for Ethereum - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUVdfTkV6ZTM5VXExb3ZiZWJGU3RRT1RCalRnQUZBd3F5OFdWYnRyN1JLM1ZseDJBYkZFS2tWLWJHN2dBUnNMdk5qeDh0aTQzZzRXMXl3TWpQVmNyemJMNWZLdUl0c1lDckViaEU0RzFnY3BZOGVJc2JkcmdJZVhMaFROSVFWaWYwcC1EUlpmWVdOU0lwTTk0VW1n?oc=5",
+      "source": "Traders Union",
+      "time": 1794681201,
+      "asset": "ETH",
+      "tags": [
+        "etf",
+        "flows"
+      ]
+    },
+    {
+      "title": "Goldman Sachs just slashed its 2027 gold forecast. Here are the new numbers - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRzYyRU50SDUzOW15clJVVGhYWFZ5WDdSRWpMSnJBTUMzZDZ5VU16QUM3V3RSVE05Mjg2aFg2eFRQTkVkcWo3US0wU3hGWFFzWUVfYjdTLXNZNG5FelVydFhKVmx0SDR3S1l4VVVicmU5WlBLeUhxM051VXQwLVhjQk5ITjBBOGN1OUVjS1lUb2t5VGh6QmtSVmhyRVNYUG5hODJhNlFmcjB2NXFuMF9BTVBsclRJaTFEbmJjaURTWDRLZ2xNZnNwMy1B?oc=5",
+      "source": "Investing.com",
+      "time": 1794681168,
+      "asset": "GOLD",
+      "tags": []
+    },
+    {
+      "title": "$4.6 MILLION SALE FROM WALLET ASSOCIATED WITH THE ETHEREU - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CRWV6cGRLTF9rR2hhMV9ianNDYXl2YmNNM2M1bDViejc3QnhqUjdvVml2WW9hTU0yWW95eHFrVmh2WXJoUU1Cd1ZRSndOOG1TYks2Y3lneGo4YmZmZWdqR3dnd243WUhDQlJzQi1Qakg1UQ?oc=5",
+      "source": "KuCoin",
+      "time": 1794680889,
+      "asset": "ETH",
+      "tags": []
+    },
+    {
+      "title": "Gold prices fall EGP 260 in Egypt in one week - Daily News Egypt",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWhVa1ZNaFFXWFhXcHNZWHlma1hwRGNqd0ZTUDVfOUFoNEY4b2dtc1ZTUEJqMDdiVVB6Z2s1b3liY3NmNnd0OHk4V1F6M09KNmNxRFdaWm5qSmgxcVZleWdtWVprNDM0MTN2aFhoVWJ1NkRSYWJjQ0dxb1NMQ3Yzc1ZJd0hJME5jR3RiUw?oc=5",
+      "source": "Daily News Egypt",
+      "time": 1794680641,
+      "asset": "GOLD",
+      "tags": []
+    },
+    {
+      "title": "Top 3 Undervalued Stocks To Watch In November 2026 - Simply Wall St",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWTlMbmlULURQQ3g5LVdSS3JGbFZtM2ROZU9rSWMzSUNBYWJRcmVMdG1tUE92MV9IVXZZVXBCaXdpVGdRcmx4NVFRdHA2LVpHanAtWDBVMkIydXBTZVM1Z2xoMmhEUUtKaDE1ZXR2NHUxN0pHdndpZDVROXpONzU5NmFDR2s2aDdyWl9YNE1MMXNGWEVJWW1yZnVweEpGVHp4VXZHMVRFSFdIQWQ1NXVqUFVDOFptOUs2WHZTdWF5NGJEcU1BdnFqbnBKTWdWbkRv0gHWAUFVX3lxTE9UaW1YcHBBbFBoVDlhRVhEckpma2gzMUgzMDdoZWFySW5QYjE2YWdQa0w0bHJXNFk3V2I4NGNLM19ONmJiN2xYMGphSVVfcURubVczOXAzU2hlalRUbWs0a01pQ0xMT2FLNXNBd1JFZ1Z4YU9odFJ6OGJsdG1jZWtDU1o",
+      "source": "Simply Wall St",
+      "time": 1794680526,
+      "asset": "GOOGL",
+      "tags": []
+    },
+    {
+      "title": "ETH price on Nov 14, 2026 at 2pm EST Crypto Prediction Market - Robinhood",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUUVjZWFIdkFra3lIcms5d3c2MkM5Mk9mNDMwWXZWVzY4dWVyOC0zcTJEQUNQblEzTlNKUTM1VFB6R0lmRzN4OVpwVzlITE05VmZ2TURFQWxuX0xZVHkxa3pvcl9lNmhKV1BWclBjQUlnWjNJRnZTUHcwMFpMVlA4UDFyM3RJTGZydTBvVFVtZXhDWVlGWFNyRmhtZE1RSXdodnQ2MmJLRGtrVWpFLVE?oc=5",
+      "source": "Robinhood",
+      "time": 1794679965,
+      "asset": "ETH",
+      "tags": []
+    },
+    {
+      "title": "XRP price at Nov 14, 2026 at 2pm EST Prediction Market - Robinhood",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZHk5NHg5QnpsYVV5b09BejRiUUxzb1BYbVNEZjQxNVZpaDVuYkVXa1c4QVFuTklndFdGWVJCS3RsNWo3MG9ZS09SWDhnWnR3UjI2WHliOGNQMmVYVjljcTByMHZldWNvM01EajNzVmEyc3ZIdzJZUk9zNXBxSXdRdW9QT1h3MFJ0cnlpekpKZTFfZ3FQajZZZzlrZUFUcDByM2FaNW1kdi1rcmtuR3c?oc=5",
+      "source": "Robinhood",
+      "time": 1794679965,
+      "asset": "XRP",
+      "tags": []
+    },
+    {
+      "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia\u2019s CEO - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcFVqMHQ5b2xua2w2NElyX2pUb1htSkRSTFJLZWpkaUswcHJwMEtMTWVON1FTMmlPV3FEWGc4TmtxbUhGODdFYmVFVFJ5Z1ZWTVdyaTdmM3VrdDRzallvbzh4VUpMNWdqaEVMRHFxazF4NEdjSmJUOUR0bk9WT0p6MWI2eVB6emQtWVBzMTQxdWRxSnVk?oc=5",
+      "source": "Yahoo Finance",
+      "time": 1794679262,
+      "asset": "NVDA",
+      "tags": []
+    },
+    {
+      "title": "Ray Dalio Says Mistakes Teach Life\u2019s \u2018Best Lessons\u2019: Bitcoin Advocate Explains Why \u2018Struggling Well\u2019 Keep - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMW9qajNaVmdRSWJRZnBzYkVTb1FjYnBnX1BGQV9GWlRkV0FrRkUzaFJQbkwzR0NWQndhRVZhdktvSVhubzNlYlVZZ0hmNzJGcnpwel9CZkFvcEExUkhMLTZ4WDdERFk3bmYtR2Vxdm9vT1NUSmZWZHJUckZHUDhiMXNwWU9pcnFhSGR4X2JoLTlUX18zS1ZFT2w4YmtycWpOUlVZbzRJU2xLV3lxcGE0bjVDQml2bVhTcjBPbllYSk5qMXVPdFF0MzAwZGJtaWJUN1pKeXFmZjM3dw?oc=5",
+      "source": "Benzinga",
+      "time": 1794679206,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding - The Block",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd2RhQ3lIWVBkNjRaQ1ZucjBhNkItQ21qZi1NMFhuRE1Kd0FPMWhsb0F6eWVLVkpRVDZtSHJoQWdCQ0RacUNkdEJLQ1dHLVdHYzN4MkpUdU1od1FUcm8ybmdUdFEzb25BYTl0WUtJQy1oQ21nSnRybXBUbFExQmpmZDN2b3g2dTRZMjRHWE9FVlZ5UldzMVhMb0ZiWktmcjJHOElUYndGbG5XQS10dm5oLTlQQkphTEFTYUZubTVRbUpyV0pWV3VuV2ZESVpyOHdvSG9ieW5Bck9sTDFHUVhHZWY0WGJXYW9yelBHcA?oc=5",
+      "source": "The Block",
+      "time": 1794678600,
+      "asset": "BTC",
+      "tags": [
+        "etf"
+      ]
+    },
+    {
+      "title": "Tesla Just Started Taking Orders for a Car With No Steering Wheel - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWldvRV9ZQWRZcEZocXd1V3U5S2RKX3RnbjNSUDM2SU84WWN4MWxQbnZCMkRTM1NFeFZaMEZOMVBxVkRlZHJ6ZFBnQ0h6VFpsU0htRjQzTzVqRFdvRS1OY2FMaFNVM0RjTWlFR3pqV2hzX2tOUENlVE5CLVd1YUtqb2dtSGdrT0RCakR4cGozZ3gtbU1lTjcyTg?oc=5",
+      "source": "Yahoo Finance",
+      "time": 1794678537,
+      "asset": "TSLA",
+      "tags": []
+    },
+    {
+      "title": "ETH Tanks Another 5% as Ethereum Foundation Keeps Selling and Schiff Sounds the Alarm - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbXpWbUNmS1lDcm9ULVpFQloteUZRaGliX0E1ejdCYk1EYjdVaXVzVDExQ1BhZ1AzV2cwUnN6ejBLYlNYelQ3WnlvR1pReWl1cnBIZEF6ZlNJaFc0RXFtRDZhWjBHYlRuN1FWYVJRX2F2aWNSYnR3SzE2VDFvcUd0N3dtaXVIdnhwSE5ZVVl3cUVMbm1fNkthSzQ1blNPRk45dXdCNUp0LVBRYXFhN21sTk50MGNHdUZjWjBpeHBtbw?oc=5",
+      "source": "CryptoRank",
+      "time": 1794678298,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "XRP ETF Outflows Hit an 8-Month High. December Rarely Brings Relief - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83a2NTZVN1VUljZ2FEbFppcEdGazl0QmhQZ2tfMVBqSGg2Q3ZHZlhmQXFCdWNveW1pMUtoaEx3Nll2SXlFZWQxRk1wbG9QeXduem8zZk1qUzAwdlg5UnN2RzFqNA?oc=5",
+      "source": "BeInCrypto",
+      "time": 1794677944,
+      "asset": "XRP",
+      "tags": [
+        "etf",
+        "flows"
+      ]
+    },
+    {
+      "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa01uZk9qV2Rxd1NnaGlxbGpwNlRMMUJUMzZDXzJDcDhDQ1hidlFqOHo5Qm5ZTXBSUXdFQzJDd21LVmwzOTJOT20zUG9kVmRZS09LbkZ6RkxyUW9DVUJ1VE1aaWpZc1ZqdmVNUk1ORUI5dmVMZjhWS0dJaDAxN2NCQlp0Mmh3UHBueWRuOGc1UdIBlAFBVV95cUxOcHpRUE1XYktjaFk5RmZuVXpfeThGVVE2Y1N3cnZOenVXQkVYejdldFVubGtCMk5JZkU5SVhTcUt6Q0pBVnVrNExoY2p5Qk9kWUJ0eks4Wk4xMlNsb0RleEF1Qmo3VDlXSE8wTkg3Vk1CR3M5LWYtNTVsRmRzWFVPUVg1OVdhSVpaRXRpTXBBZXB6Ujhr?oc=5",
+      "source": "CNBC",
+      "time": 1794677751,
+      "asset": "NVDA",
+      "tags": []
+    },
+    {
+      "title": "Crypto News: A Stronger Dollar Squeezes Bitcoin and XRP as FLASH03 Cuts Remittix RTX\u2019s Effective Price to $0.03 After Bonus - StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOWW5oTkdjLVVSVVZheWhBUUdvWnR6VGtwdy12SWJ0WGdMWmp0eFhCMnNJbGtPRVl4UHFmWXM1bWIta3NfRTdZSU5zQ1ZHM2Fxa05nMzJyczlZYXlDb3BNMWJ6MkgzOGFTMUFpcUlnby1QeXEtcHZLS3VFRE1fQk4yUkRiZWdDN3l3UzRWV3BLRVlWejVaMjZaUlUzMXJkb1RRTjhJOU5Lck8xTWgtbktWWUQwNGRzSjZGOW4xNjdXSVF2RjNWcEp4T2o5eV9KdDdSQmtqcUJHYThvVWZJbk1NNlZyTm5sV0ZaVzRJZktsUWNHY01DNjM4eVVDa3lNb2pTN2l2TXlfZWlScTZnT0xvTzhYQlR0ODYyR05LZHdyZmw?oc=5",
+      "source": "StreetInsider",
+      "time": 1794677543,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Solana falls as Federal Reserve rate hike signals weigh on crypto risk appetite - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdllTOFl1TC1saGFkVElaQU0wTWhXUmZ6aDE4NUpwTkhZWHZxUF9iM3JCd1pKQi0yQXlGb3VzVkRvdmpjams1WEJSY3BLSy00c0ZuaGZtb0cxM3NKUi1ocldJME1KOUFDTE0yYVpCcGh6MWpCTUltbmJxcXV6SnR0YVlNYmJfYWkwbWM3Mm9IcjdObW1XZUNhRFg3cFhxZE1o?oc=5",
+      "source": "Traders Union",
+      "time": 1794677543,
+      "asset": "SOL",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "ENS falls as persistent seller pressure weighs on price - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdEJkZndLSkdXT25Kejd2WTVmWjdyNkcyREI3akJhcElnMkRkYXpWTW1FbFZXYW5tZ0JPX0VJcXJidjdNQzM3YnhPdVg3LUZSY1pONVRJLUstMlhLaDRlWElFQWFCQTV1UVFYVlU2WUF6bkNFQ3BmcGN3Q2tsTXJiUGhhZm14cXBuR0xUSUE1RFE1UGdQazhyaEc1SFpDaUhVWEVPVFFn?oc=5",
+      "source": "Traders Union",
+      "time": 1794677483,
+      "asset": "ETH",
+      "tags": []
+    },
+    {
+      "title": "Bitcoin Is Slumping, but Michael Saylor Says Strategy Can Create $10 Billion to $30 Billion in \"Digital Credit\" - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbEJlWEVYblhzTHlZNE1mTlJIUlZEUzRjZWNSTU5UbG5hcElZbUkwVnAxVkZicG1ZVTdMMFVQa09HZ092a0ZWZmZiWHZia2lYNXhXaDdQQVhjV0hKUWJxdW1xX19DQXZNUXFPcEE0OWdyZFpreU90ZVRsRGlXbzIxUUgybS02c3VXT0t5OXYtNnVGMkluVlJ6Vl9WOTNnT1NPRW9N?oc=5",
+      "source": "Yahoo Finance",
+      "time": 1794677460,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Pump.fun Has Sold Nearly $888 Million in SOL and Shows No Sign of Slowing Down - Bitcoin News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcmJ1T0s0a3VuOVBMUHJXbDdSWFpYbXNMV25aWkhpdWN0VFQzbFozejJaRm91YjFkU1lqTDl0RVRUTEVmcFB5ak11U2RDNHNjR2JEeTBWcEd0dmlQVHJ4Ti14VmdVMGc4NzQ1dzBGME13QloyZVRZYk9lY0Q2ZTBFWA?oc=5",
+      "source": "Bitcoin News",
+      "time": 1794677400,
+      "asset": "SOL",
+      "tags": []
+    },
+    {
+      "title": "Is Bitcoin Going to Crash Toward $60K? Here\u2019s What Investors Should Watch - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLTdiOEQ3Q19veUNZa1NLN3NrWDc1UGZ0WnBZbWhibFFRajZNdV9ZeFAzSThPVVROVXZqZjJERVVXSUJnc0M1MnlzUEx2ZXRYZjdhOTEyMUNIMjVOSFdFMjVwbUhINUhXUWxWWFY5Q3JmQUlpQ3FsbDItN0NpREw5bXVEZnA3QTFraklKQnNVX2xSSVhLWjRPLWJCTWJxcFhMQkg5TGFvRFVYa2Yx0gGyAUFVX3lxTE9TbGNfZXY1U1ZBNXV1ZnVld0VkTVU4d0hlMDl5dEhpM1M1Ump0VTJ0dW5qcG5mUUp0TWNqWlRZa1JxWUREaGFPeksxMTA0OTVhbjhGeGg4bXpWTE1jSWhsNEVBRTRHcXVjTTJBbk9jV055VXF0b0tySnFKTm5GSmQ2M1FFV25ZWXhLbGdjZUlqWDJWZUx6YXFUZEZ3RWdzYWJaNF9MXzJ",
+      "source": "Coinpedia",
+      "time": 1794677358,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "A petition to reinstate Jensen Huang as Nvidia CEO has over 100,000 signatures, including some big names - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYkRibzV3RlFkczI4cG44NEVaVDZJSkFDVTdRd2RncVRjdDRpT0plb1VnNlhnV1hCMkFaOWNLak90Xzk0ZjVnMll3cUZROTRPd211b0tVbEJrano4WTRHN2x4dU9nWFpoc1VGUnJaaFJ6LU9zdFBndWNJeWUyT0dKMUZJVXhJY0V2Sl9lX1BVcUNGQQ?oc=5",
+      "source": "Business Insider",
+      "time": 1794677280,
+      "asset": "NVDA",
+      "tags": []
+    },
+    {
+      "title": "XRP price prediction: out of the top 5, behind USDC - CryptoTicker.io",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFJZeXZCTDMtSFZTT0FNOVpTZ00yNnpma3pNLU16cVpLLUhZZnNRS0FWZmplV2wwNHVLX2dTWU9hUGI3OFBtTk5reV9jblZVTWNlUldDNkNmbzFiaVI5ZVBJMlhQeDEyYmdfbEZsVG8zX0ZuV1luamRqZXlFbFBueTJPVVc2dw?oc=5",
+      "source": "CryptoTicker.io",
+      "time": 1794677205,
+      "asset": "XRP",
+      "tags": []
+    },
+    {
+      "title": "Elon Musk joins 100,000+ signers on a petition to reinstate Jensen Huang \u2014 including 5,000+ who say they work at Nvidia - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcUFtUUhkeXFFYjNLV2w2bV9PcEJUbzRueVdpYkNTMUdaWWFqOVlSam1Qal9ValJPVUxrd0lpb3BrY0o1aUtzMTJnamRhWFUydHVKN3A0WERvRnJfV0VQb1JyTTFiNkRaY2VoUXZScnNpeHk2RDVxNk5OUXphdUtSS0cweW4wSzQ1NmstUUV6ZTYxUQ?oc=5",
+      "source": "Yahoo Finance",
+      "time": 1794677100,
+      "asset": "NVDA",
+      "tags": []
+    },
+    {
+      "title": "Bitcoin Slides to $65,000 as $1 Billion in Bets Are Liquidated - www.trendingtopics.eu",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pRmxULThaREZCbF90V0NtME5BWmlGeGZyMFRqc3BlNkdjblExTHpjLVRRMEtsSGsyc0JzOC1sclliaml1R21uRnpiYV9TY3kxbUxaY21CeGQ0a3FyUHdGcWxHd0lkYzlySWdPR1FkX0N6V2c?oc=5",
+      "source": "www.trendingtopics.eu",
+      "time": 1794676777,
+      "asset": "BTC",
+      "tags": [
+        "flows"
+      ]
+    },
+    {
+      "title": "Strategy\u2019s Michael Saylor proposes $10B-$30B digital credit plan - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fVHhURFFUSWJBVWtDTTZkcHB3MUp2eDlCY2M5SmpCVW42SVk3bE9YblU0OVI0WEFvdlAzWUtEcDUzbFZic19WaWJzaGF4WEZNbkE3a05XQlc0MXJQSVJaRUNReF9Yd2NmT2JhZDFvMzE?oc=5",
+      "source": "Crypto Briefing",
+      "time": 1794676662,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Gold price drops again by Tk 2,217 - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGZOQ1VCUEkxMmNmTnhOdHR4YzQ0NmtPUXpEMGM2ZFNlUjFwUUtfX2JLUWhyejVCY2c1c2RqU3hwbUVHT3BzSHVfNzZWLWdyajRidzZPSFZmdVM5UmE4NklQNWxEaEhXZVlYeHZoLVBHRG1VY1JNYndPNDdkektIaEMwczNHQ0ZaaHFKTkIycXppam42?oc=5",
+      "source": "New Age BD",
+      "time": 1794676441,
+      "asset": "GOLD",
+      "tags": []
+    },
+    {
+      "title": "Delayed Olympia rollout weighs on Ethereum Classic price as seller pressure persists - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1FBbm1VWE53OGhCZ1dPZXFpY2o3aEl1ZzlnU1BCYlZ0MlRUQWh6N3gtbm1sSEhTdkZ6LWZBdEpReGF5c3BSbUxJblBIQmJqMVhNcFhuM2dIRTVwTzRKTFRnNmxRWTZYWDVyUW5QNDJXMGYzZE5ESWVVZjdSLWZrVTktQUEyN3hURmhndEh2Xzd3OEZybV91aWpwc1FJWE1ZaFpabm1ROA?oc=5",
+      "source": "Traders Union",
+      "time": 1794676340,
+      "asset": "ETH",
+      "tags": []
+    },
+    {
+      "title": "Microsoft Outage Didn\u2019t Lose Your Email, but Firms May Get Credits - JournalArta",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUtBRm9WQ3pPTHQySU40NHJ6Y3Nma182RjUzWERWdWhjTlZoXzYwMDNqMlMxTGlYMEdjTUk0ODFKTmQyNGtlZVFMMGFQV1NDVzdPLUlSYlQzYjVyYVJVdTJLT292dkhORVUwTGh3M1Nkd1h1TGU3d1Z1bEhaQmsyNTFtNGJlRmNWdWViSk8zMGprRXNKdmtCdi1icjdVQm40czNF?oc=5",
+      "source": "JournalArta",
+      "time": 1794676095,
+      "asset": "MSFT",
+      "tags": []
+    },
+    {
+      "title": "ETH Tanks Another 5% as Ethereum Foundation Keeps Selling and Schiff Sounds the Alarm - CryptoPotato",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWnBVazQ1QWpCWmR2RWNrbVBDZTdzTE9aek1aUV80V1UyVE9OSjd1eWRkclY2TXdWWlFYSl9id0JzLXJ2cnpSb2liZ282c21FcklReUIzQmdtTGlnV1RNZWVPLWt4OEgxMllQR1dRMWk2dDZSeG5SVWw4VEN4SkR3RUxLaFV3WGh0Q1h3QnEzUzRNM3pnMS1nT21zajNOOUdnaEt0ajB3R1VFZTRVcldj?oc=5",
+      "source": "CryptoPotato",
+      "time": 1794675900,
+      "asset": "ETH",
+      "tags": []
+    },
+    {
+      "title": "Solana price drops 2.79%, triggering $11.25M in long position liquidations in one hour - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczNQZFdtNUQyY2Ytai15ai0zMHJDbmhnbFhqLUEzekRUMTM2THYwUHpXNE1pRFQ3Q3l3YWJjUVhmYXdUVS14djBmU2JPTHhRTFZLMmkxczJOMkswVXVLZ1U2THF4bzRLLUVXWVRHZkoyMFU2M1BMZ3FJZXJMWUF2MXhrWnJObmtGRW0zay1EajZydw?oc=5",
+      "source": "Pluang",
+      "time": 1794675866,
+      "asset": "SOL",
+      "tags": [
+        "flows"
+      ]
+    },
+    {
+      "title": "Solana (SOL) drops 2.79% in one hour amid $11.2... - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZUR6WnVyTWV5NmpaQmhQTXFZTlJRd3R0cGJqaUNJZFBNX2lDQ05pdVdTYURzVkFWZUFjU1ktTFlCQi1ydlZfN3RXZnJzVWtpS1pJOGhQVUVmbTJQSVFQSnFSTHg0UEZMSUs3MEVEb1pIdEFuZjdPRXBxb0NlT19VbDV2eEI1QWRWRWw1ZEE0QQ?oc=5",
+      "source": "Pluang",
+      "time": 1794675865,
+      "asset": "SOL",
+      "tags": []
+    },
+    {
+      "title": "Crypto News: Bitcoin, Ethereum And XRP Hit Make-Or-Break Levels After Brutal Sell-Off - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1JxUURPWFdCbTM3NTlrc3lwdk9zRXdZSGdsOEVjbTYtTThPWE9LVW9meFpHWVVqSTV5a0I0UEFrcXRDdnBRaW85ZjBNREpIYmFoMDY3WDlDQnZ0U0RrRWdGQkswdC1JajdRdTdLRzhndy1JaTN4MzlyX3RlZU9lNVE5VGZ2anRUeUdNdzc4MlVzc2E5V1dFNlJGWWVNU0VqWXp5UXRiSDFtR3VHMHp3UNIBtgFBVV95cUxNYlZJc1ZwSlFJdVZXVWdzTmVlLTlSSXRJTEgycEQ5RWVtRnc0M3hfU0EzNnBjZGpqRGpaeWpJdHI4dDVlYTVkR0lNOGN5NU1nTjlyS2h1Nk15dlMzVVRDRURWQV9EbEdXXzBvYzF6aDVYblRMVEVaOUF0Q21JVDdlY1FwRDljODVKT1dLd2t5X3luaFdjSFdfMG4xU3h1RlVQanB",
+      "source": "Coinpedia",
+      "time": 1794675528,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Stronger Waha prices change midstream economics - Midland Reporter-Telegram",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYnpmMnJxMFpQOVdxQ3dVUmFkSmtNZUtxNUo0THd2UEUtdXFHYnJoWVgyYW43WmNMTGtMMjN5UlJONzFZa2E0NkllaGlSeGc1akQzckFXamFkWFRHVkxrZk93VV9CWVktLW5wOFdnUE5scE9XSGU5OHY4Q2lPazlHNjRqQUw1MjFKWXVYemtZdC1xaXdZUGZmM0tqdzI0cloyOVNB?oc=5",
+      "source": "Midland Reporter-Telegram",
+      "time": 1794675234,
+      "asset": "NATGAS",
+      "tags": []
+    },
+    {
+      "title": "Solana Drops 2.79% in One Hour to $72.08 on Binance Spot - www.tokenpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjem9tQ19KUVU4dlZVOUlMb1F4WFE4V28yS09WamNSODdHOHhKNllpLWlrN0VBVEFCSlJ3WWd4Y0pGSjJYSEtCWGRzVUdxV3B5THBGbE1reU54Zw?oc=5",
+      "source": "www.tokenpost.com",
+      "time": 1794675077,
+      "asset": "SOL",
+      "tags": []
+    },
+    {
+      "title": "Solana Posts $11.25 Million in Long Liquidations in One Hour - www.tokenpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03aEd1V2hLbGFMYjFjVHRPRUtRWmZjbDE5YUV1aUVSZC1PYWRxOVJSNFp6YTBUbl84cjVUR3htNHRkQUlEZm1ZSTZucmlUQk5jcmF3Z0pPVEdXdw?oc=5",
+      "source": "www.tokenpost.com",
+      "time": 1794675068,
+      "asset": "SOL",
+      "tags": [
+        "flows"
+      ]
+    },
+    {
+      "title": "Apple Stock Leads Magnificent Seven With 30.5% Gain - shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YS2dWQjl1dlBEQ3Rvdmd4TGtkNFZubTdYTTh1bGYyS2g1ekNscW1CUHkyX0RpbmdjVUZZQUFnZkVGRHBfbVl0OE9jNjNsd3pyREZQYTB0TGNyTEItOEtLV1E4cV9YU3J6MWNBekFpQmtKbUpkd3VIQ2xhUDZYdW8?oc=5",
+      "source": "shattered.io",
+      "time": 1794674931,
+      "asset": "AAPL",
+      "tags": []
+    },
+    {
+      "title": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone' - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5",
+      "source": "CoinDesk",
+      "time": 1794674530,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Bitcoin enters deep value zone as selloff extends across crypto market - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQWxod0tJcURyY3dtYV9tR1ZGVjlsem96TXRMOUpSUk90Wnk4NFVOMjdiVFM0RHF5VzVRUVM3aU9sekFWVVVzbnBJblMzcU9tQWNtWGEwWTRYZlRXWC02WUhfRy1hNi1XbWUxdUd2dkdOLVkyOUUzdkdxOTNsUDJjWjdCTy0tMTQyVkZ2QS1pX1c5RThQbklua0ViOA?oc=5",
+      "source": "Traders Union",
+      "time": 1794674361,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Nine Straight Daily Losses Send XRP Below $1 as ETFs Shed $19M - Bitcoin Foundation",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlB0dURkUGlpS0ZUcVM2MEJNbDhpS3lfcnIwczVxa2xreXFVZ1RLRldXMVlMN2VDTW5UVHBDNS1vZV9RbkNyOTRuTkFZVTc0a2dBbEpiV0xHTWEzd0l1V0tpbko2UHFjRXdSeEtiTnhvbGxNdzhvaFc2cThTZTdydjVsSXc3TVlWTHNRRG56eHJmRGxEQzJpYldHMG1XR195RjlydVFPek4?oc=5",
+      "source": "Bitcoin Foundation",
+      "time": 1794674205,
+      "asset": "BTC",
+      "tags": [
+        "etf"
+      ]
+    },
+    {
+      "title": "Texas Bill Would Let Every City and County Invest $10M in Bitcoin - Bitbo",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iZ0J1Vkx0YUhMeDdwZHpKMjVnbF8yY2RYcFk3NlBOQ1IxalplR0VDYWdpVGxTa19pQmxzMFN6UzNuM1FQU1dyYTRua1VMUzRUcm54MXB5eUwydmEwSElIaW9Xcw?oc=5",
+      "source": "Bitbo",
+      "time": 1794674100,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Crypto Fear and Greed Index Drops to a 5-Month Low as Weekend Slump Heightens - CoinGape",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQi1GbUFDZk5iV2RYM01EQzhfSll1TE51WlV5dkhvMUJES2tULWFoNlNmMVp3clpzV0ZYUW1XRENHcVppWFo5bHBIUEZUcG9fV2JZcExTbFI0SFhZSTQtQmJqanQyRzZOeXdyVGdOZVJJSkhGai1WZUJ0RHplSkIxYWJQa0llN25iVlYwNW4tVEliTUNoRkV2U04xWWVBWGQ4?oc=5",
+      "source": "CoinGape",
+      "time": 1794674011,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+      "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+      "source": "www.coindesk.com",
+      "time": 1794674009,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVUzWkdWN3k3TlAycEdwT21HZmgwNUh2Sms2YzMzS2Qzc3BKV1FqNENqLWJLdGlXU1NhYkhlbXg2TjlicUxVel9PME1kSW8tRVJuMEVoNm5TUnpNVjVLb0thMHBoVTlVVTNxSnowc1JsMGVmd25Nem5uLUtGcFo1dzZUTzV5ZEZLd3pkc251Mmg4MEE4TmViRkdCOEEzRml5bGQzaU4wRzVsUFFpdjBiSkdjOVJJZ0ZWZ3NOR0l0NUw?oc=5",
+      "source": "CoinDesk",
+      "time": 1794674003,
+      "asset": "ETH",
+      "tags": []
+    },
+    {
+      "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+      "link": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+      "source": "www.coindesk.com",
+      "time": 1794674003,
+      "asset": "ETH",
+      "tags": []
+    },
+    {
+      "title": "Ethereum Price Prediction: Can ETH Win Back $2K as Remittix Earn Opens Aave, Morpho and Fluid Pools to the Public? - StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNM1pXMXVLR0xvMnpUeE9WME5BaEV3TlJTWHVmbHBZUVN2NjlmNUZjV2xUQ3pza2lLbmtZVXZSejB2akJJYVpxdUFNNjVzV0JQVTN6RWRlUEZnNUNISjU0aDJVQnIzSTFzb1VUeUNmVmpXcmNpZmVwUERQdndkV04zR2RxbVVCcFlhbk1LaXRkaVhyN3BpWEtUVEFGTUx0dWlvU1VnVTJqeEVRamFXQW9kaUV2aGZ6OURsVkkzSE1xMlo5QjF1TXFUUzA3SWplM20yX0I1WVA3REZBTnNBMU9ZdF9Od3hFX2FmMnZJN01hbnIyd2w0UVAxeXRJaFl2VUE5dVZrNkNzVzd3N3M?oc=5",
+      "source": "StreetInsider",
+      "time": 1794673984,
+      "asset": "ETH",
+      "tags": []
+    },
+    {
+      "title": "Solana Price Prediction Stirs the Debate About What Could be the Top Crypto to Invest in this Week - openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQal9vZWpJQmtFTlY5dHhpQXViaVhiems0TmFaMEdQVGR4LWU0UmRyRmhxZUdiTEtuaWN5Q3AwMkpjOU9NSDJBVTgxcl9ENXFVWGhuN1JzSzlzUFYwNkVFekFCcVNuQU5YcVZPbm1OZ0Uyc2J3SDdwWm5kdUpZOGNKSHdpOWROdHlreFAxbGgyS2ZLdjJsTkhXcVZDVGY?oc=5",
+      "source": "openPR.com",
+      "time": 1794673877,
+      "asset": "SOL",
+      "tags": []
+    },
+    {
+      "title": "XRP Price Tests Key Support as ETF and Futures Pressure Builds on Ripple Token - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTlVpRnBYdUxablFrcFlOVUU1TnBEamlMUGpNOG5IS01qR2l6aWxLY0M0cHdyV3NybWNpN09pSV9DdXp6Q0NzYTIzUC1vM1dnYk8zcjlmempQekxBbGtnZVBReG5sMXV5ZElrMTdndzdJNDA4UmE2SlY3TjFqQ2I4dW5mN0tsQ1pKeHI1MThNUzRfLXhTQldVSEZFOFd1cWpSaGFMR2pXbVVOZGdzNE1mTWQySmFNTjNycFcwQk91aUh3U3c?oc=5",
+      "source": "Benzinga",
+      "time": 1794673806,
+      "asset": "ETH",
+      "tags": [
+        "etf"
+      ]
+    },
+    {
+      "title": "After Jensen Huang\u2019s Departure, Nvidia Just Did Something It Hasn\u2019t Done Since 2019 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVU2bVFMMUs0RmxpaXFOMExhMVQweGtDeDgzMXZsRU1sbElhSlVhS0V4ZlFVeEk3YnVuUEVCbTN0WnNJMDJySFNSNmw0aE5ramZzQUFzNlk2VWtHWlRzUGRrZ0RzMUo3VVlBLWd4NE85VzZ5WDk0MVR1T25KR2gwaFd0SDNQRm96c3drdURCUWJYck5BRjJEN011eDM0Q3lF?oc=5",
+      "source": "Yahoo Finance",
+      "time": 1794673802,
+      "asset": "NVDA",
+      "tags": []
+    },
+    {
+      "title": "Ripple Price Analysis: Is the Worst Yet to Come as XRP Dumps to a 2-Year Low? - CryptoPotato",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQXJOTmFoQUFMSTVqd3pjMXVUeFNCUi1iRmJOMGxvN0ZGR2l4R0ZXMVNLYTVabFgtZmdiVWpfRzVwaEF4X3pVd20tVF8yS08zeFV5Wk9hUmpORTBLTHRtQm1UbklwMHZJSHpQZ2dKMWFHdnVfSndUSHZmUGRMZ3h6dGdybWdyN0VCWnlQbTkxbWRjbk9HenVocTQ5LTU2NXcxWi1j?oc=5",
+      "source": "CryptoPotato",
+      "time": 1794673680,
+      "asset": "XRP",
+      "tags": []
+    },
+    {
+      "title": "Bitcoin Falls Below $75,000, Crypto Stocks Plunge as Clarity Act Vote Fails - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLTlMOFdMQ3U3TVBxVzZkWElVWEpNUHRWaXdYcXloUlEwSF9fVElUbmhGSXRFeWFRTXBMNGxlOXJqSjdBMmRWb1JuTnlsT0h5a1R4bFdHdDgxMDdVUWloM3pnWDRRcmlXdU92eDFlUnltTHpEVllZODVUVlhpQlc4TGJCbGR5OUd0bnJmUHhqTF9VVVpVRGZieGpMUEF4Und4bHI5WnpGNERIU2ZWVElzU3hvcWlmMHBOdHRYcFB3b0RxdU1NSHhMVFFmZlNqeXhIYXNKbnkyMU0?oc=5",
+      "source": "TradingKey",
+      "time": 1794673658,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Solana Faces Pressure Amidst Broader Crypto Declines - Coinfomania",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTTR6eFBUNGZiLXRNQ3dnS2lIUU1Yd0R6TldfN0NpelpHVTFXZmVzWUhLa2tjZzBtZXVYM3I4YlBseFVYejhtNll5LXVfR20wM0NOSEZyLW5pcTR1bVRwOFRmWVJLM1psaTlJZEx5UFQxWlJhenNHNWZnNkRkRkRYVW93dw?oc=5",
+      "source": "Coinfomania",
+      "time": 1794673515,
+      "asset": "SOL",
+      "tags": []
+    },
+    {
+      "title": "Meta Platforms (META) Is Held Liable For Algorithm Driven Harms - Simply Wall St",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQVdLa0lLa3BFRDJKR29VSU10dnRZMlZVa3V1WklZb2p4c09MMl9VT2czNnRmaG9kWVF5UGVlbzdKVVRseDVjOUZaNDNyQm5tMGV2MDZxd3dwVmUzUHM5M1JzTEozVmtXSGJZbXAyUnJCOXY2emdwNmJ0dVVteXJBWkppbmlmQVZIczBONDlxY1B4YjEzSWVvX3QtUWRkVF9Sc2ZaSmh1cm5GSDZDd0FDTDg2bUQyMWwtQjJsY19kUjVaUmxsZlN1ZVRB0gHPAUFVX3lxTE9MbWdHZ21qX19EWmYxdnFRSDdRREo2aFBRVmRVbHgySEhCS0l1YVA2dENEYTIxUGV0WV9MSDc2OGxrZi0yWEcxOG14UnVRSkJkeGttdGp6WXp6LXUxMVBXbUxGV1ZSRHJGYmpKNWs3eTkybzJIcXBPMjdRUlNDT0pqUHFLUW9EMDd",
+      "source": "Simply Wall St",
+      "time": 1794673425,
+      "asset": "META",
+      "tags": []
+    },
+    {
+      "title": "Nvidia and other Big Tech stocks lift Wall Street and make up for a drop by Apple - TyN Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS0p5T0lDU0RsWElJbTgyQktOblZrbFpzOXhXZHVsNFNkVjh1TnJZYkxMMDhzRjVmbEFuWWFJbllHUzVwUmZYUWR2SEZ1RTJOZWR6aGFsdmVkdzROYWtIWXJfcERaWDg4amVFdzJ0bFVYV0thVkVFVVNCaVc3cFNSVzNaQlNOTk12dWJOSFpKLURZMXFNM2JoRUlsQW1Dc1FBekgzSHpuTDFnUQ?oc=5",
+      "source": "TyN Magazine",
+      "time": 1794673307,
+      "asset": "AAPL",
+      "tags": []
+    },
+    {
+      "title": "Bitcoin\u2019s $67,000 crash puts $57 billion holder cluster at risk as ETF investors flee - CryptoSlate",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmd6NksxYkN4X0pLS0tkc1diT3VCY1JGTy1aVTJKZDZ2OVJweFJfX085UFhvb1Jpa2wtbGVlbVdudnNBY1ZQYW5td1lVcUZHTlhKa1JLN3Z0R1NlN2dwZUxmUk92clhyalBFRDd0dC1tQVlBWE1TNlJCZGtaR2RBNGZfSEUxMVhpaE0wVm1sb3ozNWI2UkZDUkhubGQ4NG41YWl6YjkyellTdw?oc=5",
+      "source": "CryptoSlate",
+      "time": 1794673211,
+      "asset": "BTC",
+      "tags": [
+        "etf"
+      ]
+    },
+    {
+      "title": "XRP Falls 2.14% in One Hour to $0.9619 on Binance Spot - www.tokenpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HVUxXV3BqMEduQ1Rud1hpaDU2MncyY1gxQXYyRm1tYXA4bU9mMktoT0ZNbFVXVDhTSXZMa2tWOUhUSlJZTzkzdG0wNFN2OFZ6bUIwbHplMWdYZw?oc=5",
+      "source": "www.tokenpost.com",
+      "time": 1794673046,
+      "asset": "XRP",
+      "tags": []
+    },
+    {
+      "title": "Microsoft Marketing Chief Sold 5,000 Shares for About $2.66 Million - www.tokenpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXVWlla2tLQ04waXQ4UXR2SF9IVjdvVVB4V3FMNWtRWUNfMVduRFA1aS1ENnVWZDZpdjRZYXlpbEM1dmo2UlFKZmJ1WlZjN0pONDNZckhSTVptQQ?oc=5",
+      "source": "www.tokenpost.com",
+      "time": 1794672872,
+      "asset": "MSFT",
+      "tags": []
+    },
+    {
+      "title": "Bitcoin Just Crashed Toward $66,000. History Says the Worst May Not Be Over - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOenp5c0wxeVNoM3R5Vk5KZERkZVJ1NjhqUllaM3lzUW52c3BVRzRMc0xMbTRIeV9XWGRXc0VfT0szOE1FbkxSOE5wMXJwTlVNQTBxbUQ5aEliQWZqTVJpVXdFc01XRWhWTC1zVHlLRngyUGpUZVQ2REs4U19INFp4ZF9Cd0tEazN4b3dKd2d5ekZtQ2Y4ekZkOU96WQ?oc=5",
+      "source": "Yahoo Finance",
+      "time": 1794672647,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Bitcoin Just Crashed Toward $66,000. History Says the Worst May Not Be Over - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa3NON2VYbkVFX0pfX2pzUU1WSzNCSDRRZFJIeWQ1bjdaTXFYY2tpV1JPY2N3VFVJNGM3dVNtZDd4Wlo2ZVVzTm1OeVBqTlliQjdGVlJteXBIWkZiN0pfWVFCQjlWUV93OUkxUXZaVFducmI2Qm5NcGxEX0U4MF9BVzRRRTRhd3M2NWRPQ1VlcG1lU0NZbjRkNjBfbDY0cXZqVk1VT1NoOWpBYm1rcGJoZ0kzRF9aSGllOFBEOGNLT1hBZDRQSEJNd2RkSQ?oc=5",
+      "source": "24/7 Wall St.",
+      "time": 1794672600,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "After Jensen Huang\u2019s Departure, Nvidia Just Did Something It Hasn\u2019t Done Since 2019 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSk1RNm5Ub2pUQU9TdUhBUFd2MmxxU0pWVkZDZEw4UlUySkhJVTBKRnc1ZEhuOGM3dXhOTGpMR2xKVnBnMjZWTkNvRnRad29fS2g2QWZoVUc1WUM4UW0xa2ZpWU1hWDY0WU1HaS1uX0R4MW5tcUd5N0ZnUzBUaXlvdWxDT25MUDVxX2FlNlRPZHJQZFhqZVQ2eExGVjF1dkxhaHJ6N19jSmtMcEtEZ01aT0lsUHZFdm9mNTZ4RHFkZWpfeVk?oc=5",
+      "source": "The Motley Fool",
+      "time": 1794672600,
+      "asset": "NVDA",
+      "tags": []
+    },
+    {
+      "title": "Why the biggest risk for investors in 2027 isn't Nvidia \u2014 it's inflation - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUU1XbGRvSFRiYXFKSm1KSWdMSDhyRWVnRGYycnhNTW93aVdWeWNjYWFSSmU5YzBCRmltT3M2WGJsdjN5ODRLdG5hTnk3VkZrekxpYnpOWkRqcnk2YnQybXhES2dGc0YxSEhCX1Z4Mm1WUUZRUTE1ZlRNV05KR2Y3SGxxVDRQQmlhWjFUaXFhdTdGb1dQdUFCb1Fyay0xVFNpV3lsVVg5Q20zYUVPWWtMYnRxTVlxcUY0YWx6N2RFOHpkY2ZI?oc=5",
+      "source": "Yahoo Finance",
+      "time": 1794672161,
+      "asset": "NVDA",
+      "tags": [
+        "macro"
+      ]
+    },
+    {
+      "title": "Mumbai CNG price hiked by Rs 1.50 per kg; check new rate effective November 15 - Mid-Day",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ0tMSDZ2STR1T1BacUZhVndxbjdNNHZDcERhaDRWR1YySEZtN2Y2QkpRazYzSHY4LVFuUkJIQ1dDaklNQjVmSjJmbUExOTZTSXNMSGVVb3hIR2ZDUVRSMmpFdjBja0hDbEtFWUhiNGdXekRvTG5ubUNQNkE4UG9FWF9nQVhGX21jWGxLRFE5UWVaMjRRajdkTWkzSDNVM1dqY1ROOTgxNHowTFQwSVdTcVhnM2prRHQ0My01ZGNYRFF5SVNnYTdvaVRidTRDMjF3T0FR?oc=5",
+      "source": "Mid-Day",
+      "time": 1794672120,
+      "asset": "NATGAS",
+      "tags": []
+    },
+    {
+      "title": "Bitcoin and ether could see sharper swings as options hedging fuels volatility - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOS1BbnJwS2RLNGVLay02R2NROXMwdmJvOGgxLVU4d0tMY1RSMjY2OUVkd0I1NUJfdVhHa1JrN1gwNlRYcm45aHBhQ2dEenBONWwxd20yclRiU0Jfa25rZ2NKQ05Bd2V6NmhpWS1CQ3RXRlJ3U3NaOHpPV01Zck5NektCNVdYemFxdG9ubUNMSnRfTjF6c05iRDlIZVFzdVJjRGx2Wk1IS3VqNWVNRnhpZGtUQzJfSGc?oc=5",
+      "source": "CoinDesk",
+      "time": 1794672051,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Chhath Puja 2026: Gold and silver prices today, November 14; check 22K, 24K gold and silver rates in your city - IBTimes India",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdzc0cVN2TjdEU3dYRHctOWIxbEw4dkk3R1gwdE82MkUwcEdGeVBGX1hjeUoyRGZxeVlKbWtNN2kwOVpmdnJrOXhYZFpUOFdtcWxpVS0taEI5SGgxd09mTGxDa1RpdFF6bTE5ZWRLMzcwaEhYS25UUmtlOG5RaUJYMnU4SUZZV05OZ1FJVWlzWFdZbkVNYnRobWp0TGJPaWZCakNfSmxlZUpuVG9OZmNfMzhGcHRoalY2eGV0d0J2NDU?oc=5",
+      "source": "IBTimes India",
+      "time": 1794671794,
+      "asset": "SILVER",
+      "tags": []
+    },
+    {
+      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iUTd1amNDQzhvSy1kWGcwdk1CZjRGZG9rTFc4VEFRX3p2Y3VTdzd6dDRkSnJnR21nUkt1OVVlajV4R3VJTElDYUpJQlBfbzhKRFB5RUdWdEJWLVotUVJQS2hqZFpJZGpERlJFWUNJb2ZZbUtNYWVtN2pNb3liSGvSAYQBQVVfeXFMTVZlLXNUMVl0Qkc4M2ZKWGFwNnB6U05GSEw5LXlXQlNKN2MwMUg1by1Pb3pyd3JoWHRzQkcxRFJmOG45RzlzcVNybHJ0Q3VyZEtfdlctNDdZSGpYU2NlaUpIUFFrdkE2akpLdFdBRkppeFBWYk1qT0gyd3ByLXhaVmdySDYy?oc=5",
+      "source": "CNBC",
+      "time": 1794671443,
+      "asset": "NVDA",
+      "tags": [
+        "etf"
+      ]
+    },
+    {
+      "title": "Big Shareholders and 3,000 Nvidia Employees Want Jensen Huang Back - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVXZVSDVsclVqUDBxOUVFajlYZ0tJa2tkdndnV2psOHJ5VmN2LTlfejVzaGlYWUo1MUFrOGtEcDBBcHdxbUpaTXhteVAxdlFPQUNkZXc4SkNFMElMci1McmlGekRsSGJLc2ZzM0R5TG9XTnVQRGJ1NDUzXzRwTWNMcG13UDl1U2RGbzgxdlhpb21JbUFwRG1adENn?oc=5",
+      "source": "Yahoo Finance",
+      "time": 1794671398,
+      "asset": "NVDA",
+      "tags": []
+    },
+    {
+      "title": "AMD Just Crushed Nvidia by 32 Points After Scandal. Here\u2019s How NVDA Can Come Back - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSjMwR3Z2UENUSFFhWktnMFdqSkNoTTFCVmYzd2xNdXFjbUlEVzh5QXRSU1NsVVQ5ZzVzU3VwOGFYOXByOHpaU3hzdTE4NE9UaE9MRG9GbTY1cGZydUMzbXVKcWtySDVKN1I0VkJPazVVcFNDOWQzeXRNTW5rSjNTc29jNVd4UHNPeWxqVTlFTTNRbFNIdVE?oc=5",
+      "source": "Yahoo Finance",
+      "time": 1794670911,
+      "asset": "NVDA",
+      "tags": []
+    },
+    {
+      "title": "AMD Just Crushed Nvidia by 32 Points After Scandal. Here\u2019s How NVDA Can Come Back - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd0JfNmlLTGtaZmNZT0dUZUw2b0QyeDlPdzQ5NHdHMDYzRUk2NkVaOHpSd09VY3ZkdXBzWWZsejNXVkkzZTA5QzQxZ1UxMzFYSTl6YlJBOEFtaHNQRkRIN2xWUGRGbktzTkw5V3RyUVZkdGF3am1GT3ExcDZxZE5UQzNFVlhYR1VuZ19PYUlaYU56QXo5c1JCY0wwRmgzemdqQ0dNMGJMSHR2azZiWEQ2VmdMMkNkQjRFZFlBNFplWEM?oc=5",
+      "source": "24/7 Wall St.",
+      "time": 1794670860,
+      "asset": "AMD",
+      "tags": []
+    },
+    {
+      "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOalUtSUdFMWVHVW0zRDJBSFBfd2NGMWtyT1I1SzlHbVg2WmxxNjl3eWhrVkRpRjdocUdGNVl3Nnc5ZC05RHNBQTI2aFd5S00yWS1WOVRoQW0xSzZuQXRDNmJzTERVT2E1SGwyYlJ6RC1OQmdaa3ltVU5fb3BwcUM4M1k4Z1N2ZGdvRUpseDZLRjV4dXI0OHVZTUtRTENVYmxzMGJVMjc1ekNLRVNpdG1kZU9OQmZGMFlRazFqUm1ZRTJQVkJNOEJuajM2NkprZVpj?oc=5",
+      "source": "CoinDesk",
+      "time": 1794670707,
+      "asset": "ETH",
+      "tags": []
+    },
+    {
+      "title": "Ethereum falls over 5% as ETF outflows and liquidations weigh on price - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOXUwb0pQWGU0dkJWRHdDNzNrX2RYVzVMWXlNM21YRVFNelJJZFpCSkduMl82U3BnMTl1eW9ucjFDczNhMW5xUmFtSWx6WjdGZzJEUFJSUUFFWGZSRllqclRyZHdNWXkydUpzT1cxTjRuMU1KOEptNC1xLWN6SjFQNjY5XzBXZU51Nm9PdlNFYlhLeVdLSFJDNGVsMENFZlVaVk4ybG9XMlY?oc=5",
+      "source": "Traders Union",
+      "time": 1794670461,
+      "asset": "ETH",
+      "tags": [
+        "etf",
+        "flows"
+      ]
+    },
     {
       "title": "Gold Price Slips to Key Support as Fed Rate Risks and GLD ETF Outflows Build - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSGM3TWZaYlNGVlJHRnV4OXNWNG5iWU9SN3hQYzRibnprTldmMU9oVXlwYVBXWWlfSTd3MXZsMXFZZGw2Ui05Y0xxTGVqRUhLSThyUWg3RDA2LU1SUFVxRVR4OWVWN0lZQmRMbjBRWXpQdTc5UzhMVDRRTHdxVGVINGhwRzdzS1hhQS1IaWxnYTZYN1NDRGRfN3NEVWhlclRRY2VfQ0Q4SDlGVnUxa0NDWEdfbVJWQXY1dGFDN3VYaTNYOEliTFl2SFRyZ2dLYVF4YlE?oc=5",
@@ -12,6 +824,14 @@
         "macro",
         "flows"
       ]
+    },
+    {
+      "title": "Here\u2019s Why Tesla (TSLA) Is One of the Top High P/E Stocks Under the 200-Day SMA - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcGI0RWxDUDA3M1oxWGRIdllfdXNKV0lqTnA2OFBqcm9mRGw3V29CYzRNUVE4ZjhhZktDUE5SWHBoSzlYUDB6c25FR0ZkMkhLRjBpb0pndEhEOGJIWVVKNkxhVDRCbFdwMlJiSG5SQUlfbUdrbUNkeHRhNTlUSmxmcnRnekY5VjVUaF9acGp4WHA?oc=5",
+      "source": "Yahoo Finance",
+      "time": 1794670191,
+      "asset": "TSLA",
+      "tags": []
     },
     {
       "title": "The EU has imposed provisional anti-dumping duties on Vietnamese copper pipes, with the highest rate at 14.4%. - Vietnam.vn",
@@ -30,6 +850,22 @@
       "tags": []
     },
     {
+      "title": "XRP Slips Below $1: Is Its Top-Five Ranking in Jeopardy? - U.Today",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLY01ORmNCLVl3V2l6M0QzVnBZU0xJSVhvbDRwTnBMMnpfaXNGbDFHRkhRX1RzU3Y5cWNjQm4xSnktVmNZTEFxYXBJZTh2cDFvYUJZLVRWOS0xMS1fTVRybWpLODFxSDNZVjVpRUxDZC1FQkNyYmp3S9IBfkFVX3lxTE9OaXhsT25Zc2NBUHpoWjMzRXo5S3FCWFFZXzltMERTUkVob2VtU0cxaGdOdVFjYnpjUUpjODFxMWd0bjNUeWJUVGIyUkhiV0JyeXJoNGtYVnl3TVBXN0Y2OERyOUZoQS1ZZGZpZWsyQ1NjUVN1eVg1bllzYkR3UQ?oc=5",
+      "source": "U.Today",
+      "time": 1794669750,
+      "asset": "XRP",
+      "tags": []
+    },
+    {
+      "title": "Mario Nawfal: Bitcoin and Ethereum fall with almost matching declines - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb1B4NnhaamtYcldYaUZScHlva1k1b3J3Zlhxelg3VHNKUTRQNGl6YThLZ3IteTk2YnZuMzJtNTU4dWxzMjRNSG0xdWVuNUprbXI5WkhTeENaREtON05qVk9wdXdxQllBVnBkb1lLbFlqblM1OVhUM2RKZnVTVi1vUVVHZm9ERVpSTDdEeUx3?oc=5",
+      "source": "Traders Union",
+      "time": 1794669355,
+      "asset": "ETH",
+      "tags": []
+    },
+    {
       "title": "Apple's AI Ambitions Meet a Margin Test as Wall Street Splits on the Trade - ad-hoc-news.de",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWThEV0xLWDZmTzdycGlHVEpJMnRab0JhNGFsQklhbmlSYTlEUm9kS0ZCQ3hLVU1mWmQ0WkJPTHZBYmJ1NWxMNWJhaWFBRTczU0hGNy1pQm1veVZoY3ZNVk5tZGdfVFRiVWZ1T096ZzBpd1h0TF9DbU9TaU1KWDUtc01JZ0Fxc3ZRVUxCdE0yeUNnMVZDT0pyMjRKVVhhblFqRzFYaks5eUJDYmcxczVMWVEtSkJaemtsaDhpVWU3ZHo2WWhrazBqVVlXRU5DUlNidGlxSjNlRlVqVHBqUFlZ?oc=5",
       "source": "ad-hoc-news.de",
@@ -38,11 +874,11 @@
       "tags": []
     },
     {
-      "title": "AMD Just Beat Nvidia by the Widest Margin Since 1999 - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYTQ0ak9nTnNHYlN5cElyTWpXbklnUmxlLUswWjFuMWtQU0lCUW05Qi1ZbzVqamxxQzM2cUdQVF9BOVV0QjRoRnFORmZnc3FVQmVyOWVZdlh0dTZHWlBjT1BySUFzSnAzbU5xdktGcVh2dGs4endkeVNXcWY3aTU5RTVZUjJuQ2xtUVVMWGdfSlhiZERDVDJn?oc=5",
-      "source": "Yahoo Finance",
+      "title": "AMD Just Beat Nvidia by the Widest Margin Since 1999 - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aNGtZQTN6QWpfZEZwb1U2NXlQRXVQbnJsRU82WktYcTJ2cW1yRTR5YUFzTDZnM0RwcDFiN0ZJTURlX1c3MlNnbjNRT05xWlhFdnZrdE82QWN1VEtqUkg5VU1wa2dXQmNJUkQ4cUlCZDd3MkxycG5udUQ4cw?oc=5",
+      "source": "AOL.com",
       "time": 1794668869,
-      "asset": "NVDA",
+      "asset": "AMD",
       "tags": []
     },
     {
@@ -62,11 +898,37 @@
       "tags": []
     },
     {
+      "title": "Bitcoin and Ethereum ETFs just recorded a massive $1.46 B - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE52cnhKTmJudGJ2aE81NXl6SXdJdUU3cU54cko4MGlEVWRMcy13WFF5b1YxTjg2SEc0WWtYTzl6eUwxZjJOMEdmY21SdHNndTlpMUs2VERBWEpubzNOLXZmSWJwMHZTb1hCNW1SbW5DN1hHdw?oc=5",
+      "source": "KuCoin",
+      "time": 1794668797,
+      "asset": "ETH",
+      "tags": [
+        "etf"
+      ]
+    },
+    {
       "title": "BTC price range on Nov 14, 2026 at 11am EST Crypto Prediction Market - Robinhood",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdS11SjFDaFZ2ZWdEMDdJRVFEVzhQeXhoQks1aFNsTHBld2k3c0doS3RSRlZPTFJkZ0t3YVV2TzU4TGpFN01QdEJNYUgwdDNCTDYyd2Npd2tIa3J1ZjFZMzVvS2diWU1ySHFxRFFTM3VlRWdaWE50Nzl5OUdSTVJSYzRWdEJDYXo1aUZrd0NKZDdwV19VN0VELXZVeXRIY1hrS25JVFdqT1dTRG1abDkwam4wQ3hsVDQ?oc=5",
       "source": "Robinhood",
       "time": 1794668791,
       "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "2026 is seen as the year of Ethereum, Geoffrey Kendrick says - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHhzdUFnRzUwYUlUUldOR01wR0YxUUNZQVNUcTJOLWl4YUhfbnY4V1lCcjM1aXFGdF90empzNmVTY2cwbi14THBmZGlmWnJIdl82cGx0QVVQZEk0d0dWcjVkMkQ2TFRUSG5hY1VpSHNRUklaWUpONEFBYl9qNGJxV1h4dmlQRHYzT3EwcktjMnN1dzYy?oc=5",
+      "source": "Traders Union",
+      "time": 1794668742,
+      "asset": "ETH",
+      "tags": []
+    },
+    {
+      "title": "Notable analyst calls this week: Nvidia, Broadcom and AMD among top picks - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGowbUZuckJJZmlzem8tb2VpbTFXV2E2bVBwZlA5cl9ERFpnTHhQR2pDZDBxbC14NUtJX1d3RTRkQU1xMGlnRWhWcmtrUEFQY0dXVTBxeUJkTGtWbjNJbUl0TzV5Ty11SlVCclh3TjJWVHpEQ3VGZDhLWVBsbTdfTWk3NzRYcS1ZT2xTWWJMcWp0WkFQS0QzdF93S0lCOEd1aUk2RkRTa2pXMy1jUnRLeTZUM291Rkw2eWgzV1VnWGZkbC0wVFlXdE85TVRNMTA?oc=5",
+      "source": "TradingView",
+      "time": 1794668738,
+      "asset": "AMD",
       "tags": []
     },
     {
@@ -114,7 +976,7 @@
       ]
     },
     {
-      "title": "Why the Microsoft Outage Came at the Worst Possible Time for the Stock - Barron's",
+      "title": "Why Microsoft Outage Is the Worst Possible Timing for the Stock - Barron's",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRUtKYTY3Q0wwdDR0WDQ0NlBVV0xsZVEzM0J5aDVUd1hrX2VBOXFTbks4Z2JFZFF6RG9TNjVIb3ZNRl9KRUJvNGxnYlgzQzBKbWVYWDFuU3F2X2VBdU5UWVo1OWVFOHpUX0E3RHNmNXBJQTE0dVU2R0dUS3pvVWhGNQ?oc=5",
       "source": "Barron's",
       "time": 1794668700,
@@ -130,6 +992,17 @@
       "tags": []
     },
     {
+      "title": "Bitcoin falls below $68,000 as ETF outflows extend to seventh straight day - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVkZIQTA4ZnRvTHpyc1RTMUp3RWw2aDNBNXNXdnJRRmlqMmxIekNVWmpPN2pOallua2JpNDZQcFZ6QlZKbWlMVjdFMXJIblowclhFdFRBMno3Wld0RUFuT1FhMDhCQ3l0SmF1OV9ZUTdVdWozY0pyYnFLdmNGSWY0WGVCQjRndHlXdXJhb0txcWN6QmV6V0gyUVZxd1Eyb0JqaWNqS2RkdFV5MmNwZEtQR0hEOU5CMzFZTnRHNDh2MVF3SlVQejQzVlpnQzdNZw?oc=5",
+      "source": "Investing.com",
+      "time": 1794668429,
+      "asset": "BTC",
+      "tags": [
+        "etf",
+        "flows"
+      ]
+    },
+    {
       "title": "Why Tech and Crypto Sold Off After the Blue Wave - Entrepreneur",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0R2N01GeG01eDh3Mjg0RDBXbWZvbkFFTzVyc0ZPZldqNXpsZThERFpTbzdaUEJ1SHM1MExXWG50T3lJajIyaXB2ekpUMWRvU1prU1F1TkpENmNYVWlVeFYtakJCcUFCZ3hDekQzdG1hY0JZZW5rTURzREF6dW1RMFdQMkctSnBPaGlDZmY0UmJMZDB3bUVHSGQ1bkk?oc=5",
       "source": "Entrepreneur",
@@ -138,12 +1011,30 @@
       "tags": []
     },
     {
-      "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground - CoinDesk",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUnFqOTR2OXl6M2dvS2I3NlU5Mng1WWhIQ0x1TThNTkY2LUVmWENkRTVweTBqbGRQQTlhQlp1OW1RN0Z6MzdPaV9rbFg2YVBIU2w5Q3Z3UVpKSXpUWTdMcFhNTEd6Ymw4V1FIU19IWmVvelB6aG94NUg2V0k5VTBqOWwzdGNUa29jblZCbklYd2I5dW45UTVnZ2NjNWhDZ1o4Q2VYMmIxV0NjX25QbW1Ldm9LQXNxcHJkQUZoSmxGM1ZnTDJPdVhNMlZrOEMxR3JpYk1rS1cxb1E?oc=5",
-      "source": "CoinDesk",
-      "time": 1794668400,
-      "asset": "BTC",
+      "title": "Why Analysts Think AMD Could Emerge as the Biggest Winner From Nvidia\u2019s Turmoil - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSzQybGQ0bVE2SFpsSVFURV9vY3EzUm9hUV84bE5vUTVaTnk4aWJXcnBtWU1FQ3ppRU81ZmJWdTdwRXB3ZUcwRDNLbENXdVJmNHVFV0NnamUtellxLUJidDlCZ1h4VmlkdHVvSjRFbWcyeHdQWlVIRTRIVU9lMFJOX0RqaEIzaUpocnVRYmNzbFhLT09mb2JKN2xVN3pqX1hmOFg2M2FPOUxDUmVIUnZNdUdZVXFYUkJpQlhGcUpGNA?oc=5",
+      "source": "Barchart.com",
+      "time": 1794668403,
+      "asset": "AMD",
       "tags": []
+    },
+    {
+      "title": "AAA report: Utah gas prices fall 27 cents in one week; average cost in national top 10 - St. George News",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWnJOMVp4RUVjNUxXZmZTWmJzWk80b25BM1YxaTNMdENBWkltdE53QlNtcGx6T2ZNdW5IUjM1T3BReC1rWDdVbl9LaDlLWVhQc2RnWWZ1R0dmNUFmaUZnejZuWlJUU2hTMU4wZUE0RkxNYUxNMGMzN0JYbERLV19xd1ppdlBsRFZPaG9hODhYV19IODY5U011U25FVHk4ZkhsQXNhclpiVHRxbFFycV9MTkRUS3VaTzFMbFNDQjV1MzFQT3hHR3hJNWhiX0tJT3M0QklWZGlCUzFvanNjLVF2MWU5OHp4aG9QYVlneThmc3ZDS1E?oc=5",
+      "source": "St. George News",
+      "time": 1794668400,
+      "asset": "NATGAS",
+      "tags": []
+    },
+    {
+      "title": "Solana Falls 2.30% to $73.89 in an Hour as Long Liquidations Reach $7.66 Million - www.tokenpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yNEJCaUtuM3ZQN19Vd3JGakNMRHlsbGxRZkVHYVdSMFZ2c0JSUmhVMXd0U2R0QU5hWEJ6eXZaejdIdTlKN0hnMWZiUkNCV3U4MnNWa3BxMHFPQQ?oc=5",
+      "source": "www.tokenpost.com",
+      "time": 1794668186,
+      "asset": "SOL",
+      "tags": [
+        "flows"
+      ]
     },
     {
       "title": "Gold\u2019s sharp weekly correction: Persistent selling pressure erases over 5% of market value - The New Indian Express",
@@ -159,6 +1050,14 @@
       "source": "Crypto Briefing",
       "time": 1794667956,
       "asset": "GOOGL",
+      "tags": []
+    },
+    {
+      "title": "Jensen Huang Is Out. What Happens to Nvidia Stock Now? - InvestorPlace",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMW9HeXRCWFViQklxeFJ5Z05zTkdwT0Q2dmtxYldtMW9IZ0lVZGt5c0gtbF9qeFppTGZXSnRGelJzR0JWay1XbDktWGlBbm90aHhaMGRsQWEzdkpwRzJMT2d0d2V2enByXzlNRGN0a0hNNnpOS1Q3dXpJdzdKeVF4ZDBLbHE4b3pDbVZ1WENYQVRHT1lUSTFKWGFfSG55clBHNmIzVDZaa21iaXdV?oc=5",
+      "source": "InvestorPlace",
+      "time": 1794667932,
+      "asset": "NVDA",
       "tags": []
     },
     {
@@ -181,19 +1080,37 @@
       ]
     },
     {
-      "title": "Jensen Huang Is Out. What Happens to Nvidia Stock Now? - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc09SUWp5ZEg4UmgzV214T3JCaFRNa0ZGemtTU2ZYelRRUml0NG1vQ1J5cVNIdGZ6MjVfMjhMTkltN0pTMGhZblBHbnZyeVJXQnpNblgwdVowQWxJRmFGb0pKWU0yaUtqdUNWOXdNQTVkUXgyakMzWWlYUVZVNzRRbk53dWRuNHRTR09abkc4MzFvbEYtc0FzdHJIdVl5bHA2VFJHdjlFSGFCSzgtMkN4dTNOd3lvc1k?oc=5",
-      "source": "TradingView",
-      "time": 1794667714,
-      "asset": "NVDA",
-      "tags": []
+      "title": "Binance Covers 100% of $6.3 Billion Hack Losses as DTCC Moves Tokenization Service Toward Solana - Tekedia",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRmxmRmM1bXdtdVlROXRIS09lNXBWY204bkQzdUVIZDdhTVVVTXE0d2ZQYmI3UWdSX3JVRy1WWnhWa2dCNXM4c2J2OXVBbGFVOUtCcFo5RlI1MTdheVhMWEU0LURhNlNVcm5BaVhxNWFDRWhRS2RCMUpBSzFQLVp5eDhGaDlGbXQwSE0xbXExZ0MzRjNfV05aVmdoTlFrMF9rSDNQYVRKUmNEYUx4X3UxbmNvVklhZzNkb0w0?oc=5",
+      "source": "Tekedia",
+      "time": 1794667600,
+      "asset": "SOL",
+      "tags": [
+        "hack"
+      ]
     },
     {
       "title": "Billionaire Bill Ackman Says There\u2019s a Huge Disconnect in Wall Street\u2019s Expectations for Amazon, Microsoft, Meta, and Alphabet - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNFdXYzhMcUk4NXZGelVIVlE5eGdPV2ViclRzeFduYWZ3SnF2eXRvZXE1eUxsMGkzc1o0RXMwSkNTUG8xdUkwbV84TFNOM2Q3THoyeDk4azI1WHdJYWVSeUE5bmRuX2RoS25ITUZvT2pzSmdKdXRQLW01TXdtSXYwak5yYU9KUG5FU2NabjRWTXZQdV9CZ0ZTUXdERVJzYUY0QllKV1lSYnFPTWtaeXpDQ0xB?oc=5",
       "source": "The Motley Fool",
       "time": 1794667500,
-      "asset": "GOOGL",
+      "asset": "AMZN",
+      "tags": []
+    },
+    {
+      "title": "A 63-Year-Old Trying To Harvest A $40,000 Loss In Nvidia Stock Before Year-End Faces A Potential IRA Trap. A 2008 IRS Ruling Means One Easy Mistake Could Wipe Out The Write-Off Permanently - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQY0E5RDg0YXVCX1FkZFVzeTVUWGFhSzhuUW5tb1BFV0gtYXhuM1BXNXViX0lYUjUtZm8zcUFhNFk5Vkk5NGFfSi15NlFnV2Zqa3ZXd1RkZFJRQ2Q1S2JDaTZtR1pCR3VjQmZoSkwtOWs2aVNQTHdfTVhKRzdRWUxVYWdDNjU4eEFSLWVMQWVwU0FMb21NTTJKbldNb1FWRExUQlJLdGZMU3VUSWNJVGRvbEJ1LVF2NmZZOXJvMm9MVzY1eF91cFNVa3NwZk01bmV3UVVNLVFpUVUwUjZvUFlGemVDUjFkZUxjc1lWbnUtVUc1UkpjZmkyTS0ySXROVnZTRllJQlBmWnF5b0Z0NGJhWVFoaWxwenZpNFp1TVYxS25DS0RYUF8tTXVTN0hZbnlid0g4aTRjbG4xM0NkeEhLWFJvdzRFaFlzZmEtd0JxNmZmdFVWaHd",
+      "source": "24/7 Wall St.",
+      "time": 1794667380,
+      "asset": "NVDA",
+      "tags": []
+    },
+    {
+      "title": "BNB Falls Below 600 USDT as Bitcoin, Ether and Solana Decline - www.tokenpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTHpMSDhYekNfZ0lVUjdYZkFXOTJOUXNyampERVpiUG9TSm8tWDk0Qm9ReDFzbnl6UzJMWEpWN0Z2YnJkSFNEYXdGVC1vWkxaZVh0aGFheDYzUQ?oc=5",
+      "source": "www.tokenpost.com",
+      "time": 1794667355,
+      "asset": "SOL",
       "tags": []
     },
     {
@@ -209,13 +1126,21 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFJrN3FEZ3ZDX2N0S1IzdG1FaFVCQWpuT0hrUzRDMFREaGw3dk55VXdTNTBydU5VN05pQVo2aWhad0prejVENTluemE1R2tNMTR0MGNLd2NXYnAxd004WjdBaENDQk1yMGhEU1hJb2ZFcVhUdndGRkVwNGtFeGpCc3hROFRsR3RTWVVJRGhQdlk4WWxsNDZFWXFETjg?oc=5",
       "source": "Yahoo Finance",
       "time": 1794667080,
-      "asset": "NVDA",
+      "asset": "AMD",
       "tags": []
     },
     {
       "title": "Harvard Cut Nvidia by a Third and Bought AMD - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcmV1aE9qckN5S01UeTc3VHB6TmJLMGRKRUNGdU1UdG5QTVZLZng1bW1RSDNEd19jX0lyLW1wNnFNVHJRLXA1LUlzWDJOeE95dlhUdV9WMTRzYzltaTEzMGxZT2IzNWw0bzc0RzktM3hnMGJULXRIWmZubUJMOURXb0psTnJPMXNtS0R5MG1UbHhmQQ?oc=5",
       "source": "24/7 Wall St.",
+      "time": 1794667080,
+      "asset": "AMD",
+      "tags": []
+    },
+    {
+      "title": "Harvard Cut Nvidia by a Third and Bought AMD - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdk5BNWkxUDZyLUpNRE1qTVpYQVdXUWpFcDdFQ1g1UG11WDd3RFdfcmZwcFIxS3JJSlJOcVR1TUJWSXdtUkpmVHlZYTZWWG1aa0N4Szk2bnJIZ3BoWmlLblNkRUprZlhLcE1jVGx1Z1pacF9xQUVhRWtVVzQ3WXhESQ?oc=5",
+      "source": "AOL.com",
       "time": 1794667080,
       "asset": "AMD",
       "tags": []
@@ -235,16 +1160,6 @@
       "time": 1794667050,
       "asset": "GOOGL",
       "tags": []
-    },
-    {
-      "title": "KAVA token sinks 40% as exploit hits Kava Lend, exchanges halt withdrawals - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QY2RXdGxZYTY1U2lqMXkyUHhGcU5jMXFpOUl1VmNoQWlzNXgyclVwbmdQNHl0VU54emlhbjNrM0lvd0tHQzJhNzVScFdUdW1KYWVZUUY4bWRMT082ejdNYWV0NXE3WE13T2VKZzExdHQ?oc=5",
-      "source": "Crypto Briefing",
-      "time": 1794666909,
-      "asset": "ETH",
-      "tags": [
-        "hack"
-      ]
     },
     {
       "title": "Ripple to Unlock 1 Billion XRP in December 2026 - KuCoin",
@@ -273,22 +1188,6 @@
       "tags": []
     },
     {
-      "title": "Jensen Huang Is Out. What Happens to Nvidia Stock Now? - InvestorPlace",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMW9HeXRCWFViQklxeFJ5Z05zTkdwT0Q2dmtxYldtMW9IZ0lVZGt5c0gtbF9qeFppTGZXSnRGelJzR0JWay1XbDktWGlBbm90aHhaMGRsQWEzdkpwRzJMT2d0d2V2enByXzlNRGN0a0hNNnpOS1Q3dXpJdzdKeVF4ZDBLbHE4b3pDbVZ1WENYQVRHT1lUSTFKWGFfSG55clBHNmIzVDZaa21iaXdV?oc=5",
-      "source": "InvestorPlace",
-      "time": 1794665742,
-      "asset": "NVDA",
-      "tags": []
-    },
-    {
-      "title": "OpenAI Launches ChatGPT Wallet, Excludes Crypto Payments - bloomingbit",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kNklNRlFWTjdtQ2FCdUlDdDFaN0hxVnlTRkIza2VSQm1qQUU2UmtwUWJkeGpIRXlKTEtHZ3FfdFlzUndkN0swZC1vZ0l2S0ZQUTdqaQ?oc=5",
-      "source": "bloomingbit",
-      "time": 1794665705,
-      "asset": "BTC",
-      "tags": []
-    },
-    {
       "title": "Bitcoin\u2019s Crash Isn\u2019t Over Yet? Analysts See More Downside Toward $60K - CryptoPotato",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZnVkUk5hX0tJWGpZX0Y0eWQ3a1RZcTI3LTQ1RElOUUVtQWgtdC1qVXRPUVZtem9hcjk2VlR0MW9ZZ0JtUDNfTmNJTUtpZ1pyMVFVQjBub3VvTGxXZkZ0VzM3UnhfT2NZbjFHWFViNzlSR1o5X3FYVF84azRicjRNYkFDcms3d2VaZDN6U3dMb0tvY1RLU0RV?oc=5",
       "source": "CryptoPotato",
@@ -305,6 +1204,30 @@
       "tags": []
     },
     {
+      "title": "Alphabet's Smart Glasses Land December 10 as French Data Center Talks and AI Litigation Heat Up - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaFBUZXN1NmJ1eWRrZUJ5Qi00YVR3VEtWS3dIOXZoRmthNDBvcXRrV3VMNjZtY3Z5ZENJNElNenBDZ05jR0xBemx6bmJHa2lnTGppVFp0WGNVNlpGMWpIQno2SU9LWDBocFNRWUVIOWJIeUlxZlR5cHNIdGROd1Q0VlpZdllJX2tGRTJHU2hzMXpWaThsUlc2eGc0ZHRmRlYxcmNYSmNzN203emEtd0c5Q2RNSHZHdmRDLTk4R1FiZUN0SlhCVXNlMGJ5cVZha1JRTzRXNE84WnNWWWdvZ2RWT0M5bTlzZW9xRTdWVEh4Y185ek8xTU1nelZDaw?oc=5",
+      "source": "ad-hoc-news.de",
+      "time": 1794665522,
+      "asset": "GOOGL",
+      "tags": []
+    },
+    {
+      "title": "Nvidia's lost week in numbers: $1.7 trillion gone, the longest losing streak since 2012, and why AMD and Broadcom rallied - MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGtkdENUQnFuc08tbWFncG1zbU1KbHlKekVSZm9Da1pKdkpPNGtKb0k1N2RPUmktY2c5SnZfZU9mbHhCVmtQUzZSQzNlMW5lRXBOVVRGTEFPYkFZdC1tdWdMeWZyYmlraHFNbktRV3NCTnF3SUFaQXNiYTFCanU4VUhTbmtGU0NCVENFZVNCcnN5ME9yTW96d0ttYzBDcHpXbXBBNEwzdmgwU0JGaTlEbG9oS2h5MlZ1QUpmQmlRdlRwZURXSUtkMmM0ZUVlcjJfUXc?oc=5",
+      "source": "MLQ.ai",
+      "time": 1794665375,
+      "asset": "AMD",
+      "tags": []
+    },
+    {
+      "title": "AI's debt bill: the ad giants borrow to 2065, and others pay the price - PPC Land",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQkp2QnF3dGdydEw1bkp2Q2xfNFVUX2JJUVhQaHdiU0JjSDhKeXN4VUV4WW5UNUVVMElhOHMySk0zVmtFbndET0FHWWJKeFFJX3hrcWh0NXVzV3NuZ2NtMmw3ZkpHc0tGWVJmZF83QVhMTHpJUkhSaEZNWm9XNS14NjNpejZCRkZPSmxBdkx3?oc=5",
+      "source": "PPC Land",
+      "time": 1794665311,
+      "asset": "GOOGL",
+      "tags": []
+    },
+    {
       "title": "Think Nvidia Stock Is a Bargain? 6 Reasons the Face of the AI Build-Out Can Plunge Another 50% Following Jensen Huang's Resignation. - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMC1mNjM1NGl0eGFyd2tUM0gzclZmbndNSVZKX1F6WDJ3VDRxbURIWnpJbnBmV2xtUnczLTNleGZXOW5VNHhob0x4cmhqTlZOVFd0bXd1MUwzblJxSHRLZ3FWWUxpWjVpY0ItT0VtNzl1LUNjLXZVaU1ZSm82cDlCbklNcWZ6M3BuUi02RWRsYTV3YlVWTE5obUpJUTU3Rk91Y2ExY2g0Rlpib0pfaTNraEtCTmY5UlBYRWFRcml6c2V0QUptQkFCQS1ROERUMjFwU2ktZVhzYURjQQ?oc=5",
       "source": "The Motley Fool",
@@ -313,19 +1236,11 @@
       "tags": []
     },
     {
-      "title": "Try Your Luck at Bitcoin Mining with This $45 Desktop Miner - Entrepreneur",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcEYzMkxCMno3Q2Nrb2RDSmR4WVVKVXZEVV81MW5FMG1Fd0U5NEJqVWN5ZU9ZYVFCS1M5RUlDY2FZVEIwOEhBS2VWRmJTbFJ1TVJMY0Zod3JyTmgxd3hKMm5yUzR2NHZGdFRQSlozY3BZWHZFUmRNZmpaLVBrZTJLWjFEemRFN0FmUUVFQU03SkN6VkJPWGh2YndBSDE2YkVYenJMRk0zYUFpQQ?oc=5",
-      "source": "Entrepreneur",
-      "time": 1794665025,
-      "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "Nvidia's lost week in numbers: $1.7 trillion gone, the longest losing streak since 2012, and why AMD and Broadcom rallied - MLQ.ai",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGtkdENUQnFuc08tbWFncG1zbU1KbHlKekVSZm9Da1pKdkpPNGtKb0k1N2RPUmktY2c5SnZfZU9mbHhCVmtQUzZSQzNlMW5lRXBOVVRGTEFPYkFZdC1tdWdMeWZyYmlraHFNbktRV3NCTnF3SUFaQXNiYTFCanU4VUhTbmtGU0NCVENFZVNCcnN5ME9yTW96d0ttYzBDcHpXbXBBNEwzdmgwU0JGaTlEbG9oS2h5MlZ1QUpmQmlRdlRwZURXSUtkMmM0ZUVlcjJfUXc?oc=5",
-      "source": "MLQ.ai",
-      "time": 1794665025,
-      "asset": "AMD",
+      "title": "Google Removes South Korea From Maps and Earth: What It Means for Alphabet - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ULUdTeDMzRUx0dVpmb01RSEx0NjNYQjdrYzRtcmVmUFJDSFZoYkdyNFhrd01DRkFFQkhYM0hNOUlQelBEY1pTckowUjg0c2dLc3ZmdTJYeTJTdWlFa1hEM3EweUhOZ094TDdCTkdKcnRCYmo2?oc=5",
+      "source": "24/7 Wall St.",
+      "time": 1794665068,
+      "asset": "GOOGL",
       "tags": []
     },
     {
@@ -334,14 +1249,6 @@
       "source": "Cryptonews.net",
       "time": 1794664981,
       "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "Lido Finance Introduces 0x02 CSM for Ethereum Validators - Cryptonews.net",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FME5iZWVvcU1KOWp1MDBXX0ZmRjZZLWthc2xwVVI1M0EzVGNyRmtKbmhpeU1KeHNfVkgtdVpsTXFsU3E3UVFQZENhNEw2T1A2bnVvWFd4LUtvdw?oc=5",
-      "source": "Cryptonews.net",
-      "time": 1794664977,
-      "asset": "ETH",
       "tags": []
     },
     {
@@ -361,6 +1268,16 @@
       "tags": []
     },
     {
+      "title": "US Natural Gas Futures Leap 6% as Middle East Conflict Disrupts Global Supplies - EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPREZQcm84b2pIQ3VLWWwtOUhfd3VuSFphcmQtOXlfNF9ubElDN0RXdUtYaW5mVHJUc1VaNHhTSVJRWUd2cUJBMjYyZkJfRVY5MDFHRjFIVjFzS2lHY0trQ1BFMnZhdmtUa1dKLXJFaUNZR1VNUGJnT2NLN1NYc1BQOTM1VTJsWmtFN0ttUktBLUdQVEFxRUk1YWxuT3NfOFVGaEFsVUtNWllEQ3p3bVE?oc=5",
+      "source": "EnergyNow.com",
+      "time": 1794664861,
+      "asset": "NATGAS",
+      "tags": [
+        "geopolitics"
+      ]
+    },
+    {
       "title": "SpaceX\u2019s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnNSbTJwTDZQZUN4M2hnUzdsb0RzZVZmRDZubXRhMHZVVjNEWmZsSjFZcGwxcmgzY0FuVS1lZFUzM1g1YjQzTWFaOTdrdHJqZm9keHNKRHVEcVhWSW9QTTA4SGc0WkNpRk5kaFdXQzhSSVZnVVdlaGREOFZ2NHNfWkNtQmg0SUVKaHdkekpXQQ?oc=5",
       "source": "Yahoo Finance",
@@ -369,10 +1286,18 @@
       "tags": []
     },
     {
-      "title": "I\u2019ve never trusted the stock market. After the Nvidia scandal, should I move my money to bonds? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVF9MN3h3VVdtYnRtalNFWlUtRjlxRElqbWFLazdkeXBjWWhhUDZJdmQwRzQwelhESFU4emp2Q3UxRWFWYU12dGw5QnVPZzdjV2dmenNKRHBLTm9MYkZ3eGxqRzlJUkcxXzkwcWxzckZGQ2ZYX3ZSLVJzZmkxS1BwNzdhdUFFRWdweWhPZEtaaEdvMUZhV0FUWWxB?oc=5",
-      "source": "Yahoo Finance",
-      "time": 1794664800,
+      "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart - Kitco",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
+      "source": "Kitco",
+      "time": 1794664571,
+      "asset": "GOLD",
+      "tags": []
+    },
+    {
+      "title": "Jensen Huang Is Out. What Happens to Nvidia Stock Now? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc09SUWp5ZEg4UmgzV214T3JCaFRNa0ZGemtTU2ZYelRRUml0NG1vQ1J5cVNIdGZ6MjVfMjhMTkltN0pTMGhZblBHbnZyeVJXQnpNblgwdVowQWxJRmFGb0pKWU0yaUtqdUNWOXdNQTVkUXgyakMzWWlYUVZVNzRRbk53dWRuNHRTR09abkc4MzFvbEYtc0FzdHJIdVl5bHA2VFJHdjlFSGFCSzgtMkN4dTNOd3lvc1k?oc=5",
+      "source": "TradingView",
+      "time": 1794664500,
       "asset": "NVDA",
       "tags": []
     },
@@ -401,25 +1326,6 @@
       "tags": []
     },
     {
-      "title": "Solana Foundation Launches Tools for Private AI Applications - Cryptonews.net",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TMTVtMnNMRVRRanJ5Q0VZQzJRd2JiYW5iZUJIRWdSMzhlZWRVVU1BbmlXbFRrbWZWWG5aV19yQWNQQ2hGQ1lUdEtaT3RYcmZwWDVqMkpPdzlZSGlx?oc=5",
-      "source": "Cryptonews.net",
-      "time": 1794663786,
-      "asset": "SOL",
-      "tags": []
-    },
-    {
-      "title": "US spot Bitcoin ETFs bleed $185 million as outflow streak hits seven days - Cryptonews.net",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaRkk3Y0FFZktmZ0dESFhGcnRxbGRFUDVuOTgxajN4TGp4SGFOTktlRHQ3OXJMQzQtcFhfYnJRVWhMX1h6dkIyUFRLMzNGMWI4R0sxQTVMUW0?oc=5",
-      "source": "Cryptonews.net",
-      "time": 1794663675,
-      "asset": "BTC",
-      "tags": [
-        "etf",
-        "flows"
-      ]
-    },
-    {
       "title": "Nvidia Stock Falls Below $165 After Its CEO Resigns: Is It a Bargain Buy? - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0h6TnVZSUNFbkdqS2JIbDJ1QVBiTjNkaklPbTZfX3M4aEJTWDI3MW45Zl9yOVphVGFWMmNDS3FJdzg0UUNvZ2tsYWVOWDJJb1ZsSEZzMjVyazlqWTVpMjlCSlEzbjRIY1Q4TE94b2w5MlFIMjJ0V21VQkEzUEdzelVzY1ZZZjVNOXhmN2RJUVlaczdCUW54a2swbC0tbzN5aUo2WVVkRWxjSWpUaHpDak1sTWF3c00?oc=5",
       "source": "The Motley Fool",
@@ -428,10 +1334,26 @@
       "tags": []
     },
     {
+      "title": "Barclays Keeps $100 Brent Oil Forecast for 2026 But Risks Skew Higher - EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS2NfUU1UN0puNEVTaHhEZUFOTnlKMzRmOEVHYVp0VkNackl3czZaWDRScGlnQm9kYkIyX01Ka3JvUkd2b0c3S2tkLTZYMDRZM2VKUnNxUnBITzYwRXhqS2oyUktDdTRNSGFqbG9GdlFMVmJJbmRXb0h5ZGkwSkhxMFdwam5KM094bm1qUXJSX1I3RU5VaERpdUJzUlAwZkNw?oc=5",
+      "source": "EnergyNow.com",
+      "time": 1794663553,
+      "asset": "BRENT",
+      "tags": []
+    },
+    {
+      "title": "The Microsoft outage didn\u2019t lose your email \u2014 here\u2019s what it does mean for you - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0U5d29Od01qNm5mUGY0WU5hdTN5eTV1M3ZxMUNiMXhzWGZtZWdlOExJZ1ZCLURsTGwxQ1p4OFBRX3hyZGNQN2Jfd2FGRUl6UG1kMzBDYjVTU2J1WnQ3QzdadzQ3ZU9zaEdPUG1XbUhNdmkyc1ktNVVsVW5XUjJBTGpUb3RsbVdaRkpvYVliQl9JWHhrU1Jab0hwVmhGOEZNbFY3NWFyME42bjVpNFZZSXZJS2FwM2ZGZVdzTjI1bUM?oc=5",
+      "source": "Yahoo Finance",
+      "time": 1794663538,
+      "asset": "MSFT",
+      "tags": []
+    },
+    {
       "title": "Bitcoin, Ether Lead Crypto Chatter, but Avalanche Is the Only Token With Positive Buzz - BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IUnpGVzdxMzNrY2J6TVJvTWdEcUJSdThpTlRrWWxFbk5oMUhvX2E4T25YU2lMNzM0QTBVRm0yRDdZNy1HUVhMTUk1cXljUk85aDlIdm1keGg4TzRyQmhTVmlGaFNldlFsOEQtR0hwUzZidW9nTFE?oc=5",
       "source": "BigGo Finance",
-      "time": 1794663556,
+      "time": 1794663300,
       "asset": "BTC",
       "tags": []
     },
@@ -441,6 +1363,14 @@
       "source": "Pluang",
       "time": 1794663282,
       "asset": "SOL",
+      "tags": []
+    },
+    {
+      "title": "Why Advanced Micro Devices Stock Surged This Week - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMkFfVnRJNklXNGZBUUl1RUlXYjlHSTNBREEtMm42dGZ4d09WZmdqTGItQ2xlZUhoYUt6YmtXLUlkeE10eHJicWVmc2N5TXRDQU9XZWlseWdKNGl1ZGVYbDBUcFJMUXVvcF94SXRTNFc0ZWVMdVRaMXlaSzRsUUFFLTNwSkRQQjFHWHFqbXg3cVY1YlJ2WGltTFRfaFRsbzlfdDMxMi1tTGJuVFpfMDVmVk91RURzNFprY1dqQXZFd29JUWZxZ2xVYWxUSEhOQQ?oc=5",
+      "source": "The Globe and Mail",
+      "time": 1794663237,
+      "asset": "AMD",
       "tags": []
     },
     {
@@ -457,14 +1387,6 @@
       "source": "bloomingbit",
       "time": 1794663083,
       "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "Bitbaby Market Daily | Nov 14 BTC fell below $70K and ETH sl - KuCoin",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FM0V3Z1paa3p6UVlrVzVKOTVncWFsZzlMdkJETnJmR1V0TElxa3lIWTRVRmJuYm5uVkg4VlEyc0lST0tUQW95WkVrV2Z6cmxEWmxwS1BJSGtkMFNhTXpvOC1peElXZXFTMTNSaHBZdXhNZw?oc=5",
-      "source": "KuCoin",
-      "time": 1794663022,
-      "asset": "ETH",
       "tags": []
     },
     {
@@ -494,11 +1416,30 @@
       ]
     },
     {
+      "title": "US spot Bitcoin ETFs bleed $185 million as outflow streak hits seven days - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaRkk3Y0FFZktmZ0dESFhGcnRxbGRFUDVuOTgxajN4TGp4SGFOTktlRHQ3OXJMQzQtcFhfYnJRVWhMX1h6dkIyUFRLMzNGMWI4R0sxQTVMUW0?oc=5",
+      "source": "Cryptonews.net",
+      "time": 1794662841,
+      "asset": "BTC",
+      "tags": [
+        "etf",
+        "flows"
+      ]
+    },
+    {
+      "title": "A behind the scenes force may amplify bitcoin and ether price volatility - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84U2JDS2lsT0dfVGtVNVdhWmd4el9iVnZKX1p6eC1PTGhGbTJJU2pRbDNPSjQyTmNmYlpNQ0dSUDF3T3hmckZuQmU5NFE2MlpBMnVpU3hHYU4?oc=5",
+      "source": "Cryptonews.net",
+      "time": 1794662841,
+      "asset": "ETH",
+      "tags": []
+    },
+    {
       "title": "Peter Schiff Calls Bitcoin a 'Slow Bleed' While Gold Slides Below $3,900 - Cryptonews.net",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zRF8wYk5MUTVPX2RTWVl6dUFvOTFJMi0zVlBVY0l5SENXb0xDal8zckFtS0tvSENqZ2VRM3J2NkowWVFIemVYTENDT2JfcWVialFidTVHOTE?oc=5",
       "source": "Cryptonews.net",
       "time": 1794662841,
-      "asset": "BTC",
+      "asset": "GOLD",
       "tags": []
     },
     {
@@ -513,7 +1454,7 @@
       ]
     },
     {
-      "title": "Trump Bought Nvidia Stocks Worth Millions, Then Gave China Powerful AI Weapon - NDTV",
+      "title": "Trump Invested Millions In Nvidia, Then Changed China Policy And Made Profit: Report - NDTV",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbUNxcGoxZnNnSFRLWXVOQ2ZYbGVnVXdpaDMyVzlmX0xXckVhRGpienJQWG41NGVtNFVTZGNXdkV4M2IxaVp5M1VTYkVrUVBOR3Y3VzNodFlCUlVBQUlaVVJPM3pfZlF6V0Jmdzl4TXVrQi0xcDlpXy1mNUYtTnE4c0RVbkl2WTJkZ1Zva1pkNzMtcW5aYWtCMXZNZ09oaVFhNW1XT2xsNjhjWHFJNGw5YVBZQlp2dlZBWkpzeXhUM0dQeUt0ZWkwMkRrY2Z2ak9HOUlF0gHbAUFVX3lxTE9fT3ZaMHh0dEFqQWFPTHViakJTa1JZMGhxYndKa3NHazNwR3pMdEtpVm1GQUhLWUN5ODR6OFgxSVZmZHlUUm5CTkZGNXhGSnd2NmJWa2dWNzctZl9GRFhGdHp1SHdSVVdXSUx6LVJ1ME9BX1JibEJUMmVIbUdvcTF",
       "source": "NDTV",
       "time": 1794662807,
@@ -521,11 +1462,27 @@
       "tags": []
     },
     {
+      "title": "Tesla and Amazon are building the workforce a 1921 play imagined: One that never asks for a wage - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDV2QzFDdWlmcWI0VnZhMFhod3M3WlB5QndZU3F6UEtLMGxodk1pY2p6Y2Q2TzNZZ2RJYVVDakRRU2JhOG9mNE9qcDFUOXhRcVB2dVN5SHhrV1gtXzhfdWxtcWNnbEMxZjB4VTVHZzZESF90ZDlkOEVIOWVhaFZVbDVYdE1HZWJBaUdFdm05LWRYU1VBUDVLZG0tX2tHa1I1amc?oc=5",
+      "source": "Yahoo Finance",
+      "time": 1794662760,
+      "asset": "TSLA",
+      "tags": []
+    },
+    {
       "title": "The Five Most-Discussed Cryptocurrencies Revealed\u2014Only One Is Being Discussed Positively - Cryptonews.net",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05RDl1NkhyX05lRi1abnRmQVd4enpHVF81el92UjNfTkExWFJ2Z2N1Zy1Ra0lGcnZJZVZWZkpPZU9kODF1NXpSUXVlZE9FZWljNkhHLTdRclJDUQ?oc=5",
       "source": "Cryptonews.net",
       "time": 1794662723,
-      "asset": "BTC",
+      "asset": "SOL",
+      "tags": []
+    },
+    {
+      "title": "Bitcoin and ether face higher volatility as dealer hedging amplifies price moves - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVkNJa2Y5OGpCNEVROW9FdWJBVkxJQnVKWUEyOEFyTzB5RFFRTS1jb3NobURod0tTVjVTRVVwX2Izc3dwS0dSMjZVbjY4dm5ETWtMTEJTWmpsY0ZGVzlhLVZfMTRsNkstRjBBblR2VnZSVkpjZURNOGpZVktZZHlmX09sTENWSmJfSl9vSVVkSlY3bGlkTGM4blJtTnBEMHZkdEo4aTBR?oc=5",
+      "source": "Traders Union",
+      "time": 1794662668,
+      "asset": "ETH",
       "tags": []
     },
     {
@@ -534,6 +1491,14 @@
       "source": "Cryptonews.net",
       "time": 1794662546,
       "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Precision Trading with Alphabet Inc. (GOOG) Risk Zones - Stock Traders Daily",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLUNQejF5VFVpNXhydVNNamlGMUtSekFYX3dWNEJJQnlmdFA0SElKLWdMSmlIZXZuU1JQSC12Wi0yMUk5Mk5VelcwUE1mbDBHTjF1bW50ZEplT09aZHJSMmE1Q0hueGoxNW1FTWFIbmp6aF9wRGhKNVdvQ0RMdEU1NFBNa0JweXpxWGUxNFdIVC0wZVlpVmp2OHFGUWZvTmZRUWM5c2pUeXVTd21qS1RTa0VMQW0tRVhETGRvLWZBWUVWYS12RWRxNWRyZw?oc=5",
+      "source": "Stock Traders Daily",
+      "time": 1794662521,
+      "asset": "GOOGL",
       "tags": []
     },
     {
@@ -553,6 +1518,22 @@
       "tags": []
     },
     {
+      "title": "Crypto Market\u2019s Nearly 6% Slide Costs Bulls $1 Billion in a Day - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oanYwemUwUmc4Y1pmV0FrT09RaHEyeVZsVDJCYlhuUjBxb3VpM25jSU0teHY1QTY1X0wtU0pFblJGSlNEc0p6YV84MlQyTWszc2pFVHJyQnptbTFOUnk5bmE1MS1PTWxQdHI5VElpcUJaelpETF9ZcA?oc=5",
+      "source": "BeInCrypto",
+      "time": 1794662131,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
+      "title": "Will Bitcoin Never Set Another All-Time High? Analysts Debate On X - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GbjhSUHNOOVdRMGtJS2hrbWx0NjFTOFFZM3VZOFRxZ05pUzhRdGlOY1ZDMVpmOEkxTFdhMTlwcThWTnktRVRpTkdPRXFjYUpkQVIzSlRzZkFyTUZ1V04xaXhseXdlXzVOc01ZZ2JHNGlkVElmcjFaU1pn?oc=5",
+      "source": "BeInCrypto",
+      "time": 1794662131,
+      "asset": "BTC",
+      "tags": []
+    },
+    {
       "title": "New Website Gives Silver Owners a Free, Independent Way to Check What Their Silver Is Worth - openPR.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPby1FRmxqckpoTDRVVzRpRVNiQm9kNXJ0d0RCZWNFdXZFcWV0SWZ3TW5XNWl0V1BBZWlFQkJHMDNZZWxnRWFGUTU2TUl6WDBNOEV0ZVZyY3lhbkR2akxQNmZZRkc2bFMza2I5Qk1QNzdYMjFKeXdVVERnUGc0WndCN2lsc3VKelhzR0xxWjFObFgyU1MxUE55Q3pnQ0lETTRx?oc=5",
       "source": "openPR.com",
@@ -566,30 +1547,6 @@
       "source": "The Globe and Mail",
       "time": 1794661704,
       "asset": "GOOGL",
-      "tags": []
-    },
-    {
-      "title": "Why Advanced Micro Devices Stock Surged This Week - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHhDVHZUbUdDaDg0ejlST2JLRkFNdFMtTnNuNmxjN2c1a00wcFpVbEp1VFpaRTlxZmpYMGdUam44cXFXQmN6aUtCakVqeGdta1BlTXhaMUFOVFRfVUh2U0ZYOFlxSFZYQmZHcUNEdzJvZnotdWtaS1RUZGpQR1RQazJfMzlXOWZUNFZIaGdJb2d4N0RTMVZtRmRqOGJSUQ?oc=5",
-      "source": "Yahoo Finance",
-      "time": 1794661562,
-      "asset": "AMD",
-      "tags": []
-    },
-    {
-      "title": "Bitcoin Slips Under $70,000 as Two Analysts Split on Whether the Bull Run Survives - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zdGhzMlFuWjFQNUFIaUlIQkRlcVFxYWxYMFk4Q1JuSXVhSWxGQXhVTTA0WmZTTlVxam5aYWloMFFVRDVDYkxmazlUaFN1R0k4SDRfSzRRWUtnSHZHNmdYVXNrLUZIdkpQSTFuTlJNdE8tR2tlYVE?oc=5",
-      "source": "BigGo Finance",
-      "time": 1794661500,
-      "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "The Blockchain Boom Is Still Happening Behind the Scenes. These 3 Growth Stocks Will Benefit. - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGljSUZ3RHNkQWhXQWdxTVl1U2ZRZGY1Q3pOd3p1dV84eVNlTGNKNWtSbXk2ZHdVa2t6c1pYQlhBUmE2b3FxekVuTk56UzRYWUFvdG1ZVUhwVm8zVmZkZmYxcTl2bE5LdmZST2k3eWE5bzJ4WW95VUZqSVcyeUluOE1rWkZqdFVSUGo2OUVGTHFDdTJMelhQSlFhUmhHOFZwVFdTMHRn?oc=5",
-      "source": "Yahoo Finance",
-      "time": 1794661500,
-      "asset": "AMZN",
       "tags": []
     },
     {
@@ -659,31 +1616,12 @@
       "tags": []
     },
     {
-      "title": "A behind the scenes force may amplify bitcoin and ether price volatility - CoinDesk",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOS1BbnJwS2RLNGVLay02R2NROXMwdmJvOGgxLVU4d0tMY1RSMjY2OUVkd0I1NUJfdVhHa1JrN1gwNlRYcm45aHBhQ2dEenBONWwxd20yclRiU0Jfa25rZ2NKQ05Bd2V6NmhpWS1CQ3RXRlJ3U3NaOHpPV01Zck5NektCNVdYemFxdG9ubUNMSnRfTjF6c05iRDlIZVFzdVJjRGx2Wk1IS3VqNWVNRnhpZGtUQzJfSGc?oc=5",
-      "source": "CoinDesk",
-      "time": 1794661020,
-      "asset": "BTC",
-      "tags": []
-    },
-    {
       "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
       "link": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
       "source": "www.coindesk.com",
       "time": 1794661020,
       "asset": "BTC",
       "tags": []
-    },
-    {
-      "title": "Bitcoin falls below $68,000 as ETF outflows extend to seventh straight day - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVkZIQTA4ZnRvTHpyc1RTMUp3RWw2aDNBNXNXdnJRRmlqMmxIekNVWmpPN2pOallua2JpNDZQcFZ6QlZKbWlMVjdFMXJIblowclhFdFRBMno3Wld0RUFuT1FhMDhCQ3l0SmF1OV9ZUTdVdWozY0pyYnFLdmNGSWY0WGVCQjRndHlXdXJhb0txcWN6QmV6V0gyUVZxd1Eyb0JqaWNqS2RkdFV5MmNwZEtQR0hEOU5CMzFZTnRHNDh2MVF3SlVQejQzVlpnQzdNZw?oc=5",
-      "source": "Investing.com",
-      "time": 1794660990,
-      "asset": "BTC",
-      "tags": [
-        "etf",
-        "flows"
-      ]
     },
     {
       "title": "Apple (NASDAQ: AAPL) Outpaces Every Magnificent Seven Rival By A Wide Margin In 2026 - Foreign Policy Journal",
@@ -694,11 +1632,11 @@
       "tags": []
     },
     {
-      "title": "Mumbai CNG price hiked by Rs 1.50 to Rs 91.50 per kg from November 15 - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQclNlODc1QVVMajJaMjVxUmhnNHVzaVk2QW1YRXp6Q0tJNW1EbDhnV0hnc2lnZG81RnhVcWxNUEFzQ0M5c1FUdnA5bXA0QXhndTZUZVduVm5hLWFFcndOR3lmbGIwdm9pMTRjUlhCWXcwSFhsWmpELUxhdjZNX1NZZkNmZVJlRXRkTm5XRlROd2lQdjFYVGlsTmN6NnkzVS1IaEVPRDVQTXp1WXlWcVdLLdIBtwFBVV95cUxPazFiNFJtMzBwN3ctT0tWdFBQa0JqZ3FRR1BYZXJDNTJUaGVZT3ZPekg5U1Z0MVA4UmpsSzVLYXpNZFUzV2QzMUwtY2xLQkxPLTRiSGxnNVFFejlWdkRGZzBHYW51S29mZjJCSDFTcmFkOFV6dFhmYTNmMEZsLWZJdFFRaVJDV0VKM1ZUMl83M1pWOUhtVFRQQ2ZlMzlINVVTcm1",
-      "source": "The Indian Express",
-      "time": 1794660764,
-      "asset": "NATGAS",
+      "title": "AMD Loses 5% Desktop CPU Market Share as Intel Regains Ground - eTeknix",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFExdXBUUVo4Ukp3TjhBM2tORG5qLTZFbXg3eEE0cTFYeUtUcEFKTGlGVTR6ZnN3dHBBQlBmeVdQSms2dldCTWd2bW1QWkRvd0s5bUtBNjBwQmJBanZaZzJneGF6MXZkcXVZYjY4cUQ2ZGYzZjhGNGZ1Qjhhcll6d2daNkpsc0Z5c1R2ZEpB?oc=5",
+      "source": "eTeknix",
+      "time": 1794660775,
+      "asset": "AMD",
       "tags": []
     },
     {
@@ -710,19 +1648,27 @@
       "tags": []
     },
     {
-      "title": "ShapeShift Founder Eric Voorhees Buys $97 Million Worth of Ether - bloomingbit",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LVkI4RDBZaWwyejZmV1B6bVNBd1U3SXYwNXQtajUxOXFIeXU1alpfTVVxaXpLN3YxR0xYVTBvbXBuQy1BREJLbUFLdVlRb09tU3I1Nw?oc=5",
-      "source": "bloomingbit",
-      "time": 1794660736,
-      "asset": "ETH",
-      "tags": []
-    },
-    {
       "title": "Why did the price of gold suddenly plummet? - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YX2lnb0o4SDBpNlFqM1dXZktOd3JhbDNRRlNFT3R4SUQwUE1PR0h4emhxNDU5MVYtNG04RWNwdFlFSXptSW9sU3JKNzVGN0lfQkRkY09BYVNDQ3NvaXg2dmtOV2xGTGJB?oc=5",
       "source": "Vietnam.vn",
       "time": 1794660480,
       "asset": "GOLD",
+      "tags": []
+    },
+    {
+      "title": "Why Advanced Micro Devices Stock Surged This Week - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2ZFMjdSWTFDS3UtR1c0NWJneU1QdGZLZEFBRzY1SC05U2hyXzE3QlNMa193bk1USTFfMHRNVGY0LUxGT0ZPNHZ6RXFTMk1keGYzdnhSRTdvQ1hicDF6SXVmQzlhamJvczJfMk1VVGN2dWZsUjFSdGRoQmgyZ0l2R2Y2QkExbHByZGpmVWFyVkI1ZVFyVnNiUEt3R3lndHlYVkFzME9JNDE?oc=5",
+      "source": "The Motley Fool",
+      "time": 1794660360,
+      "asset": "AMD",
+      "tags": []
+    },
+    {
+      "title": "The Blockchain Boom Is Still Happening Behind the Scenes. These 3 Growth Stocks Will Benefit. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRVlaWC1HV3MtYzVvVXpEc2FwVjZLSFFvdE9taVM3eExxVW9POWg0VEUxT0llMjJZemxsd193S0NGdzU2eUYtVlJacnJRaHJQckMzN3RlOUtHWkFLZTl5QjNRejJBWWRIbExCMU9GX20tTlFtQUQ4eGp3N0p1RERhdlRjSHF5NENzVEF2TGlxZFQ1RXZqRHVJ?oc=5",
+      "source": "The Motley Fool",
+      "time": 1794660300,
+      "asset": "AMZN",
       "tags": []
     },
     {
@@ -747,6 +1693,14 @@
       "source": "Pluang",
       "time": 1794660200,
       "asset": "SOL",
+      "tags": []
+    },
+    {
+      "title": "XRP Loses $1 Support as Selling Accelerates: How Low Can the XRP Price Go? - Coinpedia",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTUxBekJTYjJ4RXdOQ1p0TEpMOGp6S2FnUm83a3V4Q3NIY3ptbmpsaTZVUjBrQ3lIbFo4UEZwQ2dXb3lyQThlbkNYYkIyRVEyaDJZVlRtMnhpNmFUb1VTN3pRZlJFXzY1bG1Vd3NFN0tnd01HVGFyVGZyU0pvOWhJeF8yZU5hSHExVUFPV2FlT1BNZXVERjhycGZKM3gwN0ctUHFXanVIM3ZwOVB5aGfSAbMBQVVfeXFMTnRVdjlmZkRmeHdCSldxa0RsRGh5cTVWSFc1dzdxZHk2N2Vrb04zSEg2ZldxOTJhZDdRcTRyaDNEV0M1a0kzMGYwdEtXVkNSMm1VWGtfWldyTm9kWWdTeElyUF9WYnNNWTkweldXc1M2dExBSjFLNF9Uc2hjRFVYeEVSZVYyQ0lnZjhrMGpCOFU5UE9BbktKYk5mLWpJWDFBeHgyWFR",
+      "source": "Coinpedia",
+      "time": 1794659887,
+      "asset": "XRP",
       "tags": []
     },
     {
@@ -801,14 +1755,6 @@
       "tags": []
     },
     {
-      "title": "Goldman Sachs just slashed its 2027 gold forecast. Here are the new numbers By Investing.com - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNDQ5MW1EbkpjVV9DTGUtdDZkNkxoYzBObm9xT0RqOVN4ZHpYZDg2b2pySGZ1UWtMekJfREZxdVlzekMwbU1KcHlkUVNhVk9oS3pjbjlpajlETmFGaVZ2ZkdueXZNdWlSRVBkM0RYSnZ1cjlJY0llaDd5aXk1ODhPaU9EWXFXVV9yOUpxU1E4cUQ5b1dSRzJTTUFocC1na3dNMTJMM0xrSzRibV9EcHo1OWtmaWpNSWJwRFNsNUJSN29GeEw1SGpnUw?oc=5",
-      "source": "Investing.com India",
-      "time": 1794658950,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
       "title": "Solana falls over 6% as ETF outflows and technical weakness weigh on sentiment - Traders Union",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZjRxSDRPd3NQVzF2bDlackFrcTVRU04xV3JWX3o0U0JVYTBKTGNKOElXb2dWNkZ1amJVNmNZRFc1VjlaSnljLWRVX1RnQW1uUHJidUxDNHVpMU1Zc3dDa3NuRHNnNm9DVXBEVlI5bjRrTzloWE0zaVdZamY0OGtiV1Q4U2ROSWRMYmdjSDdZLTlMQVJ2eVFqZTJseko2Zw?oc=5",
       "source": "Traders Union",
@@ -818,6 +1764,14 @@
         "etf",
         "flows"
       ]
+    },
+    {
+      "title": "Ethereum Price Prediction: 36.5% Staked as ETH Nears $1.9K - Coinpaper",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRlc3cGZrMjJENjVSQmlrUGJ3NXBSTmdiXzNHczNNRFI3UExHLXVzRE40bFF2TlhqS2ZzRTRaSTZlREpmZmVnV2d1Rk9SbXZXcDROQURnUDZLdkU5ZGhTNkhPZ0MzZVVNU3U5c3o0ZVptbTBURXNzaFdfcHM3dEh2SWNtNDdPNFQ4UEMzLQ?oc=5",
+      "source": "Coinpaper",
+      "time": 1794658715,
+      "asset": "ETH",
+      "tags": []
     },
     {
       "title": "NVDA, AMD, CRWV and More: 5 Stocks Investors Couldn\u2019t Stop Buzzing About This Week - Benzinga",
@@ -833,14 +1787,6 @@
       "source": "Forbes",
       "time": 1794658505,
       "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "Ethereum Price Prediction: 36.5% Staked as ETH Nears $1.9K - Coinpaper",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRlc3cGZrMjJENjVSQmlrUGJ3NXBSTmdiXzNHczNNRFI3UExHLXVzRE40bFF2TlhqS2ZzRTRaSTZlREpmZmVnV2d1Rk9SbXZXcDROQURnUDZLdkU5ZGhTNkhPZ0MzZVVNU3U5c3o0ZVptbTBURXNzaFdfcHM3dEh2SWNtNDdPNFQ4UEMzLQ?oc=5",
-      "source": "Coinpaper",
-      "time": 1794658275,
-      "asset": "ETH",
       "tags": []
     },
     {
@@ -876,11 +1822,19 @@
       "tags": []
     },
     {
-      "title": "Bitcoin News | Bitcoin Falls to $68,000 as Analysts Split on Whether Anthropic\u2019s 6x-Oversubscribed IPO Is Draining Crypto - Binance",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sZ0xuXy0ydmtkT1FVb2hBR0R5X0o0RE56LWJnTi1MaDRqcG1aZ29YbGhOZXQ0dGZrN21kMGRMSlpDS3FSSndyR3dua29LSzhuTzZOam1BOHpsT2phbkNKSmVjNTA?oc=5",
-      "source": "Binance",
-      "time": 1794657960,
-      "asset": "BTC",
+      "title": "Ripple's RLUSD Hits $2.71B, Overtaking PayPal's PYUSD as Stablecoin Competition Intensifies - Coinpaper",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMG1mNm9lQ0l1Z3JEVzA2aTZCeFRXY1AxWXBsVTZaUGl2cE1tMXhJcjlBVGFoc3prd1NlNzRyLWs1QnZzOVRWVUJfZlBTLVhwR1NBbDVlc1lSOGJndlZVSXRUSXdNUTR5Z3F1YzdZQU93S0dzNHJaWmpHWkRfOEpyZ3hqRTEzYWt3MFEwdFdFMnFuaWZyTEpjd2N3TmNtRDVWN3ZwdkZrWHlkMnBmc1BmN1FKU0NTNGhPTUFF?oc=5",
+      "source": "Coinpaper",
+      "time": 1794658115,
+      "asset": "XRP",
+      "tags": []
+    },
+    {
+      "title": "Ripple Plans Nov. 25 Reset of XRP Ledger Testnet and Devnet - www.tokenpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zQ1hFUTJWdlZqbGk1Rklxc1I4TzdiZm1CeWVGVGYzZGN0VElQM1lyNlhpbl9lS2tVVWxsY1I4b2ZIeUtuZFp6ZWx2NjJQYklVcHpjdS0tSTA4MVk?oc=5",
+      "source": "www.tokenpost.com",
+      "time": 1794658014,
+      "asset": "XRP",
       "tags": []
     },
     {
@@ -944,10 +1898,10 @@
       "tags": []
     },
     {
-      "title": "Ripple's RLUSD Hits $2.71B, Overtaking PayPal's PYUSD as Stablecoin Competition Intensifies - Coinpaper",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMG1mNm9lQ0l1Z3JEVzA2aTZCeFRXY1AxWXBsVTZaUGl2cE1tMXhJcjlBVGFoc3prd1NlNzRyLWs1QnZzOVRWVUJfZlBTLVhwR1NBbDVlc1lSOGJndlZVSXRUSXdNUTR5Z3F1YzdZQU93S0dzNHJaWmpHWkRfOEpyZ3hqRTEzYWt3MFEwdFdFMnFuaWZyTEpjd2N3TmNtRDVWN3ZwdkZrWHlkMnBmc1BmN1FKU0NTNGhPTUFF?oc=5",
-      "source": "Coinpaper",
-      "time": 1794657242,
+      "title": "XRP Price Today: $0.98 Support Under Threat Despite Oversold RSI - Brave New Coin",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMmZDY2NZdkIwUXhFSlo3X1ZGS2pYOUNQUG5PV0pUUHBrLTNINWpFUkpiVkRtR2VQQnJFZXBXWU83LTFsN3BlTDQySVQydnk3NjRxLTJKUWRIRWhPTmF3ak9UVC1yVVFOS0NGdDAwZXNhaXdycGdqRllCUExSUlcwX3R4a3lIMDZqRzREYllaMXNXaHJNXzJ4LTJvT1A2OEZYek12WDlJa0ZSMmdQR3NHMjlOTUt3REFoMWdMWVBxMlg?oc=5",
+      "source": "Brave New Coin",
+      "time": 1794657152,
       "asset": "XRP",
       "tags": []
     },
@@ -980,7 +1934,7 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUF9ubkpCdnNSMTRFdVBaZWQ2d01SVl94YUdUci1wbWJaM3locS1WT0lHeFdYanhBczZsdmtmclJXX3k4bjFUWlNhVGdpdzRTU0Fma290ZFRxbmwtTTB4TkFtNEN5aE5senA1cHRidlA3eU1RTU82cVpqNl9zRGpCMVYzNmRxblE?oc=5",
       "source": "Crypto Briefing",
       "time": 1794656052,
-      "asset": "BTC",
+      "asset": "XRP",
       "tags": []
     },
     {
@@ -1008,6 +1962,14 @@
       "tags": []
     },
     {
+      "title": "Microsoft shares recover, close slightly up after global outage - NewsBytes",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzRJeTI3aV9xaVc0Q1piMF9TeWNTM3FkeUtWclFQcDRXR29aQ3RQQnJhQVFELW1SRm1CNVFqVmJ6eEFTbVdKTTFoaWhsWGJWNElXeEpzcFhrNzl3SkRPdlRrTXpYWHJDNzdsM3FvaDd0R1NOajJRNnQzNlRnQkRwV3A5cS1fVzdrdXFCV2dsRmtQc3cxRHFOWjRaTkt3ZkNEaXd4QWhidEdWWXpYQ3k0?oc=5",
+      "source": "NewsBytes",
+      "time": 1794655422,
+      "asset": "MSFT",
+      "tags": []
+    },
+    {
       "title": "Let's say you're buying an international flight for Japan Airlines (JAL) departing from Japan this w.. - \ub9e4\uc77c\uacbd\uc81c",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FX25VckxGelFtbFhUR1dYaHBJeU9QYXE0QnZvX2xnenVXTEJaaC16YWR1T0Jwd3F1Y0JGZFl5NzVSaGNxNVdvaEVCWl8zbGc?oc=5",
       "source": "\ub9e4\uc77c\uacbd\uc81c",
@@ -1032,27 +1994,19 @@
       "tags": []
     },
     {
+      "title": "XRP\u2019s Explosive Move Towards $2 Comes Into Play - DailyCoin",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FRkllWG9nT2tfVUhzMzkydGlhZ01XRVBpU3VSZExOaFk1cWF5OUM1TlVkcDZvTmRoMERzNHA0SWI2TjU3LTNXTnhiT2hGUnAzcDhVdEhTaFRQZzVXazFJb3E4NlJVX1RTcTlBNEQ0T1VIS1Byd2c?oc=5",
+      "source": "DailyCoin",
+      "time": 1794654960,
+      "asset": "XRP",
+      "tags": []
+    },
+    {
       "title": "Microsoft shares defy massive global outage, close higher on Friday; Outlook, Teams services recover - Things to know - Livemint",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPN0Y2TFNEcjAyRHhnRFQ2aHloVmFzZ2dkMDFCQWRud25qdm5pS3BNWE1ISmxOR1hoUmZnbWdESlV4Q0VMSUt1WWVMbV9naFZyOVIzZlNCSVpWZk5aMjc2eUZmZmV6UGZBeDVNbUZqODktWnRHR25RWnRwV0pEd0xfWE1IR2J6dWl6MTFOZUpGa2g1R1ByQzlpVmJrOVp0TE9mQzRnQ25jRlZBRjR0eHhwRHJkTnRwSjdmWjR3VUtPeDEyZERISGFJU1o4dThQNkJSQzh4QXU3NnI5NmNFVkN6WEppTEs5ei1NaEMybWt5TmNKNFNseUl1QWJSVGpDd25zX3FqU1V6WUg4dzExbWRZ0gGUAkFVX3lxTE4wRjZST3MzTnBCdC1uakY2d2JhUFdjT0U5al9Vc1c4QUtOcjNMSjZPQzBNcktPeFZOYnBhMFNUbGhjdWx",
       "source": "Livemint",
       "time": 1794654587,
       "asset": "MSFT",
-      "tags": []
-    },
-    {
-      "title": "Shiba Inu Withdrawals Top 1 Billion Tokens per Transfer as SHIB Tests July Low - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yTkg2eUZoVjM1QVhjRzQxc3lORlBQXzNoZlEtaml1SlhnZUY5d0VWaUFROFlHeHBicDViRHBuS2xwdEV0MlJzTWxtMmw5T0drZjlPQVVyTHhQN1kyNGhOd3ZsZmlkY2ppUGNQWm05SXR4VFFUUmc?oc=5",
-      "source": "BigGo Finance",
-      "time": 1794654569,
-      "asset": "ETH",
-      "tags": []
-    },
-    {
-      "title": "Update on gasoline and oil prices on November 14th: Turn around to increase - Laodong.vn",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2dzS3drNEc0a28taTZpelJnN3UzbFNEZTNxSWpzWkE2VV9EUlVwbjF4LXYtbEJUQWtUUDEtSWlnQWxJbG5BZGplYVBqdkFjeXo1UmVvcE1sWVEyZzNfekRNYWR5NFpVNmZFb0hrREhLeXpQeHhzZzUzMnZwWkVhcVRUXzRMSDJIa2xEMjF6eXBtXzBpaWIxSA?oc=5",
-      "source": "Laodong.vn",
-      "time": 1794654528,
-      "asset": "WTI",
       "tags": []
     },
     {
@@ -1080,11 +2034,11 @@
       "tags": []
     },
     {
-      "title": "Devanampattinam Silver Beach in Cuddalore receives \u2018Blue Flag\u2019 certification for 2026\u20132027 - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNmtUQWlDSWNuMlFjUmJrWDRhRktDU19tM29ienluMXdjV3ZRSHlZSnc0S0VhNm1nSThsUHZla05rejBpUUs0aHBRQUVyNEQ0WjNJbnU3MkhBZHZ5VnZWX3N3cC1XMXZVNldHQWVGN0tRMnRMSEJzZG90aFc2akEzUmVzc3FfQ2RtRE43d3NNUEZGckstcXpla01jazVUa1Z4N2NIN0VWanR2ZVNnc0E0ZzFsSUtIZ3NoYWJtRS1nZUFkUTl5Tkl5TVFqYk03UXJ5LVBqS1VqNXJnbWprYkVhamxFM1ItTDFrZXM3UVFmNmlIWHZK0gH6AUFVX3lxTE5WQURKUy1tWmxybWRER2tTRm96S3lVU3FwbEc0WkdBZ0UxLXFPSDF1SDFJYlQzblpUSmJxN3M1R2wtQ2hwWDZKZEk2M2RKZndqV0R0RmlONzZ2cFQ5UEt",
-      "source": "The Times of India",
-      "time": 1794654060,
-      "asset": "SILVER",
+      "title": "Jensen Huang\u2019s Exit Just Gave AMD and Google Their Biggest AI Opening - Analytics India Magazine",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXFsNHBra3E0MlNDVTYwUkRUekZ6NlVWTU4xblNYaXc2d2FqTEhtSTdYdkRuNXVVUElmQWNqbUpPR2I2M0dxbU9OMWZUYVlhLWtZY1FOOU5FNlNrMG1xUHRibFpCZmFJQ1BIcEZoa3lQLW9JMmxKaHMyOHVwek8xaFdQQ2RBVUw2ZFo0ZUJaLXA1NzJ5NnJHRUhVcE5OUmJiajNlRTRjR0g4eVdLSllz?oc=5",
+      "source": "Analytics India Magazine",
+      "time": 1794654090,
+      "asset": "AMD",
       "tags": []
     },
     {
@@ -1128,6 +2082,16 @@
       "tags": []
     },
     {
+      "title": "Analyst Warns Ethereum Could Slide to $1,200 as Whale Shorts and Leverage Build - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85ZGxoYmIzMy1rMFZGSUxNLU9lR29tRzBKSEdoaDdHdHlDdDJCN1g5dUVKOEp1akhBeWJubUtzUGY4WU1jM2xScXBMNHF2aE5kTnVPd25QX1hEZFg2c1NvRUd5cExRNHMwbENMNTZoaW1PZC1ZU0E?oc=5",
+      "source": "BigGo Finance",
+      "time": 1794652703,
+      "asset": "ETH",
+      "tags": [
+        "flows"
+      ]
+    },
+    {
       "title": "Gold prices fall for fourth straight day - The Financial Express",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazhWbDJBMDcyUXhlcDRaejdsNUJiVWNpQkdtYlpHdFVabzlkT3Y0anpWVGFNTGw1bzc4OGRJNEpWRjN0Rnc5WlBpbFIya3RvZ1lpRkx6Q3AzdFBwdjE1ODB3TmJ5VmN5ZmNXcUYxTDdwcFcwblVMNmh4eFFfZ2xXR2piaHJYZzZZ?oc=5",
       "source": "The Financial Express",
@@ -1155,7 +2119,7 @@
       "title": "Gold Prices Hit Records. Where Are the Major Discoveries? - Streetwise Reports",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVktSjFuSVBOenplY2tFT2JSdDNBREhlM2c3Q0dZM3ppNTVxWTUwTVFPVFlHbFI5V2FiR0s3dktySVJFbWpKRURqX0k2dnAyTXdoQ2pTV1RGQUNKdUZDUFdETm9XeGVycFdPQ1ZxdjViOTdwTmVBMXdBWDJLTXVVVnRDSVVMN0VKZG1RSHk0TWxCenBYY241UVVHbFVHTzI3aDVnbzlqYlNhYWFRS0dRYnJjSQ?oc=5",
       "source": "Streetwise Reports",
-      "time": 1794652200,
+      "time": 1794652236,
       "asset": "GOLD",
       "tags": []
     },
@@ -1163,7 +2127,7 @@
       "title": "Central Bank Gold Buying Surges 42% as Prices Dip Below US$4,000 - Streetwise Reports",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORklGZ0xpd2dxTXk1bW5aRnNpOEVmeU5pZ3lYZ0JJUWdTQkwwMWl2eVJtWEdFcGZHcWx6VG9BcnE0QlJuem1pWXhLenNNZURERDFzdWZtY1FqMEw5THo4S1oxZHBrSGxkWmNQeFNheWtjUGdWUm1PakQ4NjBaQWpNM0E0dVVTZE5jRkxaV2V5RVZfN09lZUYxblFrSzB6c2l2bUJzUUhDY1ZaOWR4NnJhS0dfdW94c21PT2N2UXlR?oc=5",
       "source": "Streetwise Reports",
-      "time": 1794652200,
+      "time": 1794652236,
       "asset": "GOLD",
       "tags": []
     },
@@ -1186,10 +2150,10 @@
       "tags": []
     },
     {
-      "title": "Nvidia Earnings and Anthropic's Debut Set Up a Pivotal Nov. 18 for AI Stocks - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ib21XdzE2NHJoRG1SazMzTVl0SzVZVFhHcnh4V3ZPalpzZEszX25lYVZiQ3BnTDBDZk9NY3FJd1VjWFcta2FKWHFqUkprRU50U1pKMFc5dEM5bTZpTWF4bzJVLTh6ZjFiNUlPRGwxb1BmQUJDNnc?oc=5",
-      "source": "BigGo Finance",
-      "time": 1794651900,
+      "title": "Is Alphabet \u201cthe Most Obvious Buy\u201d? Morgan Stanley Sees TPU Sales Jumping to $84 Billion - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORC1wRGp1N2lGNjNtRV9mM3B5RlRYMVVEUnBUS2hVd2FQM3J6VG1INFNERHVUTXRyWlFxOFJ0dDF3MHNva3NaMkg5eEdSOElMb3QweEJkSHFvZWJIT0ZWeGQ1TXZjN2ZiY3hfV1lqbGF4NDBEaGlac08ycjhlQXFiNWhhSE92YWo4bVNmb2pwWnJSWUVEQmlWMHpNanFIQQ?oc=5",
+      "source": "Yahoo Finance",
+      "time": 1794651950,
       "asset": "GOOGL",
       "tags": []
     },
@@ -1234,11 +2198,11 @@
       "tags": []
     },
     {
-      "title": "XRP price at Nov 14, 2026 at 6am EST Crypto Prediction Market - Robinhood",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMHJISzN5OS1QcEJsOG4waFNhLVh6SnZnRWFxWFN2SGZ0dlg0ZmE5VzQ3cGVEekRyNzZuUnlpQ3ZXS3BJZXdaUktBSW82d3h1Zm82NEFzMjBFaEZ3Zk42VUswbDZWTXdvNk5kN2xRU2VzNEgwUExFWmVkUXdidzQwYjhtWHZrRjRMLWRFd2RqTllPd1AzV2RxdWhKb2d2MkZFUW9OY0JWWUxkOFBiV1E?oc=5",
-      "source": "Robinhood",
-      "time": 1794651091,
-      "asset": "XRP",
+      "title": "Ethereum Foundation-Linked Wallet Sold 5,000 Ether Over Five Days - bloomingbit",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Takpwc09PTzVXcHVuZlRCZkFiUXhUZ09KaGlGcERRWUpUT3Y4Y053T1M1ZVE0RGZyUndJVmQ0NF96aE96eHVJX3IzbjZqSVo5dlRtMQ?oc=5",
+      "source": "bloomingbit",
+      "time": 1794651336,
+      "asset": "ETH",
       "tags": []
     },
     {
@@ -1282,14 +2246,6 @@
       "tags": []
     },
     {
-      "title": "Nvidia stock closes lower after company opens probe into CEO Jensen Huang - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGdCVXFUbVFHRGZpeE1wVjZ1ekhMRHh0aVZmSG5sZTl6Q1dSeUVwTFBsQ09iTlVHNURTT3M4b2ttTGRqU0xWQTlUcld5dG55Zlh6ay11NFY2VGQ0djc2NWliS1RSYnVqYWRyajRUZ0YtWWtVaDRxcHNJcjlCUGw3bGFFWDgyT2J5M2d3aGNtYldaZXpDTWdJdm9aTDPSAaIBQVVfeXFMT0Z3cEdFWWhNemxyYVlQWFJEQm8tYllLbm1MTzFZektNR0RKczg3b2U1NXNfVkYxWklzQUR6bHVqQ1IyaU9KWnZER3VLUlRITnFaU3VhRTR6alp4dUhOeXFKM3BUZG1XeTQ5WFBRUGtBYlBRY3F6dzhYSkZNX3RuUFZKS2RHN1Z5MlNsTjdKelk5Q2RmT1hwT2hqU1h5LS1kQzh3?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "time": 1794650174,
-      "asset": "NVDA",
-      "tags": []
-    },
-    {
       "title": "CPC to keep domestic gasoline, diesel prices steady - Focus Taiwan",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GQ2lLV3dIOFE2RUZoYzQ5aGI1cnk0RVVHLWJxNVprZGZjREpoMnlKM3VCNk9selFUSTRJX3FnenY4UU5qaFl4WFJQT0xqRFdpU0lDX1hlYw?oc=5",
       "source": "Focus Taiwan",
@@ -1311,6 +2267,14 @@
       "source": "Pluang",
       "time": 1794650063,
       "asset": "XRP",
+      "tags": []
+    },
+    {
+      "title": "Microsoft stock pairs AI platform launch with power-cost pledge - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMnBEZERDTVpMZGhsOVFyWDR3ZlZvTWM4ak8yUGV0aTAzSlVyTTRZTHpmZEJmcDdJODVhQUt6dnpyczdlelpWSG9ZS0ktZ0tJcGQyNTcyaFlXWWhrX0cxLWhqRkdhb19tdnc2NzdQZlR2SVRQaEJTSmZNRkM3b2VzaWdxcFctVnNzaGV5NmdYX1dwU1VDZUR0Z0ZSMXlVX3I0OEdJbGVnSTU4am02X1Z6dGNfclVUVXNZSG4zMVdqdnNodkpk?oc=5",
+      "source": "ad-hoc-news.de",
+      "time": 1794649788,
+      "asset": "MSFT",
       "tags": []
     },
     {
@@ -1342,7 +2306,7 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdGdpZVBkZE4tZDI4RHZSUXRlOWJPempuTEtsem5vTnVCMHpiZThHcWZoX0Rfc1RockxJLUhMQWJQTUNnTnNXbTRURG1DYVdSX3BKVTJZTEp2VVgwTk1kZTR2RXd6ZDBwSWFQX0dBcGpya1M0M2RueW5lUFVZX09KVzZwNm5pN3RkdE1yby12OHY?oc=5",
       "source": "Pluang",
       "time": 1794649219,
-      "asset": "ETH",
+      "asset": "SOL",
       "tags": [
         "etf",
         "flows"
@@ -1383,19 +2347,19 @@
       "tags": []
     },
     {
-      "title": "Bitcoin Falls To $67K As U.S. Yields Rise, Dollar Strengthens - MarketForces Africa",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnNSQnFhX19lbXI4RE9FMWVud1NrZ3VULVpWWlhXeWJyQkZVWVduRkxJeGFHUlFZY1NOT0l2b3E3R1gtMjJwVUd6OWZyV0hLaHBZN0tua0hkOGxHcU92R2szSnMyOWhibjFEOUdObmtWcDBSSDBLQ2lLX1ppWVE5WDQwZzJKMUM3c1VNZ2VB?oc=5",
-      "source": "MarketForces Africa",
-      "time": 1794648449,
-      "asset": "BTC",
+      "title": "Prediction: Nov. 18 Will Be a Massive Day for the Stock Market - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRXlDZ3FNZGJ5SldRNnRBNUtmdG04bDFsWm9YdWh2ZHFWelJ1NDNnWmlqUUc3Ymp0RTFpV1RjblV1T1JYbWlPWFNzVGhGZXFzMkdzSmYtanY4b0VTWXc3dTZNQ2c0RWJaNEJaVGo4VU1KYkEzZGZBY1BqdlpBX3NibXhOS1h2aHppV2ZJWnRLUWRqODF0TVUxcWhn?oc=5",
+      "source": "Yahoo Finance",
+      "time": 1794648602,
+      "asset": "NVDA",
       "tags": []
     },
     {
-      "title": "XRP held No.1 for 12 days. Today it's No.2. $ETH takes No.1 - KuCoin",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qd1RUMjB4Z1M2b2c1Tno0b0xSUU1xOWM2NGdfNGx2VmRaN3J0MlVvLTRDUU5xNkxoX0FHWWFheDNtZ0xVb1B5UWpYUnRLRUFzODF2Q3NnRE9pNjFRYWROaWR0ZTNvWDVGN2VlUkIxQnpFdw?oc=5",
-      "source": "KuCoin",
-      "time": 1794648432,
-      "asset": "ETH",
+      "title": "133 Million XRP Transfer Between Unknown Wallets Valued at About $137 Million - www.tokenpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTT2ZwNlljNDVrZE5fbnNlVWN5NndOeGM2RkZxYnRsY2EtLTFOYVV2TVh2aU84X0ZoTk5ibUR2MXRvWlZ5Wng3WlZubS05TXVNRTNGenFVRTF4QQ?oc=5",
+      "source": "www.tokenpost.com",
+      "time": 1794648482,
+      "asset": "XRP",
       "tags": []
     },
     {
@@ -1425,19 +2389,19 @@
       "tags": []
     },
     {
-      "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5",
-      "source": "LiteFinance",
-      "time": 1794648149,
-      "asset": "WTI",
-      "tags": []
-    },
-    {
       "title": "Amazon.com, Inc. (NASDAQ:AMZN) Stock Has Consensus Price Target of $321.74 According to Brokerages - MarketBeat",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMWNfVE02TnBmUmpKTDZKWmVrN3k0VUZuc20zVXoyVS1kTFBvLWhqR3VpVjB2c3k4N3pFSURyY0ptWEpXSEFTdHVhdS1SSnVNOEhRTm5VLXRDdVdYWWlZLWgzUFhGWTBQc29ibW9jTnluSUNSYkdQYmFITkdvbmZOTkNNUWJOd1VOUnBUUjJxcTZtTXRkYzg3MzlHTjctTDhjLTZybF9mNXl4TjdYUmN2TklucWVhLWpKUHk3N19RYXlaYVJEeVlubHU4OTVvbU1wT1RXUU9aN1VRbVc0cmlUMHZOSmV0aFJQNjFB?oc=5",
       "source": "MarketBeat",
       "time": 1794648004,
       "asset": "AMZN",
+      "tags": []
+    },
+    {
+      "title": "Solana price prediction: Breakpoint opens at $75 - CryptoTicker.io",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQzBFUW54YU40R0p6X2REUUFjMHpWV0phcEFwZy0zSWJnbzJOMjNUZTBsUUF3ZDV3T2JtWXJkZjZKN0JHRnRPNE5hQzU4eTd1bTJkS2w0VHY0Yl93MUxFRXNIdmpiaHpFTmhHWEx4T0E3UWs5YnVXc05LVlRESGhvdWEyYUpXTzZSeEE?oc=5",
+      "source": "CryptoTicker.io",
+      "time": 1794647923,
+      "asset": "SOL",
       "tags": []
     },
     {
@@ -1454,6 +2418,14 @@
       "source": "MarketBeat",
       "time": 1794647754,
       "asset": "AMD",
+      "tags": []
+    },
+    {
+      "title": "GLEN: Copper And Coal Carry The Upside, Execution Risk Still Caps The Case - Simply Wall St",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPQzA3aTFVSF9ULXR0VlB2c093aTlwRGdYOHZwOUJ6UmpCT0RNenhwNGg0M0ZGN09IUDFXb3dNT2t5aTN6OURVMzNpampJanlyWXlreFhTNzlQUmVTWEI4MHpzWTJhcEtxbm95NVcybkw5X1hpcjBYWmxfLUpnMnMwSnJBdGp6Z3hmOGFFLTlPbUhSRW9BYVhsVnZiWTd1dHcxVlh0aEgtUmk3eVpOVHBOaUV2bk9RalRqU09iT1lWWWN4SmF5MUFFWElfZnFjN2NNNE5DTzZpRk9wQkNUZGtpM0stLVZUdUNOQndRQmd6NTlnUEIwZGZBbHRBbEtnSXJuYUpFaDFsRHRBOUd2VGlOOFBmTEduUW5MencyWDFzcjJ3OWxpbWtRamJKeWRfZllGOVdlaXdtdmk2T1JCaXpoLXQxTHJYTVFXVEQ2LWhxa2pWY2VCWnN",
+      "source": "Simply Wall St",
+      "time": 1794647457,
+      "asset": "COPPER",
       "tags": []
     },
     {
@@ -1497,10 +2469,10 @@
       "tags": []
     },
     {
-      "title": "Form 4 Alphabet Inc Class A For: 14 November By Investing.com - Investing.com Australia",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEhiZXBYNzNSSjN4R2NpdjB6ODhQRldLWDlzTUxnRk5acEc3ZkZiNWpBUWpVaGpSdWJNMjlHY0ZOQ19PUXViVXZLd09TZENSX3BzT3ZrOFdYZm91aFduRVNKYV9IUW1ncnZEVF9kT1ByUWJmTG40dzVVdHdBVWJYQWNHV0huMm5uWUtEME43WGxXcmM2LTNWUDFab0ozN3dVTWtxTjhraw?oc=5",
-      "source": "Investing.com Australia",
-      "time": 1794647234,
+      "title": "Form 4 Alphabet Inc Class A For: 14 November By Investing.com - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMlRnbk5WZXdEcndMYkJzUGVOTWtyNmZYc1ZxbUJwVzctbThtSUhGWTJRa3dLV3l1V1JkVVVfSmtDaUhobVRpaHNNeXctT01YT1cxM29xanhzRng0NGVORzF0aFBNd3RjVnBUUjcyc1FrVWxNVUpxLXg1ZGhNbmJGbW92ZUNvU3FBSG5vTzVUdGMyTnlTRWNXMXJvUExobWRQaEZkakJRVQ?oc=5",
+      "source": "Investing.com India",
+      "time": 1794647257,
       "asset": "GOOGL",
       "tags": []
     },
@@ -1518,966 +2490,6 @@
       "source": "MarketBeat",
       "time": 1794646684,
       "asset": "META",
-      "tags": []
-    },
-    {
-      "title": "Meta Platforms, Inc. $META Stock Position Cut by Consolidated Investment Group LLC - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbm0xSzF1UFZvV0IwM2ZyeEo2ZWlrcWRndkh4ME9KTXRjdmdBcTA1NFltZ0E3eDBKdDBVTUpnZHZzYzJtM3ptekFKV3ZKaEdSTFlMVlN4TmI3WVlsMWdMQk1IZUJ1Y1UzM1FhendPRV9PdnVjeWJnWTVicjBUMHYtX1d2TTBjdmQ4TU5QakJ3cnQyT1piQ3VST2lsRlVITzdDazJUaWFCMEFHRklEUHJMODljQkJLRmRSaGN1U1lpOHBZMU1ReVhVV1h4UFVlX2ZjZ2xBaTRfZw?oc=5",
-      "source": "MarketBeat",
-      "time": 1794646684,
-      "asset": "META",
-      "tags": []
-    },
-    {
-      "title": "Elizabeth Warren Emerges as Front-Runner for Senate Banking Chair, Crypto Industry on Edge - bloomingbit",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zenVFb3Q4SmFxWEdQUkx2VUxJMkc0STE3OHNKRFVpaVBwb2FBUVhCdU4taWtHTF93c0hGSklyUHI1RkJlU3E3YTFDMEh6aEVMWDdzWQ?oc=5",
-      "source": "bloomingbit",
-      "time": 1794646361,
-      "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "Bitcoin plunges below $67,000 as crypto liquidations reach $656 million - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVU1OeXFfSjEtWlFhSm5FSjVEWVhWNW1oQWl4TTU2dkJyQ2xwcllRaDRQd2FkdkQ5bWxtVEp0ajNENE9QeTFYREJNX3d1MGpzY09ENDZCQVhZQnhhTkQydE5aZEJlSkJ6WElyZTZlVkpUbXVDNzV4VHdoQy1peFJmUW41OFB0cVpvT251enl4dVM5TGJ1NmIzZF93Z0V1bXlnNVlPd2VvWGxja1ZRZm0zLWJzdmJwWkpNRmpxXzh1d1V1V1dTSWpQQkhnOU0?oc=5",
-      "source": "Traders Union",
-      "time": 1794646342,
-      "asset": "BTC",
-      "tags": [
-        "flows"
-      ]
-    },
-    {
-      "title": "Peter Schiff Warns Bitcoin May Fall Below $16,500 After $50,000 Break, Says It Could Be 'Curtains' for Strategy - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWWlIVU45dm9ENUI2Mkh4ekpzNGJ4d1ozMXlJS0N6MXdnZTVzUUZ6SGtYQmR0OGtkM0F3NEd6UnI1anltcHRialhHellORzkyd2hHZ3VKTExDZ3NLRU9DNXdvVUJsQVFiLUltTlo4T1cyRFRmWGFLZzRoY0doc2Z1dHozamYyckdUWF9YbnphY2hxQ3k3NzVaOUhzYXBjbHp3X0E?oc=5",
-      "source": "Benzinga",
-      "time": 1794646320,
-      "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "XRP on Wall Street Turns Ugly: Evernorth\u2019s XRPN Crashes 83% in a Month - CryptoPotato",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORU5PM0hIanZ5cVhlcnVxRGRQdEtEVk1NM1hTSkF2aGVLYWh2eFBESVJhb2p0MWdEcmJndkppVGhSOVJ3QzBBaWdES2NGLU5rZjN0VnN6blZhX2pwVkNxZ3RJd3FWRTExR3FtcHlQOTFlNjhQUUQzZnhsTUNrd05TcDNLeGtYMi1EQk5Pc3JlOWRseWUzYmI3ag?oc=5",
-      "source": "CryptoPotato",
-      "time": 1794646200,
-      "asset": "XRP",
-      "tags": []
-    },
-    {
-      "title": "Copper Market Liquidity Crisis Looms as Two Investment Banks Diverge Sharply on 2027 Price Outlook - NAI500",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObGZhSWdkNVpnUkxLSFdPa0M3ZGJtalF2ZmZ0SmJtLTh5NUkxNGI0ckd0MTNOTnJldmhtZjdVWEh4M2RJRUlHUnRlOTBqYmpsQ19TdU9JYkZsNU9aWTc0U3R5YmY2clZJSVkzTVZSUHRya1k0clJ6X1BQZlEzVm03ckZqUUFqZVNtV09XXzV5X0kzbTY5a0lYREcwM1ltQkVOc1o0WXdSaEpTN0Z1YmM3czQ4MVBqM3AwTkJQajlRQ2U1MG1nd3JQempVTQ?oc=5",
-      "source": "NAI500",
-      "time": 1794646130,
-      "asset": "COPPER",
-      "tags": []
-    },
-    {
-      "title": "BNY adds Figment to bring Ethereum staking to its custody clients - Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcG5lYldPLWZ0a1dGV3o2NV9GV2RLQzNiLUQ4VjZQM0RlbzcxdFR2QWRKZHdiNmZmbUxEeGxXRW1wRGZralRobUpxdmx2bk5EVnVLNXNyazBmSzd1bGwxSHZWbTAzMVMtOGk2eUFnNDVtZTdocnVPSWZ2cVhFb1R4OHoyajlrTUs0ZUluVkxXN1FmdUZyTWdTYw?oc=5",
-      "source": "Startup Fortune",
-      "time": 1794646127,
-      "asset": "ETH",
-      "tags": []
-    },
-    {
-      "title": "Gold prices plummet, reminiscent of the 2013 sell-off: Concerns arise about a potential drop to $3,090. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOVd6bDVjUE9UQzdITkUxSG9zOGxWcFhBX2pESC1RV1ZCNlVfNXhwQ2ZPLUc0cEFQSGJ4QTNIQ1NRM1VuSkN5RGRrUnh5REpCVFAxdTNLS2F4NTZOTXI3bTJVYlFSb1c4Um5ZeTVramFDUThvSmRDeFRHMVFXMENjYi1YS0E3Sk5YN09ldG5kX3pJMGxjQ3l0WnU2UjlQdw?oc=5",
-      "source": "Vietnam.vn",
-      "time": 1794645411,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "Apple Inc. $AAPL Stock: Blodgett Wealth Advisors LLC Decreases Stake - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZUNfX1YwMERwblI4cHpMUGJrdEFJQXBkWkRvc2gtX2hGRkRSTU02ZWo0UlNNRmdXNmppQmdlNi1tWm9EUkE0amJMOVY3Y2Vyd1pEYVVaZWhtcjdBWE5VajZnemJVVl9kVjRMcDBxY1N3NHZYQWFzdVZXYzVPX281TFFQWHMxNGxVWmk3V2d4RzJtQkx2eF9acHQ5and4TmdmSmVLMHRiOWo4MjVRa2oyZkRCNjREamdCNTNhN29ZcXFMRkk5?oc=5",
-      "source": "MarketBeat",
-      "time": 1794645003,
-      "asset": "AAPL",
-      "tags": []
-    },
-    {
-      "title": "6,729 Shares of Tesla, Inc. $TSLA Acquired by Bernicke Wealth Management Ltd. - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT1Y3QlhqcDU2TFE5UzU2WmlaQ3AyT0dYbXJMU1J3VVlKUkVZQnkxY2M1a3h3dDk1dlZEX2xLNVpuRHhCQlhfMXR2bTZLT25xc011VkkxZWdRbGFUWC1OUW5lcWJyNFRtSUgyb0NIZlU3UTF4QjQzajBjSnV1VGpXcV9kbUVxa0NKNFg5SFpfNER1eEZZSkowc2RlU2F1ZHR0WXI2b25zVDY2c3NObG1wd0JOanNTdm5BUHhMQWVLZ1B5bVV2eU14b1EzaFlYdw?oc=5",
-      "source": "MarketBeat",
-      "time": 1794645000,
-      "asset": "TSLA",
-      "tags": []
-    },
-    {
-      "title": "Apple Inc. $AAPL Stock Sold by Evanson Financial LLC - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeV94b1E1ZUZITUVDN3I1bTAxRmhMU01BSDlwN04ycW1LNkY0V1pGLUJpWHVVN1lBd0pwcnlDNHk5bDZDQXk3eG9hZjVSSGZuZjBuWGttLUxKLWI0LUxCR0N6OWNuUlVfVktPbDhtSmFqVVBveWVQbVVSVnVfQ2o3RW1UQmlYMEdYRENoNXFmaVJrMWpweF9ENGFsX1E4T09HNWUxY05fTGZuRmJOemJFSg?oc=5",
-      "source": "MarketBeat",
-      "time": 1794645000,
-      "asset": "AAPL",
-      "tags": []
-    },
-    {
-      "title": "Apple Inc. $AAPL Shares Sold by Citizens Financial Group Inc. RI - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZnNDM0NhYTg3RHNyZW9ETkhLOEhrdDgzVjBsempYX1p2UFZCd1FnNjJwNzNkSk1KRmpMajFIdkgwejlaSHAxWEloUnE0bmYwRDFXbUVvU0tsemI5MHV4YjVrQjRsc1l1MlFTQ0tBX0Zfa0MydEEzVXE2REZIMng5U09mOUpOVTY3TXA0R3oxblBpQVpWTzdmSXd0LS16b0pQT0xUb0ZEZl84NG5YNy1MRjJhRGtlRHowdll5Tlg4VQ?oc=5",
-      "source": "MarketBeat",
-      "time": 1794645000,
-      "asset": "AAPL",
-      "tags": []
-    },
-    {
-      "title": "Amazon.com, Inc. $AMZN Stock: Busey Bank Cuts Holdings - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT3p5TmFQOG9qTjdsdG5KMTJZRVFRZWdhR3JJMmhXTGJYYkQyVmhwSkFSR1c0R0JSbzZ1dmFiZGRNNWtQSjFNSkVlS0V2TXc5N09kWWpwb21LY1ZfV2tYZXpfY2tYb09WaG5XT0ozYk45NXdEeWFGbWlKWWEwc3dZOVRzQzFUSEpPd2J4cmZ2ckw4R3VyTGtKaV9PMmpCd0oyYnlKUVc4T0xiZzFxMzJF?oc=5",
-      "source": "MarketBeat",
-      "time": 1794645000,
-      "asset": "AMZN",
-      "tags": []
-    },
-    {
-      "title": "Apple Inc. $AAPL Shares Bought by Ascent Wealth Partners LLC - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdVVtREp2bEJaM3hEc0Uwazcxb3lfMU5uWS0xUHhGVS1PRThGdFNoVHZ5eHFPaHVISjhoVWxpWWlIRExxWjFBeWxuYlFiczNBdDhGVXpCdzY3aUNialFJSnc2dUdJUnFqb1BGUzZKaHdXbGx0b1NrNHJ5WG81TmV0WkRCeEt2Q08tVDlWVEQtb0JRd1k5dUIwVVp1MUFZb3hjZk1sa3pKLWVDZFVtUWJvdmFMNGZ0ajVGWnhR?oc=5",
-      "source": "MarketBeat",
-      "time": 1794644493,
-      "asset": "AAPL",
-      "tags": []
-    },
-    {
-      "title": "Amazon.com, Inc. $AMZN Stock: Asset Management One Co. Ltd. Trims Stake - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZkU4dXlqSXU0N0EySnhDMHl1SmpzYXl5QjBUUGh4UkF2RW5yM1lzcjB4TlJmeXQzeWxRY1REQ29OZDE4eU41WTd1ZFZ2d3dYSWRsM3YtLUNGRFNEeGoyZzAycU9oS1pXRGRWcTlkNFNnZzBiU2h6NFBvMTZqUl9qaUw1bDI4MU9wNjFzNzlIQVREel9kNEtaSm5ScVRoR0xxc1F2ZWdkQzR6cTJOdUp6dkF0cW9ETlFwUGw0bG90cTJCUzA?oc=5",
-      "source": "MarketBeat",
-      "time": 1794644491,
-      "asset": "AMZN",
-      "tags": []
-    },
-    {
-      "title": "Bitcoin Blocks Have Slowed Down: A Mining Difficulty Adjustment Is Expected\u2014Here\u2019s What You Need to Know - Cryptonews.net",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HamdPV2ZnZ3liWFhmZTFHX0NhaEIwVmRkSUhleG5QYXpwWDZzRE9vRDBPTVlWal9qM3lEb0FUaExxZDRzUmRMbldQbWZYWmJ5dFFKZWhiSQ?oc=5",
-      "source": "Cryptonews.net",
-      "time": 1794644257,
-      "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "Crypto ETFs lose $1.53B as Bitcoin leads another week of withdrawals - Crypto News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSnh3RHd3U1FqVFR6QVE4Y2NoeU1nMnlVMk5oVDZtSHJQVlE1TkNaMDd3MFg2QUhaMVc2aW9jeFlONUFLTXBYbVNvQmd1SzN3WUtLNWRMajEzT2NDa2J0enJTUEJ1WExBQlJTbFcwUGZsM1BVYnNNYW1EZ0E5UzdxLWln?oc=5",
-      "source": "Crypto News",
-      "time": 1794644243,
-      "asset": "BTC",
-      "tags": [
-        "etf"
-      ]
-    },
-    {
-      "title": "AAVE Slides 30% in Four Weeks, Trailing Bitcoin and Ether - Cryptonews.net",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45VF9iNnNXYndiQVh6NmJoa3JVWkJnVERKM2t6MHpNdTl0aW54enh2cEVYY1dsNTl3YWUyTFZBUTB4dU9IVUhYZ3dDQTg3enplUGF5ZlEyanhjY0U?oc=5",
-      "source": "Cryptonews.net",
-      "time": 1794644223,
-      "asset": "ETH",
-      "tags": []
-    },
-    {
-      "title": "Meta Platforms, Inc. $META Shares Newly Purchased by Accuvest Global Advisors - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSWJEQzY3eklEdTRXcDk3QlFicVV4Q2dNSlh0bGJVQ1JkY2NheXdhQ09qYUVUay0zTWc0YkZGU3lDU2pFUU0zRTM4VzdwdlVyMmItMUN1cWFzZE9sUU9jaE1KN2poYWZsWTlTM29CRE4tVWZjUXQwRk1YVnA3RE1CME0zTmdFUmlWUkpKOVh5MW5hdXR1eXlocEo0eGhHUExuOXZ1Qk10UF9IeEJvM3Y0eUZma0R2Yk9Xb3BsdWxDRVVmNWh0SzdIMFVuaHJ3eXZf?oc=5",
-      "source": "MarketBeat",
-      "time": 1794644018,
-      "asset": "META",
-      "tags": []
-    },
-    {
-      "title": "Reasons why many experts lose faith in short-term gold prices - Laodong.vn",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVW8zQ0s2SHE1a3N1LTAwNDA5bndvNEd2NU93YUsyeXFqM0NPN1VoOXJCRWltQjFKME5Ra3Qwb3puaThzT1JIanV2cTBoT2hPd05SazBFTXFvZHViLW9hbEd6QlJrbkxkcHV1cDhtZWFjWURLRFNEcHlEbFk4aFB6VVNaSldPVUVQZUtxS1M3Y21pdjNmZFRWZWtXTHB0YUlQNGlHSXl2aWNTZmJk?oc=5",
-      "source": "Laodong.vn",
-      "time": 1794643929,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "Income Tax FAST-DS 2026 scheme: Is it for you? Complete guide to file Form 1 online before December 31 deadline - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPa2Y1cVN2c18waGltaUpzUDFjeDN4THo5VnBkdDVHZ3NsU2dsOWZnQl93M0xtYTBQSUVINWpwcDlycDNDVlhNbHQwR0p6ZlI1Tmd5cmYzNUFGSGtxUUE1Rnc1NzlRZmFzR3RWdV9GMDA2aFFoeFNpN09vRUxGQ0NjbTB0MmZWTE52Y28ySFAzLTNiNU5oT1NXV0gxdWM4ZmZMaURQQ2hFajRZcTM5MGNSaXJpbmgxTnQtNnhBaTZqQnNYT1YzV3VvVHJxV2tCTTR4YU43TzVLOER6MERTX2h3ck5KR2w3emdSMm9UWVBXb01lVlpHd3JZcUsybEJBVGszb2JDbVNjdW1IVDFCTmfSAY4CQVVfeXFMT2tmNXFTdnNfMGhpbWlKc1AxY3gzeEx6OVZwZHQ1R2dzbFNnbDlmZ0JfdzNMbWEwUElFSDVqcHA5cnAzQ1Z",
-      "source": "Livemint",
-      "time": 1794643849,
-      "asset": "SILVER",
-      "tags": []
-    },
-    {
-      "title": "Gold Prices Rise to JD 79.50 per Gram in Jordan... - Jordan News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWgtY2VnSmNYcnNEajk2ZUszMGwwMmZFeC1KTVBKaDVKUXZFQk5LUGQ2aHhwaEV4cjJQbGJYWFNuRjlkRVE4RG0taS1KTjJfUFhTXzFwVWJidjJTRk81V0U3NDhWU2J6ZTZpTkxIR3FubFYzcFhtS25mRDdkX2tGSEpHcUZiU1pNVUNVc0tleVRqaGw5eFlYMGkxTnlEQ2ZG?oc=5",
-      "source": "Jordan News",
-      "time": 1794643606,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "Bitcoin price loses $68K trendline: Can buyers defend $66K? - Crypto News",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkSFJ4cFJLTHRwYjRJa24zS1hILTBzZjIwVk5obXpTMnpfeE42SUcwVFcwWllMbkF6c1l1RXB1QlV6UVl2Tmt2Zi1fU3Zfd1htdkZhbGNCUW4wWTV6NU96UVI1OFMxQnc?oc=5",
-      "source": "Crypto News",
-      "time": 1794643457,
-      "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "Ethereum Weighs Hegot\u00e1 Reset for Post-Quantum Security - The Defiant",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWE5hVkx2MXp2MTlDMzdHQ2I1VVdjYmZxd3VDZkVWTlo2ZkVWTk5hTTVteVVTN0JlQ0NmUC1SVHFwSG4wOWJyY29Vb2xHVnZzRmp4cWg4Ymt5bzRMdUNKbUJMcnlSS3BlZGUyZnlqSVlSNHVrSmZoSWxwRmpBbm5OWEZQOXdtN2EtMTR2UnBCNGpqaV9qMm9N?oc=5",
-      "source": "The Defiant",
-      "time": 1794643330,
-      "asset": "ETH",
-      "tags": []
-    },
-    {
-      "title": "Gold Rate Today: Check 22K, 24K gold prices in Delhi, Mumbai & Chennai - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOLXRqVktBREM2OHZHcDFXSG5IdTNDTGhHQWl6cW1nalVYME81NXE0LVJ2VFRTc2NUSlRia2tkRDZoRnNCc1hXdUVycFlHdFp1ajJLM2IzaEZUbE1uQXNTX1JzWTd2UXVTMjV1VHRyak5XNzlzX21pbDEyLWhuYU1HVVBqd0liYjJhenczMHNNV0hGcFZpRTFTeVNyQlZ5T1kxOXd5WUNsTXZVdTlyVTBHMl9yQlM0QmtwMVRtMmw2dEtVdkFReHBOT0RyMV9qRTNjUF90cU5RRDVmaVhqWDBSVWhIeG9NYWtQT3FSSTNqZDBPdkN0MWRnX0pzcEZDZEFoWV9ub3E4Zk9nWlZlVi1kMmo0enNKQdIBnAJBVV95cUxPTU9GUnJrOG8wM0M3X2hrRjRxVS1hWDJmcGhLeXdFNmlZRVlkUHBqc29ZWkpUSGhMV2pGVVB",
-      "source": "BusinessLine",
-      "time": 1794643263,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "Deutsche Bank Crypto Custody Goes Live for Paying Clients - The Defiant",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZFlYZlFLWXQ1VTRRV2lQQ21JVHpKR1lyRlRiQ3ZTUlBFWU5TVDJLVnplSWQ1U0tXdElZLVo0YXhjS1kzeHVCb0NmZk82OFlYbmwwWTRnYlA3Z2JpejRHTEtZVkZDYVI2aHh1eUJFSWRISzRMdXF1WkUxb01fcDdncjFsWVpteGtaLUJZMnFkNHJLSjFpcGRMQng2VHZJU1c3S2dTcEdkd0E0anc?oc=5",
-      "source": "The Defiant",
-      "time": 1794643028,
-      "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "Today\u2019s #Bitcoin & #Ethereum price prediction: begin with th - KuCoin",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qNDBOTk05WmdsRm1BNzdDQTM4OENES3lKcWNqUWtFNkpWSWFSZ3hOd1ozQ05tWlk1dkFRN3hTaXVEeEF2MVBjWG04S3dtQ3BtQm5qUlZhdVhSUnpZOU1RRE5WMEF1YXRoSmdsRkxRaTgyZw?oc=5",
-      "source": "KuCoin",
-      "time": 1794642727,
-      "asset": "ETH",
-      "tags": []
-    },
-    {
-      "title": "Gold prices drop again in Bangladesh - Bangladesh Post",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZXBGc3RyRmNQVUs2elctei15bnpLUFlzNDYzeTQ3aWE5d0FRY2drRnBoZ3ZFbzNOa1BLRzh6YUFUaGFDTEp2bnB6bU5ja1JFYTU4UUU5UUxyYUdRR1RnSEd1R2hKMk5ZaWFxTTBRMUpXYjNqaElBb0JsV0U3MnRVVV9R?oc=5",
-      "source": "Bangladesh Post",
-      "time": 1794642646,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "Whale's Insight: Bitcoin, Nvidia, And Strategy, What\u2019s Changing In Crypto? (BTC-USD) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQnJsWVQxMkFqOGdHNG5VVy02Y2VKbnIyZEVzanBnX2VEeDVUSjN0SkdVODJ3MWp2d0Z2eXVRQ1B0RXU2b3BHcW81NHBWbEdZZWFRVVNhVTctZlRGLXgzc2ZuU2p2RTRYcmZuazFKYVZIY2VzLUNJcTI3NHRiY25uQ281WktmZGU2cl9SOHhja1AweGNmUVhKS3hyNHo5V1NoSTV3OThndlc?oc=5",
-      "source": "Seeking Alpha",
-      "time": 1794642300,
-      "asset": "BTC",
-      "tags": [
-        "flows"
-      ]
-    },
-    {
-      "title": "Gold futures rose Friday, but the rally failed. What I\u2019m watching next week - investingLive",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS3JGTTlrR2tPcTdQTGQzRGJMU2ZGOVhNZGlCLXZCbENMNUktdm5XQy1ZOVFwS1FPYVhHamVnUkNiQTJWOVgxVV9qdE1tUDl2Nmp1a0hDTWJvR0FhZDg2a2Q5ZDFqcDZITFFCUDgwRU1QYXlWRGx4S1ptYmIta0F3OEpoOW1jTTByVDQ2alBocGVCOWhjdWprdWNybWVvSnpoamxpZXl0SElQcTBnN0RYMWN3?oc=5",
-      "source": "investingLive",
-      "time": 1794642200,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "Average Riverside County Gas Price Drops to Lowest Amount Since July 21 - MyNewsLA.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQckU1Q2JkZTZIbFRjV1EwdzBTZkZGc0FUbUs0TkhCWFZUaVBiQVJ6N05wM1ExT1g4aS1HX0VHMU5Uc0Q0bXZZa3BfY1VWTmdqeTd1cW84cUxtWWlsZms2b19CSW16eTRoU0xSYnBOb3FnVl9DdDhMV3FzampYSGxjRU9Qc0JrMUhUSHBRM0VKWlNCb01jUmlfWkMwNjYtLXRKZF9Cb3lra2hNakhLa2o1RmxGel8?oc=5",
-      "source": "MyNewsLA.com",
-      "time": 1794642125,
-      "asset": "NATGAS",
-      "tags": []
-    },
-    {
-      "title": "S&P 500 Movers | Winners: CHTR, STE, GPN | Losers: AMD, DELL, CSCO - Trefis",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR3dVY0JTaWg1RmxtMzM5Z2JwWWhZTzVudG1KODB4dURUc0pXaFJhemI1R1dEeFowckd4UzNfQk5OLUE5bjAtMUVlZGNQeUpTb3lldktxVVdZRm5ycnRIcmg0UXVHTVBBVlZRd0tTdkN4ZjFjX3VDZDB1YUh4T05OOUxBMXJZLUo0cGtmYnVYbUVqa0RCbFpMNGVWcHJKUHlHcnZkVVZoQ2wtX0p5aVhSNTNhOVl0QQ?oc=5",
-      "source": "Trefis",
-      "time": 1794642098,
-      "asset": "AMD",
-      "tags": []
-    },
-    {
-      "title": "Alphabet Dropped After Earnings. Is It Actually Cheap Now? - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbUFiX3pMT2xJQ0xsNHpEcGRtWkdkaXprRFl6cHU3eEs0NlVNYnJ6OF93dkJyRzZwd0hEVmZMcExNRWNFOV95cW5HWHZzWk9BNGYxdE01SzhTTmZzb0g1MnJqakVhZC0zdlVSQnB0ai0wU1FSbHZRRTkzVEdDVjNjSzNBOTlVd083dDk3MmNHT016TTE1VWROakZSbEU4eTh0RGZjZVNNUFpQa0ZZdHNv?oc=5",
-      "source": "Moomoo",
-      "time": 1794641392,
-      "asset": "GOOGL",
-      "tags": []
-    },
-    {
-      "title": "Gold Prices Crash \u20b95,643 in Delhi in Just One Week as Global Pressures Mount - https://ascendants.in/",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM192UzZDY1NVVklQclRwTTNNc1YyX2x0UnRrR29mOUo1QUJDYWRkZWpJYzhJRFBjTFp0d3F3Qi1zaHlTc0pwUTZSRFRTdnI2UjhwcFVqQTM0WVNmRFk1V0hzMGRNVmJzaGxVRjZjdjFEUE5kUG5WTXE1MFFTOWNfNllOQjZJc0R0REVZaW52blB1dw?oc=5",
-      "source": "https://ascendants.in/",
-      "time": 1794641337,
-      "asset": "SILVER",
-      "tags": []
-    },
-    {
-      "title": "International Gold Price Plunges 4.9% in a Single Week; Chinese Jewelry Prices Fall 77 Yuan per Gram in Four Days, Saving About 10,000 Yuan on a 20-Gram Gold Bracelet - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43bGpDb0ZIaXBIb2hlVFN0VjktSzVkMHdTeVg3MkttdUk1X2hFcVFsRHZHTlRERlVxZVRoWXROdHVjYklXc2s1MWZNcC00U1pyOTV0M08xY2FiaG9oaEdaVnlmYWhjNDhRU01xNl82QmlHRVp2Tmc?oc=5",
-      "source": "BigGo Finance",
-      "time": 1794641100,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "XRP Price Prediction 2035: Coinbase Shows $1.57, Holders React - Coinpedia",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVWFzU2plN2lNdmxtbU0xVHR1QVRHSElxVkNmOFpQZmtvX1lQUDUyUllaWEQ1ODBjd2tnSmNUQ0pFTlZoRWd4TW9lZnBXNkFFQUl1YVBpTnphOTQ2b3VjSWFPeHdOXzJNalVPaklQcE03UkNjUTN4M2F0TTB5WU54THpHeG1Ib1NoZVFHRzJrb0dCdFRYdmpDcGk2SzFSeXVP0gGmAUFVX3lxTFB4ZmRzQ0tuVWwyRWJHSDJ2ZzNKZVU1bUhDTWpUWHlPb2lRcnhycGZ1MWFhNGxCbTVYM3N1bUZSUnV1ZWdkbk4yNy00UnEtUG5Eam14Y05YOXh4YmNGVVNxa0QwTVVHaUFMY1ZlT0FDOEpVLXZNVTE4LUg1ZllrU2VQaTUzR2ZNT0lrR3doUWhfNkpOWVUwTk1lcUlDLVJlMXIxbTZiR3c?oc=5",
-      "source": "Coinpedia",
-      "time": 1794640702,
-      "asset": "XRP",
-      "tags": []
-    },
-    {
-      "title": "Bitcoin Falls Below $69,000 as Ether Slides Under $2,000 - The Defiant",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZTY1NTlWQjdjRXM2UHNlUVRwdmVfTkE0MjdsRzNlZm1xd0ozby0xREZXTmZ4RzJXUUVqNjRhZW41TnFaX0RBUjgxU24ydS1adEdLNkxBY0Q3bWFINHAzQlNZQkt2Y3hSa2hVNjBHS1JDdmdHYXFjTnk2ZkhSc2N2cEZscjFZdFJHM19scUVjX19VYkk?oc=5",
-      "source": "The Defiant",
-      "time": 1794640620,
-      "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "We Asked 3 AIs: Is Bitcoin's Bull Market Over After a $13K Drop in 10 Days? Here's What Worried Us - CryptoPotato",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUXZpbzd0ZFBSU09VOHBrM1A2M1N4ZmJ3QlR3Q3AyTmRXZlFzSHNmNXo0dmVEd2Nselphdjk1UXVWVlY5ODh5emtLVGZLQUVNbVJ2WHh6X3U3dlBZWERsYWNZenB3MnJLODNOQjFwOVF0VDQzaVY4S1VwVnhBNlExRUVBRU9reGgxSHowOGl5NGJINlgycXJSckVDa2ZXQlpWaUdoMlllZWJTbnNUaDVWM1VUNnVBNmFiei1J?oc=5",
-      "source": "CryptoPotato",
-      "time": 1794640620,
-      "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "US PPI Hits 6.5% as Bitcoin and Ether Edge Higher - The Defiant",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYVRDcmVVUWo5TnFqUUVZckJuSjJiTWVaaXNYZzZNWlQ2bDdjYzFjS01sby04MlJzTWlXaWRiWFljNjVzOVNqUW5wdVZadUJfTko5cjlkUFFSUlFYNzZ2eHNZMHdNUEtfRDdoX2psS0FDNExpaDhkOXN3T1lzV1pFQUFsQV9xQ1pmSnBV?oc=5",
-      "source": "The Defiant",
-      "time": 1794640584,
-      "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March - EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa1hxYUNYOVNkdlVySWM0cDd2VnBIOFY5MU56eWRhTzZvSjNBNDFjYzhzSnB2TS03V01tTUtRMU9pZURsaVdUR3BGa0VIS3VwMTA3QVR6ZWdEOGtyT1BNRUxqUXNyRnBsU2J1Mk10bjZtazlFelZCek8zSy1obXN5VzBGQlU3bnhzWHU2QU1xdGM?oc=5",
-      "source": "EnergyNow.com",
-      "time": 1794640465,
-      "asset": "BRENT",
-      "tags": []
-    },
-    {
-      "title": "Oil Prices Up - 13/11/26 - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlUmQ4Q2F5Sk45cHBKdlk1dUE2Y0Fwbi1CNjdsZC1MazB3R2Z2VmdLd1NZbG45b3Z1eE9JdTRxUlplYzdzSkRjYXV6S2hvY243NnfSAVdBVV95cUxPTmJjVU9VeW8xRnREYndWLVZrbzE0ZXNYdGxvUWFCa3RBcFZYSFkwMzlucjYyWWw5UXZaVnl1eWxFdDFlVDVBaUtpTFJYSXhkQ2NnbjlZa1k?oc=5",
-      "source": "Armenpress",
-      "time": 1794639900,
-      "asset": "WTI",
-      "tags": []
-    },
-    {
-      "title": "Gold Rate Today and SILVER PRICES: \u20b92,700 Gold Jump? Here's What the November 14 Figures Actually Show - The United Indian",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSUdidlV2WDFsSHpoNTZ4Zzg5UHlZY1lGazR4Wi1rVEQxSzQ4ZHRMLVkzN1hlZWM3SFNIMmZtc21ZRVBHb2R6Vk5EUVc4THM4R3lvMFhncUhvdU5DU3ZiNGtNc0czV25EV0kwb1EyZ29HVVNjZHdTT0JPdnR3cG5xUmlQWDhvcHdiT1NhYXJjVnBtTUZJWl8yQl8ycTR3dw?oc=5",
-      "source": "The United Indian",
-      "time": 1794639341,
-      "asset": "SILVER",
-      "tags": []
-    },
-    {
-      "title": "Bitcoin Crashes Below $67K, XRP Loses $1 Handle as $700M in Leveraged Bets Wiped Out - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93Wmd3dTNIbUpXajRjOHNjMEVScGloX1JQcV9CVENfQnI3TEw2cFAxZGd0YUUwTldlckZ2b1NwdWVzdGtVZ3A4U2hVcmQyWXlLTk9nTVdaVzFEdDJSTHh4QjB5cU1rN2tYLVNmTHVoMU1vczRxT0E?oc=5",
-      "source": "BigGo Finance",
-      "time": 1794639300,
-      "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "NFT sales fall to $33.63M as Bitcoin volume rises - Crypto News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdGhZNk5kb0RSclRHcnAwYjlYVmFCVzNpOXM3NGZyZjJlcUwtMGtKaEJOLW8tQ3lkUWo0Q2YwY3MxMW14ZUJnVTY1VXRTcFZURzNvY0xpNUppZlROUUF5cnlubFhJel9UNDhOenUyNHNQbDhkSnlrUFZ1eXJxNkRGTE53?oc=5",
-      "source": "Crypto News",
-      "time": 1794639120,
-      "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "Brent Crude Oil Price: $95.84 Saturday Week Ahead After a Second Weekly Loss, Bull $98, Bear $91 - FinanceFeeds",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHhHU2c1emhwOERkZ0JhUW5Fc2NCS1JaOHpDSVBETWhwZThvU211eXRGNF9zSXp1UFlLbUZHY1c3UXZRdFFXdzQ3YzZ5ZEFyV0tweWNQUnFkNU8zN2IwemhZbTBBV3RrSXM1NEhPTjlyeE1HZkl2TmRIOXdyTUx0QkIxWllLLU9EOHVzOEF6aEY1bFh4SlNZTTlDcGFSRExjR0MzcWg4QTJXOE9J?oc=5",
-      "source": "FinanceFeeds",
-      "time": 1794639011,
-      "asset": "BRENT",
-      "tags": []
-    },
-    {
-      "title": "Is Nvidia Worth This Much Less Without Jensen Huang? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVkFVZF9QUlFGTkFQWURXY2E1R1c2T1FEeUZCWl9FWlhGRV9ZMTRnMDR0a3Byc3J1T1dMYmM4S2F3UmsweHczNmdLd0dxRUNZVmxIdzJZU0tReGZQZDFLM2poRVpsRXRyT0huNTg2UUloaWRnVDFnUEtLREo2eW1EZXdkTlBfWm1ZMk5iQmR1S3ZOUVpwcHFlUW40UQ?oc=5",
-      "source": "Yahoo Finance",
-      "time": 1794638940,
-      "asset": "NVDA",
-      "tags": []
-    },
-    {
-      "title": "Anthropic Is Expected to List on Nov. 19. I'd Rather Own Amazon Stock Than the IPO. - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUdkTGZWU1ZpbEtfMjdxWWlvdUw4d1RLeTg0OE1MRXY4Q3pUZnJ6dE5yXzNHbWpqbnVwTFI1amwyY0FBeDJXdjdmd2ZVa1BHUGlFR2Q2VVRqRGw5VS1VQzhsYWNVdUFjenRRRzlaLVhPZDh1NWE3aklKUnRhZzl2Mjd2WHpNUWxIdTdBWGdyOGdXdkxLVU91YmU1SQ?oc=5",
-      "source": "Yahoo Finance",
-      "time": 1794638580,
-      "asset": "AMZN",
-      "tags": []
-    },
-    {
-      "title": "Gold gets cheaper: 22-carat price falls by Tk2,216 per bhori - The Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVjlnVnRrbTZuZDhMTHhwTTM4S0RXNjdKb29EWFJYa1NwSm9aMHJoQ3QtcHZiYTBqOUptbVVMNEdpUUhGUndjZ2ZtWGJKUTNrUHpTbWxDTnM5YVlYUkdSS2t6cElmYUNjT09ZRjUtNGVfVFpaVkp3WXBlWmRldDlDQVdpV0VyTFhDZUpma19TQmtLZzVvQTRXNDlR?oc=5",
-      "source": "The Business Standard",
-      "time": 1794638350,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "Czech energy provider Innogy to raise prices for customers in January - Expats.cz",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOWlWZTJFWS1iY2FNT3FuNnFQamdxd24zZUJEdHlVRmh0M05VQktXTTNBME5YZVg3R3A3VlRwZ2lZdllxc0pkYmU2YmRZVjFmMW13d0FHdmZlNFk0OEgzLVk0dk52NDRzMGl1Vmg2Y2R1RDFEUGk5aWZuUjRlSG9veHdsVExZazRaMkpuWVpVOVlrVFUyeVNDOTQzMDItanNPQjdILVJjTlQ1b1pxOXVF?oc=5",
-      "source": "Expats.cz",
-      "time": 1794638220,
-      "asset": "NATGAS",
-      "tags": []
-    },
-    {
-      "title": "Gold prices jump, Silver takes a hit: Know the latest rate in Delhi - Punjab Newsline",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVjdhOC1aR0hRb1FmNEJDTWgxaER0RlNfTWhBTW1EckpTVzUyckFSUlZpbEZiWEtRVW1EdXdISzIzSWRDU1hRWmtyTklFUlQ5SjJwRmV4T3AxeGdPTWVqVk5XeFkyMnJWYnFaTFNLRzB2Y1p5ZXZPNnBKVV8wdjJMT0habHkzNGNiN1gzVGc0VnE1emZvbThCbzY1LV9rM0ZSYzVJ?oc=5",
-      "source": "Punjab Newsline",
-      "time": 1794638187,
-      "asset": "SILVER",
-      "tags": []
-    },
-    {
-      "title": "SOL slips as seller pressure and negative momentum weigh on price - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHFWd2ZDX3laelF1LWtvaTAxX2c4V1pJckFCMGhFSzB4LWhvT2djTnNpanlZSjZNcmVyb0EwOWtmaE5oT2pDd3dYWFpGUWg5YmlWYWIwNkczTXlkNTNLRTR5aW1nUEo3YkllbE9nc0taZWdtZXU4RWk0Z0xFdmZrb2NJMUc4NUZaQnpnWG90Y3VnaDdNTjFma18tbWtSVGc?oc=5",
-      "source": "Traders Union",
-      "time": 1794638122,
-      "asset": "SOL",
-      "tags": []
-    },
-    {
-      "title": "XRP Slips Below $1 After Nine-Day Slide as ETF Outflows and Bitcoin Weakness Weigh - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDUTJvUGdhV3lCN01wbTJrbS16Nmo0TGJodU5xblhmUXlpV0pvdU5ISlV0c0liRFhqYllKTVFyMnBUZFJBS3RZS3lxRHI5Y25VLWRpM2JHZ3gyLUh1YzdfcFB3VHd6R0lYdFZIcHlBaEpXdUMxWkE?oc=5",
-      "source": "BigGo Finance",
-      "time": 1794638100,
-      "asset": "BTC",
-      "tags": [
-        "etf",
-        "flows"
-      ]
-    },
-    {
-      "title": "Spot Ethereum ETFs Turn to Net Inflows With $2.3 Million - bloomingbit",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RMXZSTTl5V2hnUGxYdnNOcklmVHFpYnRmbDhGUFdvb3hYdWRrTHlqa1NheGxPV2RhUGthTkM4UTBZSVpHNy1MM0ZVZjVTZlctbmQ2Tg?oc=5",
-      "source": "bloomingbit",
-      "time": 1794638067,
-      "asset": "ETH",
-      "tags": [
-        "etf",
-        "flows"
-      ]
-    },
-    {
-      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock\u2019s losing streak hits 11",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "time": 1794637993,
-      "asset": "BTC",
-      "tags": [
-        "etf"
-      ]
-    },
-    {
-      "title": "Satoshi-Era Wallet Empties 75 BTC Stash Amid $260B Lawsuit - Bitcoin Foundation",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd0ZEQWs4TFpmTlNMdFdEZHpDOTNHOVlZOGNkUzZfN0lXbXJ6bHZuaWxzNi1QZVNWMktIVHZjZnZPU2VPcHRaM2p6MkpSR3VVR3p3SERzMnhhai1CSUQweV9BRWp1anBhajB0SWlQYnQ1d2NfWFY0NGIzRGw5VUZReHRyVzNwRE9PbG1pWmkwSkZPOVh3R3Vna0kxTUtobWpkeTY4?oc=5",
-      "source": "Bitcoin Foundation",
-      "time": 1794637905,
-      "asset": "BTC",
-      "tags": [
-        "regulation"
-      ]
-    },
-    {
-      "title": "With a NVIDIA stock holding worth $135 billion, will Jensen Huang sell off to cash out? - \u5bcc\u9014\u725b\u725b",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT2ZwcjNjMUJLME10dnJJTTZLMGxzd2pJdGdOeU5VN2J4NmJHc1dvcHgyQzEzREFfYmw0OHA4T0d0Ym1La2NtcThMYUYxSTM5QXFDeTZMZ2p0NjdmalhKQ1ZkZ2dFUWluOTZselBVc3NPZlNfSlh6ZWxBS3dhZU5RVzM2UjdhRk82bkFEVS1heW13eEZLa0pCcWE4b2NqUXF3X1E?oc=5",
-      "source": "\u5bcc\u9014\u725b\u725b",
-      "time": 1794637757,
-      "asset": "NVDA",
-      "tags": []
-    },
-    {
-      "title": "Is Nvidia Worth This Much Less Without Jensen Huang? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ3VlTGt6dnZROWJBRGFsUlR5c3ItWTNqMlJMVTZxMnQwcW1JaGI5aXdydEo0azRwOFVEUDEzdE5iUXV3V3FQUW5lNFM4RElPZ21ITTZVUjhnWHYyeXY5dWU1ektZLTZaclpPUTBQQzZMMElYN3F0cGlmZU5zbTZ5alQ4RlZ1N0VnUVA3dmJsS29SU1NYdENfaV9B?oc=5",
-      "source": "The Motley Fool",
-      "time": 1794637740,
-      "asset": "NVDA",
-      "tags": []
-    },
-    {
-      "title": "Advanced Micro Devices (AMD) Stock Sinks 9%: What the Options Flow and Dark Pools Say Now - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcWhmNHM2Uzk0TkRyMFlKSUJXRVZpakJ1dVVTYlJSM1EwSVZXTmtUVms1NjhyVktYRGFGdDh4ejFDQ253RkxQTEZtTGxmTUZnaDA1OGtnMi1VTU1INzVJODBDV3lxSnFfWDludlA3dWJ0R0pDOTcxT1ZIRjdRLVo3OFQ5ODN4RmtqYlA1dVRxTXQ4SjJjWG4tY09FVUJBZlJuUVB6V1hHdzgzVWE0NC1xYQ?oc=5",
-      "source": "Moomoo",
-      "time": 1794637599,
-      "asset": "AMD",
-      "tags": []
-    },
-    {
-      "title": "(META) Risk-Controlled Trading Report (META:CA) - Stock Traders Daily",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS01uQVE1M1NqOV9QdGRhNlRNQXJ0elNTOUpad0lSRGRCRTc0Q2FhSVNwbEFMaFJCVEptdmZ3WXhOeWRiX25jVzN6eElsdWRMNFdfeHAtdWFJWFlrZE5oZFZrZ1VfQWVBckJsYnFXNWxSRjZVY3FkNkZHMUlQc1FjUHgzUDZ3ZHBPaUJ4c0JjTWQzZHVlR1NLMg?oc=5",
-      "source": "Stock Traders Daily",
-      "time": 1794637582,
-      "asset": "META",
-      "tags": []
-    },
-    {
-      "title": "Silver Rate Today in Mehsana 14th November, 2026 : 1 KG, Todays Silver Price in Mehsana - Business Today",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54dWhKemptV1kxRGM3dVlOeWRhRkg2QmhMekJMd0ZjZXA5UmxNc2c5c3pKa01mVlJRSENEUmV4STVYTk93Y08xS3NJVURXc1JiTmgyMDdncVl4NTdrempGQU1RaEh2WmoxVGpCdVpiR3RpSjZWc0E?oc=5",
-      "source": "Business Today",
-      "time": 1794637520,
-      "asset": "SILVER",
-      "tags": []
-    },
-    {
-      "title": "XRP tests lower levels amid intense short-term selling pressure - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQUZEeUVnSlFpZXRzY1lMYVlsXzlYa1E3NnFnZHF0cklPQkVjNGxPU29hd3Z6azdMYjMxMHlqZTM1X1hWQ1NYREZfMnRpSTFjWTNfbWFmRFlYbUVPR19KX3hYemYxSG5IbUlHTXlRcGpDaXktZ2k5elllRnNiMlVscjF4d0VPMlpFRFUwN2xJamJaTUlYNGF2UHBwVDVGbEk?oc=5",
-      "source": "Traders Union",
-      "time": 1794637401,
-      "asset": "XRP",
-      "tags": []
-    },
-    {
-      "title": "Bitcoin slides below $68,000 as Anthropic IPO frenzy drains market liquidity - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUmdjeS1rRjgyaHB3b29VcVlsQjN2TVBIaWFYSUJmSnkxbEtKMnU1M2FJdkViN19peVBOQTRKVFloUTNXenZnVEJfbVdCVjFoN256V2NmRTdHVGxaYWE5R3d6aEJFN2RTR29td0ptRWVNSTVtYVd3bnN3QmJkSjh6NF95MDVnRTFrMFU0cm9QMk9VbV9fREpR?oc=5",
-      "source": "Yahoo Finance",
-      "time": 1794637140,
-      "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "Ethereum sees ETF outflows and Foundation sales: ETH remains under pressure - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXZNSE9KVWVJMnAzRUtPd3NXU2VtbjF4dXo2TnEyS1B2endnMVl2TlpLTUdsSDd2NjNnM05ocmRXRS1IeXpPSzJGSUZ3SGdiZUZBM0FJcXFiVUVwT3lhZWYydnJobURyZW96SnVic2hsY3dOQk1MNEpQV1RPV21QdmhMUk1VYUxBRi1MUjlKbWxaTlVzT2cyaGp4bw?oc=5",
-      "source": "Traders Union",
-      "time": 1794637100,
-      "asset": "ETH",
-      "tags": [
-        "etf",
-        "flows"
-      ]
-    },
-    {
-      "title": "Stock Market Today, Nov. 13: AMD Sinks 8.75% on Sector AI-Chip Sell-Off After Early Gains Reverse - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR3ByQlhuVjNsVG1rZDgxV2NRcjFKWFhwbG16a2lqc0lHRWtpTFBmSjVyRGJ3SzVxT2Y3LVd5dTRrVGdnQUF6ZDVEdXd5YnQ3aFREMG1vMVp2enBqRlp3X2tXc3RZc0JIU2NzTUpVMFlrOVVKZmlmS29EMG9TN0lBUV9QcUNsR3kyS3NHZ2czQUctMVNKVDRwanpGSGRQSFBoWjFHRWtMRWJxZFZhN3NIZHAwQklPUHh3cDRuZElrazZDTENsRVIwS1JlNEZjVTVKQWpfblBHR2lzTk9NUUIySjl1blJySk5KaVE?oc=5",
-      "source": "The Motley Fool",
-      "time": 1794637095,
-      "asset": "AMD",
-      "tags": []
-    },
-    {
-      "title": "Metaplanet Cuts 2026 Revenue Target 59%: Is the Bitcoin Playbook Running Dry? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmx3VTVnbEk0MkZQYUc2Wjl3b251by1wMmZnT2RsT2l1TjhQTTlNS1puN29XT0dEOWM5LUU4X2pNSEtqNWxMUm95RFluZW9XZVJuZFFZMTEyLUd3LTlTeGZOb215SFRhbU43UE5adWdvN2hzS2p0WVlNWFNWVUsxaEFQM0laVFZCWFZlQzA5Rm1IVmdUcExfbUNlUVpwSVdHaUE?oc=5",
-      "source": "Yahoo Finance",
-      "time": 1794636928,
-      "asset": "META",
-      "tags": []
-    },
-    {
-      "title": "Metaplanet Cuts 2026 Revenue Target 59%: Is the Bitcoin Playbook Running Dry? - BeInCrypto",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mdWpIU2lod1JaVnJUOTVfYUo1dENDRV9fV2R2V1VTcmxqZFlIYVdJNnBQdEpadzY1THFSWWYtYUNFZWRJOWV1UHJjSmc3WEljaDJqTm5XTlFTTC1iamRaSzRTRkc1M0pMaU9VLUZDRksyMEdY?oc=5",
-      "source": "BeInCrypto",
-      "time": 1794636900,
-      "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "XRP price holds above key rising support line f... - Pluang",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMzQyclJPQ09NX3RsX0pseGhESEgyNXFKR0dzUklCUE80aV9tTV9icGpVcGs1NUp0LW9ISHhjUkVzTkUteUNDTjBXNHlGN0lIZXkwQzlCRlpZTnlzRE1TYTFCRVRlYktfRW9ZTDNNUmhlUEtYeEN2Rmdwd0VLN3hiZ1F1WFNJTE1NUmpGUzh1aw?oc=5",
-      "source": "Pluang",
-      "time": 1794636665,
-      "asset": "XRP",
-      "tags": []
-    },
-    {
-      "title": "News by CNBC TV18 on TradingView, 2026-11-14 \u2014 cnbctv:d31fb4ae0094b:0 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IZ29JSjFZaWtuRXNCRHVEMnBNam5fWjFKVTA5Rk1Ub2hOUUs5Zy1LbzJKdE5lU0dvaWZyOHhwWE00cDNXNld6SDhmamRYQzNmd1RjTDRZa2lfZHFhRFdMYUxPeExHQ2M?oc=5",
-      "source": "TradingView",
-      "time": 1794636660,
-      "asset": "AAPL",
-      "tags": []
-    },
-    {
-      "title": "BTC Dives Below $67K as XRP Breaks Under $1.00 in Fresh Crypto Sell-Off: Weekend Watch - CryptoPotato",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQkxZS3E4R293d1pmbllKOGdnbEVXUXpmQTN1SEpMSDJFVTktakhaYWpYcmxHS0hKZnlFNlN3WG44M2xkOUZESHRraXdGb3pmZjJzc0E3Q2s3TEhLMHM2MWlLUHZHYnBuRkR6WFNwa0RHNnRXY3VKU2dnMkMzaU8yMzUyeDlkNzZ1Q200MjhFb3p3ejE0R3lBMG41c29NTXBOYjdWTU9Ga284QkI3cHc?oc=5",
-      "source": "CryptoPotato",
-      "time": 1794636540,
-      "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "Tesla Cybercab Now Available For Purchase For Select Customers \u2014 But There\u2019s A Catch - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2l5b2Rza0ZHLVYzUWp2NGlvR3ZuLTBXaEtKZmJvODg1VHBwWDJtX0pPaVIxWFExZXFyc3FCMHlBbjNhX1ppQ0ZwRkVNZHV2cVpqRzU1SWNqR3c3bnNqMmxFQWNlXzVEX2NheTJ4ZXpBR0pWdndEZi04LTZQMXNJTVVYSDZQSVJZQnhSY2hqbWxHY1p6OUpnWnl2bW1DU0U2WGVVMA?oc=5",
-      "source": "Yahoo Finance",
-      "time": 1794636540,
-      "asset": "TSLA",
-      "tags": []
-    },
-    {
-      "title": "Gold rate today in Hyderabad, November 14, 2026: Check 22K, 24K and 18K gold prices - Hyderabad Mail",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNanNUOWtITUI0OXA4NHg4ZzRNSnRTZU1zal9vd2Q2ZlFsRXpIaDN2OWIza19sWDJMS25FM01TX0xnTWJjdG9wWUlmak1aMTFndGRRRmZjYXd2VmJaMlZqT2JscE9laG1Ha21neG81UzN4OVo5WjlFS0xmUUJ4c2NtWGx5TE42M1llVFNMNUVydDZmQjYxZWFqMTJBMGJqWHZEWHZhZ0dxOGZ2ZDhG?oc=5",
-      "source": "Hyderabad Mail",
-      "time": 1794636134,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "Gold (XAU/USD) Price Forecast: Dollar Strength Extends Downside Targets - FXEmpire",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdzdCM1hzb2FXaGNBanJoWDJac05XeXpWX3R6WUJKZ1JTbTZyVHM1TmQyRlYzQlRIdmozb2ltem1hdnNvN1FaZi1GdFczYV81YnhxeDBnSGhzSURzOTREcnpPV0xDaEdKWFVSZVdFandqWFB4a09jcE9aTTQ2Und1SFgwdEpEV0NLaVRLeUhMSUJFSnBWN25HSFZ6UnUzY05mZzVrMWpxYXViUlAzcWV1aVM3SXVLZ3RPOWg1aFlB?oc=5",
-      "source": "FXEmpire",
-      "time": 1794636120,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "Series of important economic data shapes gold prices next week - Laodong.vn",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTllpeERiemRLbjZjNm1wY1lPdWVCWFBrWnhIN0NtZk1iajlVSUFYd3hheGhEMS0wdGNRQjhhUnJNTEN4SGRldDlaQmtqdVFBdV9kZ2RZRG85VmNHcFVzU0dDbm56SVdCS3BDNHpYU01SXzN5RzZsZVZOU3FYUTh0T2dKRnE0bjJZYmx4cG53VFh2M09GOUJzeS1BMlg4WmliOEFUSGl2ZC1qdw?oc=5",
-      "source": "Laodong.vn",
-      "time": 1794636030,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "Gold Price Forecast, XAUUSD Analysis And Trading Strategy - Saturday, Nov 14 - TalkMarkets - Howl.Link",
-      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9zUktrZXo1ZTZHeDV2M1lUempKRWxvZnF1V1AtQmw2YXRELW9mWXM0eF9RVGxmYjdaZUg4?oc=5",
-      "source": "Howl.Link",
-      "time": 1794636000,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "Azeri Light oil gains nearly 3% amid rising global crude prices - AzerNews",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zNFBDNm50T0d5YnI3TE92NmxvdVVMU0h4SUZGN3cwWjNIUzB6NGg4TzNib3ZrUDBxcHY5d1ZWamhSNDdJV1VRWWdhQTVpNWFOUlp3cmxEajRJOU0?oc=5",
-      "source": "AzerNews",
-      "time": 1794636000,
-      "asset": "BRENT",
-      "tags": []
-    },
-    {
-      "title": "Bitcoin below $70K, Coinbase charter, NYSE | Weekly recap - Crypto News",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DSTRZTUxoWDFiTUV3VXFIT0RFdjFYUDVQT1N2VU9SQ1dTYWdhVTVzVW5HSHJtUzg4Y08tYnl5T0JFblFBUXZENU16X01HaTFCYmpvRGZEcGp2RHlhclFNa2Q0dldCTWV0aHZrc2VjMUFMZEd2SEE?oc=5",
-      "source": "Crypto News",
-      "time": 1794635760,
-      "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "Natural Gas Price Forecast: Sellers Challenge Gains Near $3.40 Ceiling - FXEmpire",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN2wyT0xrMFdrMnhGRzU2WlZUVU9FS1lkVjBYdjNPeWowQWJIZ01Rb3NDY19QLXBLRm03NHVWczZ6ZUhWSzVsOGc3MmdPcW54a01NdnVKdTNtV3lmVWc4TDJIS1BJZmF1Z1NtVktjc1lBRDFXQU1pcW1PMjR3eGl6VEp3enFjQm1zb1lBRmFNbU0xcXVzT253VU1vM0hSZ2FrNTUzNER5eXlIWHBCQzRjcTBWNWZZVXhhMGdz?oc=5",
-      "source": "FXEmpire",
-      "time": 1794635760,
-      "asset": "NATGAS",
-      "tags": []
-    },
-    {
-      "title": "Solana Slides Below $75 for First Time in Three Months as Fed Rate Fears Batter Crypto - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MbEhJZFVNV3ZtMGFRanQ0TnVYeWlzdkFPZGN2YURweGNMOWREUDVCR2NlY3l5Nm93MUQ2UkZ1djhpcnZxb0ttQjM2QUQ0RHFtVlFiNXg3bFJJeHlpVGNEM0psR2x2cVRVdjh1ZVdpSVlpX3J3SWc?oc=5",
-      "source": "BigGo Finance",
-      "time": 1794635700,
-      "asset": "SOL",
-      "tags": [
-        "macro"
-      ]
-    },
-    {
-      "title": "Gold and silver rates today (November 14, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from IB - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNU0NJQzFQWkt4ZG9oYlhfSndGQkQ0N0VwS3U5YmVoc0dmeWMxZWNYekltakNZU29VNWZ2azh5Y3VCYWxRbTRxd3BqZjVaZzNxZ0Q3bzZJVzh1eUJqaXpBQjRvM3JaQmVXZTV5UmJ3S2xpSlVCRTEtSzBQVEVUdmhQY2J0MDd3WERNQWNNZ3FlME5udnQ0TFBFdnNBcXRVNEpqZGFZbUNkX2lZbjBHY3dRekFYck5MS2FwbDU2dDlhMDNBek15cWxxZnFsNU16TU5HbDBlUklMQ2kwNS1NUEhYdlJhXzROQ0w3QWpvNm9mRkhhVkpEdXl5eTMzbnZZQzZWendBd3FOZzhabkdaX2s3aDNIOXRnQlYxZzRtdmlsUlVNYmpVVTJkZGttcVpTY3JZa1dGQWFkZFhBdk5KNFNWZGFOaFlHbGE3a25rcUd5Uk9OZ9IB1wJ",
-      "source": "The Economic Times",
-      "time": 1794635577,
-      "asset": "SILVER",
-      "tags": []
-    },
-    {
-      "title": "Fact Check: Trump DID 'Dump' Up To $1 Million In Nvidia Stock -- But Also Bought Up To $1.6 Million - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRnFMRzhlNEtxaFNfWWQ1RXJVQnVOTzBkWGJKRWoxei1LVzZlWmVXZ0hoTHNsZ2IwZWUtbzBTUW1XMzhlY2dPcFBEdU5mdFM0X05WakpYRWlNUTVVLUxCdWpmajFUN3hrZWxvcWNReXJIUzIzM2xOOUp5bzJHWF9Sajl3R2ZnbGlaam5GUU1n?oc=5",
-      "source": "Yahoo",
-      "time": 1794635160,
-      "asset": "NVDA",
-      "tags": []
-    },
-    {
-      "title": "Solana price drops to $75.90, lowest since Augu... - Pluang",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbUZ5SmlaS2VqR3hqWm9fcnd1dnp4ZEIxQUJXRWJDMktSN0Y4cGlVMzd0UHAzQWo4LWJwZEVZVElBVmJJVVVhWGFNU09ndUVoRVhhZFVacnpIcFg3dlJJRkRENjVWQlBvRzlhd084dEJzeEl4Q1RUZzZYb3J1SDZCbDVsa1plSkpYQUNybldNMi1SVDFxLUlZMHFNamZEUUV6bWpHRHk2MEg?oc=5",
-      "source": "Pluang",
-      "time": 1794635107,
-      "asset": "SOL",
-      "tags": []
-    },
-    {
-      "title": "Americas Gold and Silver Reports Financial Results for Q3 2026 Following Record Quarterly Silver Production Driven by Strong Operational Results at Cosal\u00e1 - Investing News Network",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOU1pYSlZSYjB3dTJ1d0lGSXJ2TTRqblVsNXI3Z0VpZWd3NmFiUXpiZ21fejlrTTVYVGZCQy1IbXkxTGRfeU5EQ2MzSXhRMGt1dUc5RVJZSjFkY0xBUzRBb0FHQm5BNlp5ZjFpaVJyVXppMHRZY2lUTGZtbUZhV2pBSGg4dndBaWR6NXExNGZRM1pCY0RhZnhhVWRTVUY4Y01WVmlCcDFMd1Zlbjk4M29MZmJxcFJweGpGdXl0cW9tQU1WRndETDN6M3QwUXpMcmRrX3lZYUtRQlpaUG9wdHA2SnYxRnFfVEhNV1lwSl9HdWpCeTdjbXhwWUhwaG1HcE9BTzdmN1paTDd5elJCbkE?oc=5",
-      "source": "Investing News Network",
-      "time": 1794635006,
-      "asset": "SILVER",
-      "tags": []
-    },
-    {
-      "title": "AMD Nov 2026 650.000 call (AMD261116C00650000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45UE5Da0p0S0NVeGUtTG8wYzlGdllUODA3dHBIRHVkTlV4bUx3MzdaNHUzV1Flcnh6LTE4RU1HV1NGYlBObUFRR0R3SlA3NTNNbXB2RGkxU3V2Y2pKZkNXQ2wybk0?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "time": 1794634690,
-      "asset": "AMD",
-      "tags": []
-    },
-    {
-      "title": "Gold prices rise on commodity markets - Apa.az",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KQ0xkRXR3R0FDNWE3WVMyVjVkOEZZOE1CajN0QlktTWxwYTBTalRHNV9JeGw0dUVSeFBpUWl5TXhyZkhWcktweWtyZkQ1cEJSSXN5SXZ5WlBYUVhtcmJXU0ZfV3ZZTHl1VDR4bW5PWFJLM2QtQkhERA?oc=5",
-      "source": "Apa.az",
-      "time": 1794634680,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "64,666 Solana tokens worth $5.19M moved to Krak... - Pluang",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb1VVcExub2ZEcFZ1VlBlQmpWR1pUemVtTnpfX0YxRk9sNEdub2JDd1R6NWRIY0JWYmpMN0MxRDh6aFlWT282NTdxY01CUGhZa2loemVFbUxib09haXlyU3EwZUJpeHkyUW14TDZkY1pPV3FqRklERTV0T0paQkhDX3F0OTF2Yzk5enpUSEFZMjlWSWRwNHhDcQ?oc=5",
-      "source": "Pluang",
-      "time": 1794634427,
-      "asset": "SOL",
-      "tags": []
-    },
-    {
-      "title": "Gold & Silver Prices Experience a Significant Drop this Weekend - TechJuice",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORnVwOTJrczVtaGZQcVltQnNRODZ6ZTlUU3JUT2lobEI5NXRMdnFTcE0tclhhMXdQYWFwSWNFbWFCWDREM3V0VUIzVEtoWU92WUdCNjZ1Tm9Wbk1nM1p3QW9pUWVWWmRlV2hqVF9kbnZBSmMzQnVuS3Zab0V5dEE4Z1JRTUlWT2Y4VE9BSVpZNHQ?oc=5",
-      "source": "TechJuice",
-      "time": 1794634348,
-      "asset": "SILVER",
-      "tags": []
-    },
-    {
-      "title": "Natural gas prices fall by over 3% on New York exchange - Apa.az",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTFrMmVSS1lCbW13MzdLUVdBcUVmZGhmT1VYcHdmQ2Exdm5MSHk5by1yZHBBaXpfMjNVX2FmOVBEUHVQMDl6QXpfemlDWlp6cHlkZHdlSXlOZlktUEYxU3d5SUU0M2ZGcnJPRWEzUnRfdFVmODMtVnl1NlpPMEF0Z0R0STZjdlNOVUN3NGFESVp5Zm54NHVFRjJJdndpNm95?oc=5",
-      "source": "Apa.az",
-      "time": 1794634140,
-      "asset": "NATGAS",
-      "tags": []
-    },
-    {
-      "title": "PNC Bank Pilots USDC Payments Converted to Dollars for Clients - CryptoRank",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVENxdzE1RWZtSjE3TGtDemVxWnAxNVhScW12WU9sZVRfQl9fbWdNNVZjaHhUcVZnazh4MVBWcnRSV0NTZHNGT0xMbGU2SGQ2WHAweWFtNS1hTkNYVk9iQTFZZEpySHViZzNjTDhMMzVrd25tY2ZJMEwxQ2kxSURhZDZ0TTlCZHdUSWthM0UxSll0S202NG0zNUNNTG5YamppUVE?oc=5",
-      "source": "CryptoRank",
-      "time": 1794634130,
-      "asset": "ETH",
-      "tags": []
-    },
-    {
-      "title": "Bitcoin, Ethereum Rally 20%+ \u2014 Is the Crypto Bear Market Over? - CoinMarketCap",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVnNZbmY4SHdIU0pQTUxuZUhJeWFzNW9iNVFTZmpBenFWYVhIWC1BZzdxRzR1bS10bFU0cWNRRUxOakszWlBTcDhQWXNBWExCOHlTMjAyLVVla2hlWDlpVDlmT1UxMFZoTjhlenFUN2YtaWRZeE9HVjg5UWZDSWRDNnJvWC12WXhyRnQ3UjRJRXN1VHVZQWc?oc=5",
-      "source": "CoinMarketCap",
-      "time": 1794633928,
-      "asset": "ETH",
-      "tags": []
-    },
-    {
-      "title": "Ethereum ETH (ETH-GBP) Live Price, News, Chart and Price History - Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TaE0xc0V3dUJaMVprb2VoSHNTaHRNSFdMWkMzTWctV0xIdXZKeVdBcjN4S1dhSjdVb3p6Nl9vd2JRaXJza1ZyOVJVUHpKbTNJRnZ3UG5n?oc=5",
-      "source": "Yahoo Finance UK",
-      "time": 1794633744,
-      "asset": "ETH",
-      "tags": []
-    },
-    {
-      "title": "Gold and Silver rates today, 14 Nov in Hyderabad, Visakhapatnam, check gold prices of 18K, 22K, 24K - The Hans India",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONHEtQjFQYnBYLXZiOEszMUQwSjFWZzlyVl94Zk04OWY2eUxOYXZBWWVQYWE2Vmt2ODBuZW1VUUZ4eUlBYnNLUVhySFMwVmZGamVQVHNZTmFxZU5FalFTaWZ2eG1sRGZDUmFhRTA2RU0xTXEwSTNMSVpUbGhPbmFseF9lUmtTRFVqOXp5cFV5eEJNbENzNTBGbnQyQ0owd19Zcy0wLTFvX3RHMThHVU5NaTdJMlJEX0xOVm9mLS05QklTYWRXUzM0N3c4bHR3RDd2MnZtOThaODNuZmhPTmdLbUVRLTZZa1EyWDlj0gHwAUFVX3lxTE9nbVRJMnpleUdjVXBlNmtzS2hqNWN2Y09vWDZfMnN6dmdvaGlZOHMwTWp5aENHSlB5NThKR0UzR0ZaQUNFVHlzVHk5N3pHUHVYR2lCMF9nUW0wajNfbHlOeHhTYVgxaWh",
-      "source": "The Hans India",
-      "time": 1794633685,
-      "asset": "SILVER",
-      "tags": []
-    },
-    {
-      "title": "Gold price drops again by Tk 2,217 per bhari - New Age BD",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0hSNWd2endHYURnMzhGNTA4NnVPcmtNazNBYjRmX09maVM4djY0MnE0bjRLQjVGcjRHU0R0aTZmUjRPbS1ndWRBbHczQWlNbzVHaFpqc3RMWWpET3NFQlpfeW9KS2FsRWtYeU5oS0c1bmtOMmlpRkJHc0paVFJBLVZzN1Z5S3NLYk1VbXZib2w3OVNETklwRzZ4NnJqYnFtLVE?oc=5",
-      "source": "New Age BD",
-      "time": 1794633540,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "Gold Prices Drop Again in Bangladesh for Fifth Straight Time - https://www.businesstimes-bd.com/",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0Uk9IbXNUUDdOTDJxX3A4anNJcTRUUWhQRGJhcXBNN0tfcWo2MGl5UFVpRFBlS1N4WmFRMHZobzktcUo5RVI5R3lmRHRsZkx1OWpHbUJuaWp1aG0yWTFhSFBNejBvUQ?oc=5",
-      "source": "https://www.businesstimes-bd.com/",
-      "time": 1794633271,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "Gold and silver rates today 14 Nov surged in Bengaluru and Chennai, check gold prices of 18K, 22K, 24K - The Hans India",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYk0zR1k1SWgwUEpsNkVKeS1UQUtXYmM3U3RRNTVoTC1DNkNzY0Vpejc2WEZCR25RRkFfSHdxcGNsek9aTW92T25TczJQLUtWWE16V2dvTzdyeU9lM3N4VmQ2aWxXVHA4UWhXcFkxLTBQMkNPREJNbzR0TnJ4TjBBLWxZREMzWXY1T1M4bWpIb3VULW9JRHpaTDA3dW1kTl9hLV9ReDdRbVcyYWFBX1VJdzlWVE5oUHg4VXJET1lIZTlKdTA1NTNRUnlXTXRIQjctLTFVOVlTaVJKY3FpX2pjbVhjMkRwVkpvVGNadGZNWmM3Z9IB9wFBVV95cUxNUHpaTEt6UEsxYTBNUHQzXy1DSE9za3IxSTlFU3VvNW9FMjdDVzc3M3V5ZkkxYzg1V1RMZ05nZlhGb2lfRkdGX096ZkR3V0p2ZnNycldJVk5zeUVqaTBUMlp",
-      "source": "The Hans India",
-      "time": 1794633167,
-      "asset": "SILVER",
-      "tags": []
-    },
-    {
-      "title": "Gold price drops for fifth straight time - Daily Observer",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSdmNjSkpKYV9DZ290dG15RkVoNjVRNkp2WVFSLTRMTW9XeEVoOEpuSFB1ZVdxcmluR1JkWFJuSU0wY09SeWFTd2xR?oc=5",
-      "source": "Daily Observer",
-      "time": 1794632558,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "AMD shares fall as Nvidia recovery reverses chip rotation - StreetInsider",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMU1hX2pnd0lSOGVqbGtJdGpCWDVHMzU0b3BPbmp4UHl4OGFaTFBmcmtqZ2lZUE9VVWRldDNKdG0ycU1QcVlSYXlwdjhiRG9sYkl1bDZPYWhHVDYtR2Y0emNrMDMwTGhQQXhtZjhtMV81ODdFQWY5Vk1yeGhqVHdmY3NiclYtU1VKcGNuaGFoYXozaHVyM2JpclU5cV9JN3dWdGM1bU16NHZvOWpwcE1MWg?oc=5",
-      "source": "StreetInsider",
-      "time": 1794632423,
-      "asset": "AMD",
-      "tags": []
-    },
-    {
-      "title": "Gold and silver rates surges today, 14 Nov in Delhi, Mumbai, check gold prices of 18K, 22K, 24K - The Hans India",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTzdoaHRCT1N6c2Q2VVRhMzIyNG9RSzN3dHNQTHA4U2lHYTRZOUVLQTVTSkRjX0RITXZhWUY5aUZiZnVPblFpcjVPa3hwQkhnWnplU2MtNVZXTzRhTzhHVERxSHZOR0d5dElGeV9QUlUyM1AxZ0cwVXk0Z213TGRXVFJHSkRQQzZsTVJLQXNuSnJtZ2QxYUdYSW50ZVFkTWRpbE1zakNnTURLQXBGTEMxd2w2NGFvbm5qd2pRd3RxV0hFWGlYM2hnbkJqb21vaE02eFHSAdcBQVVfeXFMUFdYT1N5Y0ZpWUdZeU9mTl93ejJNRmg4bmRuaTRpWkVDRDYzNURXNW9PaHg5NW5xTF9VNWlmQUxQdnhVS0RFSlM4VVR3cDNqbTd5R3V1WjlsbkJxN05iRW9NbElnaFZGdTd0eTI0STFsNTE5SzBkdHRZSlk4bEJISVc",
-      "source": "The Hans India",
-      "time": 1794632413,
-      "asset": "SILVER",
-      "tags": []
-    },
-    {
-      "title": "Gas prices trending down in Florida - keysnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmpvcWNIakhzVjhVTmUtTzNfbFpCV21jUWRheFEwMFAzaHFUakg0TnQ3aWF2c1l3MTBadlZfV016VXRVOTNueFAwYmRRN0Nkc05nZEo5M2tMT3ltTVprRUdtR2xJSnJ2UU1FWEZqOTU1YUlFMHgwS3B4YVV2TE5kLVlOV2VlUzhmX3JXVEtvT2tKNFB6cHIyM1k4UE9HaDV5dlBBWlhMUFlMS1E4WlBpWXoxdTYweW9zYVE4?oc=5",
-      "source": "keysnews.com",
-      "time": 1794632400,
-      "asset": "NATGAS",
-      "tags": []
-    },
-    {
-      "title": "Ethereum\u2019s ERC-8415 tests tokenization\u2019s ownership gap - Asia Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQl92cnNFWmRKUmU0dEIzOWVFMnRFLVZMOVNVeGhxbHp0OGRoMUYwTV9qdTFXN3A1MU4yYjlya3JreGRFbzV5TkhUZmxhdld2VTB3eDN2R1BZbk42eG9EcnE1RHpzOThwMEhYSE1Od2d2ZkNFbVRqaE1sN3ZpWHI1aU5KM0Uzc3o3MDQ0?oc=5",
-      "source": "Asia Times",
-      "time": 1794632379,
-      "asset": "ETH",
-      "tags": []
-    },
-    {
-      "title": "Gold price rise in Bhubaneswar today, November 14, 2026: Check 22K, 24K rates in major cities - Kalinga TV",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeGlCcmNoMmdaU25jYzloZFZDbm5JVklwVDJkMTdRazEwVERBcHlpNXhCcnFOUVJzeEg1S3V3MGdoUm41TTFMc2dMZHk4QjZRSS1xRnhvT0RuUkVpbFBnTHpQLTI1c2lIblJuQllDVG1lanZQNHZpX2VpOWhNd1B4c1J5ZFdaS2NoYlYzcXotNlV3ZXA3ejFWb2tHU1g0b0FpQjItRmRSYUpyOWN6SldCb1dGUDMyS2pXRVE3azVB?oc=5",
-      "source": "Kalinga TV",
-      "time": 1794631926,
-      "asset": "SILVER",
-      "tags": []
-    },
-    {
-      "title": "Gold Prices Today In Hyderabad On Nov. 14, 2026 - INDToday",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xMEI5MFNCUy1DRkxScWx5NHpTYTI4alZkcGxzZTdlZTB2ZWhFbUExYnhYMWh2QWpVS2l3Z3R5ZWtiX1dtZUQxWXJEeVpBdE9aYVcxY09ONmhMUUlzSWh1VGd1MHVMSklzVU12NzhnZHZ6Vm5iemc?oc=5",
-      "source": "INDToday",
-      "time": 1794631438,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "Gold Rate Today, November 14: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQY0V5MGl2RXVlcllLN2hTYWE2U280U0VpQzVqeFFPNzBvbXp6SnJ3MjEtbUtRZk9yTFRlU0Z6VW1UUngxMC0tbmRYLTdhYTloSHI4ZWFCRGZ6ZDlQNzlPVl9GZW5JTUVYVnNhaHpxMk1YbHFmckRrZGN4SmhwVUVzaFVfSlBDOHJNRnFHN0lPMU9HSzdZLWVtUFRSWjVfd2lHUDViNUZ4bzV4RnYzVklDbUpKc0w4dDFRU3Z5S0JHMUxkMHdxQmhHVVNFUVNpUXVIa0VabG1VOEI0R1VHLUs5OUhaRDFKdnlWd09QLWs4R2o0VE9OdWfSAfwBQVVfeXFMTUdWb0FraDNqT0c5cmVFVkE3aU03UUJzWU1HcFVJc2VDNHZaWlE1YnFUYmxKNWVsUFZLbkJmS2VkMFBfb3JGR05aRzQ2Tmk0MUVVTTIxU1huRl9KbnZ",
-      "source": "The Indian Express",
-      "time": 1794631147,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "Altcoin spot ETFs see mixed flows; XRP and Sola... - Pluang",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjZacWNpaUJzQ3ZYRjczdkNrYWtoMFdEWVN1bnVyX0ZXWFVvZ01QN0FIX29wR0I0bklEUm5ISDc4dlYtcWxXbzU4ME55cjNtWHNGN1FBLW1vVzZQbC1QSmU4Z0VjUlRVc2RfbjhZV0tvWm1WTlFHNkVMMGlRNDZZRzVvMFprcGNxcm1WNzlYWndfUDVNTV8xNUpQM05UUkNFUjhrbg?oc=5",
-      "source": "Pluang",
-      "time": 1794631019,
-      "asset": "SOL",
-      "tags": [
-        "etf"
-      ]
-    },
-    {
-      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011 - CoinDesk",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNXdaQlBHUGhrc0ZWUWxFZzNVVjhsemt5aW42UUI4MEJkRGUtcGNpckxpY2VKMlBxN0lCdjc2ZGhaWFlWbldKeElRZUYzUWFoUFpJZS02MklacjhUdmowSnphYUVpVHRpNXU1bGxUV0F1ZjJNVURZRzE2WlIxWVNHWUZvWlY1VzBhNGVxNzE1azJQZ3hrU1U1QkQ2eFhOaDNVVHJvaExuSGNxa2VFblh1ZlB6bG11aXFlNjk2LVowVXZFeHUyb0ZjaA?oc=5",
-      "source": "CoinDesk",
-      "time": 1794630600,
-      "asset": "BTC",
-      "tags": [
-        "regulation"
-      ]
-    },
-    {
-      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-      "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
-      "source": "www.coindesk.com",
-      "time": 1794630600,
-      "asset": "BTC",
-      "tags": [
-        "regulation"
-      ]
-    },
-    {
-      "title": "Chennai gold price falls by Rs 640 on November 14, 2026; check today's gold, silver rate - DT Next",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWXViSk01bk1kOGNQRGJUQ2MzcUdEcmJnNTFESXJ2VEZVZHptbzJRZHRYa0JVNEt6UWdISFhOWkJjc245RGNjWVpLb3dMcF80MjZDZG1vV1J4OXdENi1wNkVZR3RQVHBxdFMyeEcxV1VMemp5TUZZMktMOG9jbXBVZGdrcklBRzAyZEU2c1Nvc1RXUjhWNERjZHZDT3JkTTdpVlR5VklDMlVVR1FRNmdMRzVjOFpaNy1pdlI40gHIAUFVX3lxTE4xX0hjRnBma0wxcXc0Wnh1d3BPdEwxWURldG1xdVNkRWZ6cXpROWFIZHVLUTc5Y29PbUhGUkNMRVBVbExZYWJvTGNpbENnMFBKUXNrSTdib1Robl9rRktsc2xBQVk1MnB1UlB1SVR3WG13NHR4VkdhM1ctWXVLdVI1dU9td2Nhd0paNUVheEZMdGM5czloN3F",
-      "source": "DT Next",
-      "time": 1794630494,
-      "asset": "SILVER",
-      "tags": []
-    },
-    {
-      "title": "Gold prices slip - VnExpress International",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSzJITUdTZmVLTnZiM2JKWTZmZ1g3WmpGT3BiME8xV2o3bFBSYkFkUTBHOFRuLXY0cXZxdHFwbnF6QTFXRDltb09fSVVXd3FrY1Flc0xBbGk4Nm04cUd2Q0Y2YWM4NXkxVThDZXBVbFUxVzR0alhfYXcwOXgxZzJaeg?oc=5",
-      "source": "VnExpress International",
-      "time": 1794630417,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "Elon Musk, Tom Lee, Shopify CEO Sign \u2018Stand With Jensen\u2019 Petition To Reinstate Him As Nvidia CEO - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMEx0TURqbXpxMG5VRk1HZjNXMTNTV1F2cUNhWkVWOVVUaV9QU2hmX3UzcjRsVVkxbkxLY2pfS3hzZXpzdU1UY1ZOWll5Qnc1cDR3b1d2eVNLV1pJQl96Mktwek1wNlpNM2hCSHNubmVLN1F2QmtpdlREV2pySTBmSUNybHdqNjBRZVgtNm5Fend0d296?oc=5",
-      "source": "Yahoo Finance",
-      "time": 1794630240,
-      "asset": "NVDA",
-      "tags": []
-    },
-    {
-      "title": "ETH price range on Nov 14, 2026 at 12am EST Crypto Prediction Market - Robinhood",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlNlMl9WYnh3ZXFYT1c4di1QS1lTM0hWdmRrUU5pbmtlVGpFWEJBRXR3RjNjSmV6aWlwNUZDV05CUlNlZktObGM0TDJ0Y3E5ZmtabmFTaFdPVG1IOVVxNFZnTFNYZUxBaVVRbUN0N3Q5MTFVWDhTY3dsTnYwU0VHMURaNFVsQVJCZVI2WFBZQmpYUkl0SnVkM0Z6X29sX1Z6WjFuYk5wb25BekN4VVdwNzQzN2FlYlU?oc=5",
-      "source": "Robinhood",
-      "time": 1794629491,
-      "asset": "ETH",
-      "tags": []
-    },
-    {
-      "title": "Trump\u2019s Bitcoin reserve can\u2019t buy Bitcoin without Congress, says Witt - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX050c2Nmd1hFNWlCWU0tTWU3eEF0UGo4MloxWWU4c1h5Mi1jN3lYNTU0eGZMQXc3cm84aUt1enMtZHZwY2tPMVBXSUlUWjdYNVVWWVZpc1V4S1V2cDhKalJVTVR3bTA2am9VOXRBaFFjUmtsZjV6MG9lVjdJVjluV3RxMA?oc=5",
-      "source": "Crypto Briefing",
-      "time": 1794629278,
-      "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "Goldco Gold IRA Reviews, Fees and Customer Opinion Explored in New Industry Report - StreetInsider",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUXhCM0gyTGl2QlVfWlkyOVItQWU3WWZuY25kN0EyMFdZd0Z4a1VvRlFTUUdPZXJiWnN4MmI3eTlwUXZIc2lPOFRvY1g2dkx0VVhSVjZweWhncXNKTmJRTXRwYmdGSFN6T1JueTJlNWJjV3NsdVozaXRZNXA3OXpFdTcwLUJVbUlSdXdQdUM3Y0lFNENzM21DZ19ZOEg0QXJ6S1VPLTg2SzdkNmEtaGtTZmd6S0tJOTU0aWFud09CYi1JUFZTLWVkOHhETVRSX1V6aFE?oc=5",
-      "source": "StreetInsider",
-      "time": 1794629183,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "XRP Declines 4.1% Amid Macro Selloff and ETF Outflows - CoinMarketCap",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EaDdwWG50clN0NmpxbUhZcHN5d1MxcnVRRmRoLWNUMTYxWHhlcVkyanp6S0Vaa0tNRmtRV1dPdXpvd0t1RGc4WmJJdmU5b0VfSU8zbEViSU1hdzdvR1J5dGx6eTBqY25mMnhnNGxVaTU?oc=5",
-      "source": "CoinMarketCap",
-      "time": 1794629100,
-      "asset": "XRP",
-      "tags": [
-        "etf",
-        "flows"
-      ]
-    },
-    {
-      "title": "Bitcoin\u2019s Billion-Dollar Wipeouts Are Becoming a Familiar Sight - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUd5VFhXYWFteUNtX00xalQyaGdaSUNqRkxNY0FwaWY4WFdrWE4wdTZJWV95Y1YxU3NpVkVUX0lxdl9uQnl5TGVzUEFodHdCQl84b09TU25IY19VLXc0YjhmaDlWb1hfeEFuX29oT2tIOFQ0ekNFd25wb3lERUdqVUZlOTZnbGxlT1NpUWttdUgxNm1OQzl4QVZXd3gyZVV5UTFOTGtVM2dwUEdxcW53a0NobGY?oc=5",
-      "source": "Bloomberg.com",
-      "time": 1794629040,
-      "asset": "BTC",
-      "tags": []
-    },
-    {
-      "title": "Morgan Stanley buys 735 Bitcoin via spot ETF, r... - Pluang",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOUY0ZjdkOTJiWEJ5dU5iOU9ySkttMUpBajVUVWJOek1kdWJGbXVaTG5jMTBpWFJPUF9JWWthMUJlZ3NHQWxzVE9JMjVZSGIxQ1NBRlEwS05yUzJ4bEo3RW9SVkJPUm1EeFJKZFRCV1FSR0gzSE9semZZZVJlb2k5c2VoSjJNRlFoTVlYclVXczRUTUs1?oc=5",
-      "source": "Pluang",
-      "time": 1794629028,
-      "asset": "SOL",
-      "tags": [
-        "etf"
-      ]
-    },
-    {
-      "title": "Gold price today, November 14th: Falling after 1 week, buyers cut losses by 9.5 million VND/tael - Laodong.vn",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcHBIcml0cGhxTnZPa2pOa2hxYktDYWpXWFVmQ1otVFljb0Z2bWFOZGpMUXBGUmlkbFFvanZ4QV9UTVN1cGpwRnZFNTJQZ0ZBVkNucmNpZlJFeVpQSnI5VWRjUmZBVFdBUmlSOFFEWThPaDRyWjFFZW1OaE16NDVzbkdhQU1mUVR6Zm1oaVVMVWMxSXpqZ0lwaDFaVURkczJ0U1gzcVpVM0hjS3F0WHBfNWtFOU1LWkoxUGpRWEtwZXprMmZBcXdN?oc=5",
-      "source": "Laodong.vn",
-      "time": 1794628900,
-      "asset": "GOLD",
-      "tags": []
-    },
-    {
-      "title": "Why Is Bitcoin Crashing? 5 Pressures That Pushed BTC Below $69,000 - BeInCrypto",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52STRzWHVIZG1sTzVVeUlrZkRqaHZwb2p4eTl0bG9SZzkzLUhueGRsQ2xEaDFIVEJmdk1CcDlHTWhEcGctMFk3bE5KOTlZWGEzWkI1WkdfRXQ2MzNJSTQzcjR2c2hUTjA5alg5SGtDaw?oc=5",
-      "source": "BeInCrypto",
-      "time": 1794628800,
-      "asset": "BTC",
       "tags": []
     }
   ],
