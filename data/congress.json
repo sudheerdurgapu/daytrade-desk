@@ -1,6 +1,242 @@
 {
-  "generated_at": "2026-11-16T17:18:38Z",
+  "generated_at": "2026-11-17T00:58:29Z",
   "filings": [
+    {
+      "member": "Hon. James French Hill",
+      "district": "AR02",
+      "filed": "2026-11-13",
+      "doc_id": "20035807",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035807.pdf",
+      "trades": [
+        {
+          "ticker": "JBGS",
+          "asset": "JBG SMITH Properties Common Shares",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-11-09",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 4,
+          "late": false
+        }
+      ]
+    },
+    {
+      "member": "Hon. Scott H. Peters",
+      "district": "CA50",
+      "filed": "2026-11-13",
+      "doc_id": "20035786",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035786.pdf",
+      "trades": [
+        {
+          "ticker": null,
+          "asset": "Allocate Alpha Fund II LP",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-10-07",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 37,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "Allocate Premier Access Fund",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-10-01",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 43,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "Berks Cnty PA GO UTX",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-10-08",
+          "amount": "$50,001 - $100,000",
+          "days_to_disclose": 36,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "Charlotte-Meckle HLTH",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-10-15",
+          "amount": "$100,001 - $250,000",
+          "days_to_disclose": 29,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "Illinois State GO UTX",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-10-28",
+          "amount": "$50,001 - $100,000",
+          "days_to_disclose": 16,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "Inverted Capital I LP",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-10-22",
+          "amount": "$50,001 - $100,000",
+          "days_to_disclose": 22,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "Smash Capital Fund II LP",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-10-06",
+          "amount": "$50,001 - $100,000",
+          "days_to_disclose": 38,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "U.S. Treasury Bill",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-10-16",
+          "amount": "$500,001 - $1,000,000",
+          "days_to_disclose": 28,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "Watsonville CA W SWR UTIL",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-10-22",
+          "amount": "$50,001 - $100,000",
+          "days_to_disclose": 22,
+          "late": false
+        }
+      ]
+    },
+    {
+      "member": "Hon. Suzan K. DelBene",
+      "district": "WA01",
+      "filed": "2026-11-13",
+      "doc_id": "20035779",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035779.pdf",
+      "trades": [
+        {
+          "ticker": null,
+          "asset": "Black Belt Energy Gas Dist Ala Gas 05.00% 10/01/2032 Proj Rev BDS Ser. 2026 M-1",
+          "type_name": "purchase",
+          "owner_name": "joint",
+          "date": "2026-10-28",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 16,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "Black Belt Energy Gas Dist Ala Gas 05.00% 10/01/2032 Proj Rev BDS Ser. 2026 M-1",
+          "type_name": "purchase",
+          "owner_name": "joint",
+          "date": "2026-10-30",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 14,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "Central VY Energy Auth Calif Commodity 5.00% Due Aug 1, 2034",
+          "type_name": "sale",
+          "owner_name": "joint",
+          "date": "2026-10-19",
+          "amount": "$250,001 - $500,000",
+          "days_to_disclose": 25,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "San Joaquin VY Calif Clean Energy Auth 5.50% Due Jan 1, 2056",
+          "type_name": "purchase",
+          "owner_name": "joint",
+          "date": "2026-10-19",
+          "amount": "$250,001 - $500,000",
+          "days_to_disclose": 25,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "Tarrant CNTY Tex Cultural Ed Facs Fin 5.00% Due Nov 15, 2051",
+          "type_name": "purchase",
+          "owner_name": "joint",
+          "date": "2026-10-26",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 18,
+          "late": false
+        },
+        {
+          "ticker": null,
+          "asset": "Wisconsin ST Go BDS Ser. 2025 A 5.00% Due May 1, 2036",
+          "type_name": "purchase",
+          "owner_name": "joint",
+          "date": "2026-10-20",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 24,
+          "late": false
+        }
+      ]
+    },
+    {
+      "member": "Hon. Jonathan Jackson",
+      "district": "IL01",
+      "filed": "2026-11-13",
+      "doc_id": "20035757",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf",
+      "trades": [
+        {
+          "ticker": "BP",
+          "asset": "BP p.l.c. Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "joint",
+          "date": "2026-10-01",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 43,
+          "late": false
+        },
+        {
+          "ticker": "DDOG",
+          "asset": "Datadog, Inc. - Class A Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-22",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 22,
+          "late": false
+        },
+        {
+          "ticker": "EL",
+          "asset": "Estee Lauder Companies, Inc.",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-10-12",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 32,
+          "late": false
+        },
+        {
+          "ticker": "SPHR",
+          "asset": "Sphere Entertainment Co. Class A Common Stock",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-10-12",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 32,
+          "late": false
+        }
+      ]
+    },
     {
       "member": "Hon. David J. Taylor",
       "district": "OH02",
@@ -998,18 +1234,7 @@
       "filed": "2026-11-06",
       "doc_id": "20035780",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035780.pdf",
-      "trades": [
-        {
-          "ticker": "WBD",
-          "asset": "Warner Bros. Discovery, Inc. - Series A Common Stock",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-07",
-          "amount": "$50,001 - $100,000",
-          "days_to_disclose": 30,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. John J Mr McGuire III",
@@ -1017,18 +1242,7 @@
       "filed": "2026-11-06",
       "doc_id": "20035775",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035775.pdf",
-      "trades": [
-        {
-          "ticker": "WDC",
-          "asset": "Western Digital Corporation - Common Stock",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-15",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 22,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. Rohit Khanna",
@@ -1044,58 +1258,7 @@
       "filed": "2026-11-05",
       "doc_id": "20035778",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf",
-      "trades": [
-        {
-          "ticker": "CSCO",
-          "asset": "Cisco Systems, Inc. - Common Stock",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-10-23",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 13,
-          "late": false
-        },
-        {
-          "ticker": "NVDA",
-          "asset": "NVIDIA Corporation - Common Stock",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-10-23",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 13,
-          "late": false
-        },
-        {
-          "ticker": "NVDA",
-          "asset": "NVIDIA Corporation - Common Stock",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-10-23",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 13,
-          "late": false
-        },
-        {
-          "ticker": "PG",
-          "asset": "Procter & Gamble Company",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-10-23",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 13,
-          "late": false
-        },
-        {
-          "ticker": "PG",
-          "asset": "Procter & Gamble Company",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-10-23",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 13,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. Josh Gottheimer",
@@ -1287,38 +1450,6 @@
       "filed": "2026-10-19",
       "doc_id": "20035671",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035671.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Jonathan Jackson",
-      "district": "IL01",
-      "filed": "2026-10-19",
-      "doc_id": "20035551",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035551.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Laurel Lee",
-      "district": "FL15",
-      "filed": "2026-10-16",
-      "doc_id": "20035490",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035490.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. David J. Taylor",
-      "district": "OH02",
-      "filed": "2026-10-15",
-      "doc_id": "20035660",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035660.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Scott H. Peters",
-      "district": "CA50",
-      "filed": "2026-10-15",
-      "doc_id": "20035637",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035637.pdf",
       "trades": []
     }
   ],
