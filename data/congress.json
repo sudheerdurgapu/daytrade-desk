@@ -1,6 +1,95 @@
 {
-  "generated_at": "2026-11-17T18:26:29Z",
+  "generated_at": "2026-11-18T01:13:26Z",
   "filings": [
+    {
+      "member": "Hon. Byron Donalds",
+      "district": "FL19",
+      "filed": "2026-11-16",
+      "doc_id": "20035811",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf",
+      "trades": [
+        {
+          "ticker": "ADSK",
+          "asset": "Autodesk, Inc. - Common Stock",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-02",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 45,
+          "late": false
+        },
+        {
+          "ticker": "ADSK",
+          "asset": "Autodesk, Inc. - Common Stock",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-10-02",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 45,
+          "late": false
+        },
+        {
+          "ticker": "IBKR",
+          "asset": "Interactive Brokers Group, Inc. - Class A Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-10-02",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 45,
+          "late": false
+        },
+        {
+          "ticker": "IBKR",
+          "asset": "Interactive Brokers Group, Inc. - Class A Common Stock",
+          "type_name": "purchase",
+          "owner_name": "self",
+          "date": "2026-10-02",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 45,
+          "late": false
+        },
+        {
+          "ticker": "NFLX",
+          "asset": "Netflix, Inc. - Common Stock",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-10-02",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 45,
+          "late": false
+        },
+        {
+          "ticker": "NFLX",
+          "asset": "Netflix, Inc. - Common Stock",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-02",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 45,
+          "late": false
+        },
+        {
+          "ticker": "ZTS",
+          "asset": "Zoetis Inc. Class A Common Stock",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-10-02",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 45,
+          "late": false
+        },
+        {
+          "ticker": "ZTS",
+          "asset": "Zoetis Inc. Class A Common Stock",
+          "type_name": "sale",
+          "owner_name": "self",
+          "date": "2026-10-02",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 45,
+          "late": false
+        }
+      ]
+    },
     {
       "member": "Hon. James French Hill",
       "district": "AR02",
@@ -1215,18 +1304,7 @@
       "filed": "2026-11-09",
       "doc_id": "20024921",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20024921.pdf",
-      "trades": [
-        {
-          "ticker": "WBD",
-          "asset": "Warner Bros. Discovery, Inc. - Series A Common Stock",
-          "type_name": "sale",
-          "owner_name": "joint",
-          "date": "2026-10-07",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 33,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. Nancy Pelosi",
@@ -1442,14 +1520,6 @@
       "filed": "2026-10-20",
       "doc_id": "20035687",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035687.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Michael Rulli",
-      "district": "OH06",
-      "filed": "2026-10-19",
-      "doc_id": "20035671",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035671.pdf",
       "trades": []
     }
   ],
