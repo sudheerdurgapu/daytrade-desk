@@ -1,6 +1,1713 @@
 {
-  "generated_at": "2026-11-24T15:08:38Z",
+  "generated_at": "2026-11-25T08:17:14Z",
   "filings": [
+    {
+      "member": "Hon. Daniel Meuser",
+      "district": "PA09",
+      "filed": "2026-11-24",
+      "doc_id": "20036848",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036848.pdf",
+      "trades": []
+    },
+    {
+      "member": "Hon. Harriet Hageman",
+      "district": "WY00",
+      "filed": "2026-11-23",
+      "doc_id": "20035776",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+      "trades": [
+        {
+          "ticker": "ABT",
+          "asset": "Abbott Laboratories Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-09-08",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 76,
+          "late": true
+        },
+        {
+          "ticker": "ACN",
+          "asset": "Accenture plc Class A Ordinary Shares",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-02-17",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 279,
+          "late": true
+        },
+        {
+          "ticker": "ACN",
+          "asset": "Accenture plc Class A Ordinary Shares",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-02-17",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 279,
+          "late": true
+        },
+        {
+          "ticker": "ACN",
+          "asset": "Accenture plc Class A Ordinary Shares",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-02-13",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 283,
+          "late": true
+        },
+        {
+          "ticker": "ACN",
+          "asset": "Accenture plc Class A Ordinary Shares",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-02-13",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 283,
+          "late": true
+        },
+        {
+          "ticker": "ACN",
+          "asset": "Accenture plc Class A Ordinary Shares",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-02-13",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 283,
+          "late": true
+        },
+        {
+          "ticker": "ACN",
+          "asset": "Accenture plc Class A Ordinary Shares",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-02-13",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 283,
+          "late": true
+        },
+        {
+          "ticker": "ACN",
+          "asset": "Accenture plc Class A Ordinary Shares",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-01-21",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 306,
+          "late": true
+        },
+        {
+          "ticker": "ACN",
+          "asset": "Accenture plc Class A Ordinary Shares",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-01-21",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 306,
+          "late": true
+        },
+        {
+          "ticker": "ADBE",
+          "asset": "Adobe Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-03-31",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 237,
+          "late": true
+        },
+        {
+          "ticker": "AMD",
+          "asset": "Advanced Micro Devices, Inc.",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": "APD",
+          "asset": "Air Products and Chemicals, Inc. Common Stock",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": "APD",
+          "asset": "Air Products and Chemicals, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "ABNB",
+          "asset": "Airbnb, Inc. - Class A Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "ABNB",
+          "asset": "Airbnb, Inc. - Class A Common Stock",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-07-02",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 144,
+          "late": true
+        },
+        {
+          "ticker": "ABNB",
+          "asset": "Airbnb, Inc. - Class A Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-02-24",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 272,
+          "late": true
+        },
+        {
+          "ticker": "GOOGL",
+          "asset": "Alphabet Inc. - Class A Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "GOOG",
+          "asset": "Alphabet Inc. - Class C Capital Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-07-02",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 144,
+          "late": true
+        },
+        {
+          "ticker": "AMZN",
+          "asset": "Amazon.com, Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-07-02",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 144,
+          "late": true
+        },
+        {
+          "ticker": "AMZN",
+          "asset": "Amazon.com, Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-03-31",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 237,
+          "late": true
+        },
+        {
+          "ticker": "AEP",
+          "asset": "American Electric Power Company, Inc.",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "AME",
+          "asset": "AMETEK, Inc.",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-06-01",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 175,
+          "late": true
+        },
+        {
+          "ticker": "AMGN",
+          "asset": "Amgen Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": "ADI",
+          "asset": "Analog Devices, Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "AAPL",
+          "asset": "Apple Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": "ASML",
+          "asset": "ASML Holding N.V. - New York Registry Shares",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-03-31",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 237,
+          "late": true
+        },
+        {
+          "ticker": "AZN",
+          "asset": "AstraZeneca PLC - American Depositary Shares",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-03-31",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 237,
+          "late": true
+        },
+        {
+          "ticker": "AZN",
+          "asset": "AstraZeneca PLC - American Depositary Shares",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-09-16",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 68,
+          "late": true
+        },
+        {
+          "ticker": "T",
+          "asset": "AT&T Inc.",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "BAC",
+          "asset": "Bank of America Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "BAC",
+          "asset": "Bank of America Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-08-27",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 88,
+          "late": true
+        },
+        {
+          "ticker": "BAC",
+          "asset": "Bank of America Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-08-26",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 89,
+          "late": true
+        },
+        {
+          "ticker": "BAC",
+          "asset": "Bank of America Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-08-26",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 89,
+          "late": true
+        },
+        {
+          "ticker": "BLK",
+          "asset": "BlackRock, Inc. Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "BA",
+          "asset": "Boeing Company",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-06-01",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 175,
+          "late": true
+        },
+        {
+          "ticker": "BSX",
+          "asset": "Boston Scientific Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-21",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 216,
+          "late": true
+        },
+        {
+          "ticker": "AVGO",
+          "asset": "Broadcom Inc. - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-07-02",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 144,
+          "late": true
+        },
+        {
+          "ticker": "AVGO",
+          "asset": "Broadcom Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "AVGO",
+          "asset": "Broadcom Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-09-16",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 68,
+          "late": true
+        },
+        {
+          "ticker": "SCHW",
+          "asset": "Charles Schwab Corporation",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "CVX",
+          "asset": "Chevron Corporation Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "CSCO",
+          "asset": "Cisco Systems, Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "CSCO",
+          "asset": "Cisco Systems, Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": "C",
+          "asset": "Citigroup, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "C",
+          "asset": "Citigroup, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-21",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 216,
+          "late": true
+        },
+        {
+          "ticker": "CLX",
+          "asset": "Clorox Company",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-05-06",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 201,
+          "late": true
+        },
+        {
+          "ticker": "CLX",
+          "asset": "Clorox Company",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-05-06",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 201,
+          "late": true
+        },
+        {
+          "ticker": "CME",
+          "asset": "CME Group Inc. - Class A Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "KO",
+          "asset": "Coca-Cola Company",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": "KO",
+          "asset": "Coca-Cola Company",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-03-31",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 237,
+          "late": true
+        },
+        {
+          "ticker": "COST",
+          "asset": "Costco Wholesale Corporation - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-01-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 313,
+          "late": true
+        },
+        {
+          "ticker": "CRWD",
+          "asset": "CrowdStrike Holdings, Inc. - Class A Common Stock",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": "CCI",
+          "asset": "Crown Castle Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "CVS",
+          "asset": "CVS Health Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "CVS",
+          "asset": "CVS Health Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": "CVS",
+          "asset": "CVS Health Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-02-13",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 283,
+          "late": true
+        },
+        {
+          "ticker": "CVS",
+          "asset": "CVS Health Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-02-13",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 283,
+          "late": true
+        },
+        {
+          "ticker": "FANG",
+          "asset": "Diamondback Energy, Inc. - Common Stock",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-07-02",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 144,
+          "late": true
+        },
+        {
+          "ticker": "DG",
+          "asset": "Dollar General Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-06-01",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 175,
+          "late": true
+        },
+        {
+          "ticker": "DG",
+          "asset": "Dollar General Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-06-01",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 175,
+          "late": true
+        },
+        {
+          "ticker": "DG",
+          "asset": "Dollar General Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "LLY",
+          "asset": "Eli Lilly and Company Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": "EME",
+          "asset": "EMCOR Group, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-06-01",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 175,
+          "late": true
+        },
+        {
+          "ticker": "XOM",
+          "asset": "ExxonMobil Holdings Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": "FLEX",
+          "asset": "Flex Ltd. - Ordinary Shares",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 34,
+          "late": false
+        },
+        {
+          "ticker": "FLEX",
+          "asset": "Flex Ltd. - Ordinary Shares",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "FLEX",
+          "asset": "Flex Ltd. - Ordinary Shares",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-21",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 216,
+          "late": true
+        },
+        {
+          "ticker": "GNRC",
+          "asset": "Generac Holdlings Inc. Common Stock",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-06-01",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 175,
+          "late": true
+        },
+        {
+          "ticker": "GD",
+          "asset": "General Dynamics Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "GIS",
+          "asset": "General Mills, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-08-27",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 88,
+          "late": true
+        },
+        {
+          "ticker": "GIS",
+          "asset": "General Mills, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-05-06",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 201,
+          "late": true
+        },
+        {
+          "ticker": "GIS",
+          "asset": "General Mills, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-05-06",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 201,
+          "late": true
+        },
+        {
+          "ticker": "GIS",
+          "asset": "General Mills, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-08-26",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 89,
+          "late": true
+        },
+        {
+          "ticker": "GSK",
+          "asset": "GSK plc American Depositary Shares",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "HD",
+          "asset": "Home Depot, Inc.",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "HONA",
+          "asset": "Honeywell Aerospace Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-09-08",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 76,
+          "late": true
+        },
+        {
+          "ticker": "HON",
+          "asset": "Honeywell International Inc.",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-02-24",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 272,
+          "late": true
+        },
+        {
+          "ticker": "IBM",
+          "asset": "International Business Machines Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "INTU",
+          "asset": "Intuit Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-21",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 216,
+          "late": true
+        },
+        {
+          "ticker": "ISRG",
+          "asset": "Intuitive Surgical, Inc. - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-09-16",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 68,
+          "late": true
+        },
+        {
+          "ticker": "JPM",
+          "asset": "JP Morgan Chase & Co. Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-08-27",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 88,
+          "late": true
+        },
+        {
+          "ticker": "JPM",
+          "asset": "JP Morgan Chase & Co. Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-08-26",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 89,
+          "late": true
+        },
+        {
+          "ticker": "JPM",
+          "asset": "JP Morgan Chase & Co. Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-08-26",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 89,
+          "late": true
+        },
+        {
+          "ticker": "KLAC",
+          "asset": "KLA Corporation - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-21",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 216,
+          "late": true
+        },
+        {
+          "ticker": "LMT",
+          "asset": "Lockheed Martin Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "LOW",
+          "asset": "Lowe's Companies, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "LYB",
+          "asset": "LyondellBasell Industries NV Ordinary Shares Class A",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "LYB",
+          "asset": "LyondellBasell Industries NV Ordinary Shares Class A",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": "MRSH",
+          "asset": "Marsh Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-08-27",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 88,
+          "late": true
+        },
+        {
+          "ticker": "MRSH",
+          "asset": "Marsh Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-08-26",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 89,
+          "late": true
+        },
+        {
+          "ticker": "MRVL",
+          "asset": "Marvell Technology, Inc. - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-09-16",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 68,
+          "late": true
+        },
+        {
+          "ticker": "MCD",
+          "asset": "McDonald's Corporation Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-08-27",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 88,
+          "late": true
+        },
+        {
+          "ticker": "MCD",
+          "asset": "McDonald's Corporation Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-08-27",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 88,
+          "late": true
+        },
+        {
+          "ticker": "MCD",
+          "asset": "McDonald's Corporation Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-08-26",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 89,
+          "late": true
+        },
+        {
+          "ticker": "MDT",
+          "asset": "Medtronic plc. Ordinary Shares",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "MRK",
+          "asset": "Merck & Company, Inc. Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "MRK",
+          "asset": "Merck & Company, Inc. Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": "MU",
+          "asset": "Micron Technology, Inc. - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-07-02",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 144,
+          "late": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset": "Microsoft Corporation - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-07-02",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 144,
+          "late": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset": "Microsoft Corporation - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": "MSFT",
+          "asset": "Microsoft Corporation - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "MS",
+          "asset": "Morgan Stanley Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-01-21",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 306,
+          "late": true
+        },
+        {
+          "ticker": "MS",
+          "asset": "Morgan Stanley Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-01-21",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 306,
+          "late": true
+        },
+        {
+          "ticker": "MS",
+          "asset": "Morgan Stanley Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-01-22",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 305,
+          "late": true
+        },
+        {
+          "ticker": "NKE",
+          "asset": "Nike, Inc. Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-03-31",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 237,
+          "late": true
+        },
+        {
+          "ticker": "NKE",
+          "asset": "Nike, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "NVDA",
+          "asset": "NVIDIA Corporation - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "NVDA",
+          "asset": "NVIDIA Corporation - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": "ORCL",
+          "asset": "Oracle Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-09-16",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 68,
+          "late": true
+        },
+        {
+          "ticker": "ORCL",
+          "asset": "Oracle Corporation Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "PLTR",
+          "asset": "Palantir Technologies Inc. - Class A Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-03-31",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 237,
+          "late": true
+        },
+        {
+          "ticker": "PANW",
+          "asset": "Palo Alto Networks, Inc.",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": "PEP",
+          "asset": "Pepsico, Inc.",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "PFE",
+          "asset": "Pfizer, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "PNC",
+          "asset": "PNC Financial Services Group, Inc.",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "PG",
+          "asset": "Procter & Gamble Company",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "PG",
+          "asset": "Procter & Gamble Company",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-02-17",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 279,
+          "late": true
+        },
+        {
+          "ticker": "PG",
+          "asset": "Procter & Gamble Company",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-02-17",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 279,
+          "late": true
+        },
+        {
+          "ticker": "PG",
+          "asset": "Procter & Gamble Company",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-02-13",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 283,
+          "late": true
+        },
+        {
+          "ticker": "PLD",
+          "asset": "Prologis, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-08-26",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 89,
+          "late": true
+        },
+        {
+          "ticker": "PLD",
+          "asset": "Prologis, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-08-26",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 89,
+          "late": true
+        },
+        {
+          "ticker": "PLD",
+          "asset": "Prologis, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-05-18",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 189,
+          "late": true
+        },
+        {
+          "ticker": "PLD",
+          "asset": "Prologis, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-05-18",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 189,
+          "late": true
+        },
+        {
+          "ticker": "PLD",
+          "asset": "Prologis, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-08-27",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 88,
+          "late": true
+        },
+        {
+          "ticker": "PLD",
+          "asset": "Prologis, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-08-27",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 88,
+          "late": true
+        },
+        {
+          "ticker": "PSA",
+          "asset": "Public Storage Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "QSR",
+          "asset": "Restaurant Brands International Inc. Common Shares",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "R",
+          "asset": "Ryder System, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-06-01",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 175,
+          "late": true
+        },
+        {
+          "ticker": "CRM",
+          "asset": "Salesforce, Inc. Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-03-31",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 237,
+          "late": true
+        },
+        {
+          "ticker": "NOW",
+          "asset": "ServiceNow, Inc. Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-21",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 216,
+          "late": true
+        },
+        {
+          "ticker": "NOW",
+          "asset": "ServiceNow, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-10-20",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 34,
+          "late": false
+        },
+        {
+          "ticker": "NOW",
+          "asset": "ServiceNow, Inc. Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-01-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 313,
+          "late": true
+        },
+        {
+          "ticker": "SHOP",
+          "asset": "Shopify Inc. - Class A Subordinate Voting Shares",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-09-16",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 68,
+          "late": true
+        },
+        {
+          "ticker": "SNOW",
+          "asset": "Snowflake Inc. Common Stock",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": "SNOW",
+          "asset": "Snowflake Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-26",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 211,
+          "late": true
+        },
+        {
+          "ticker": "SO",
+          "asset": "Southern Company",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "SBUX",
+          "asset": "Starbucks Corporation - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-03-31",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 237,
+          "late": true
+        },
+        {
+          "ticker": "TSM",
+          "asset": "Taiwan Semiconductor Manufacturing Company Ltd.",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-03-31",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 237,
+          "late": true
+        },
+        {
+          "ticker": "TSM",
+          "asset": "Taiwan Semiconductor Manufacturing Company Ltd.",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-07-02",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 144,
+          "late": true
+        },
+        {
+          "ticker": "TGT",
+          "asset": "Target Corporation Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "TGT",
+          "asset": "Target Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": "TSLA",
+          "asset": "Tesla, Inc. - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-03-31",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 237,
+          "late": true
+        },
+        {
+          "ticker": "TXN",
+          "asset": "Texas Instruments Incorporated - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": "TXN",
+          "asset": "Texas Instruments Incorporated - Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": "USB",
+          "asset": "U.S. Bancorp Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "UBER",
+          "asset": "Uber Technologies, Inc. Common Stock",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-07-02",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 144,
+          "late": true
+        },
+        {
+          "ticker": "UNP",
+          "asset": "Union Pacific Corporation Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-10-14",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 40,
+          "late": false
+        },
+        {
+          "ticker": "UNP",
+          "asset": "Union Pacific Corporation Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "UPS",
+          "asset": "United Parcel Service, Inc. Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "UPS",
+          "asset": "United Parcel Service, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-02-13",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 283,
+          "late": true
+        },
+        {
+          "ticker": "UPS",
+          "asset": "United Parcel Service, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-02-13",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 283,
+          "late": true
+        },
+        {
+          "ticker": "VZ",
+          "asset": "Verizon Communications Inc. Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-08-26",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 89,
+          "late": true
+        },
+        {
+          "ticker": "VZ",
+          "asset": "Verizon Communications Inc. Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-08-26",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 89,
+          "late": true
+        },
+        {
+          "ticker": "VZ",
+          "asset": "Verizon Communications Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "VZ",
+          "asset": "Verizon Communications Inc. Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-08-27",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 88,
+          "late": true
+        },
+        {
+          "ticker": "V",
+          "asset": "Visa Inc.",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "WMT",
+          "asset": "Walmart Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-08-26",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 89,
+          "late": true
+        },
+        {
+          "ticker": "WMT",
+          "asset": "Walmart Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-01-21",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 306,
+          "late": true
+        },
+        {
+          "ticker": "WMT",
+          "asset": "Walmart Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-01-21",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 306,
+          "late": true
+        },
+        {
+          "ticker": "WMT",
+          "asset": "Walmart Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-01-21",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 306,
+          "late": true
+        },
+        {
+          "ticker": "WMT",
+          "asset": "Walmart Inc. - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-08-27",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 88,
+          "late": true
+        },
+        {
+          "ticker": "DIS",
+          "asset": "Walt Disney Company",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-03-31",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 237,
+          "late": true
+        },
+        {
+          "ticker": "WM",
+          "asset": "Waste Management, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-02-17",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 279,
+          "late": true
+        },
+        {
+          "ticker": "WM",
+          "asset": "Waste Management, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-01-21",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 306,
+          "late": true
+        },
+        {
+          "ticker": "WM",
+          "asset": "Waste Management, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-01-21",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 306,
+          "late": true
+        },
+        {
+          "ticker": "WM",
+          "asset": "Waste Management, Inc. Common Stock",
+          "type_name": "purchase",
+          "owner_name": "spouse",
+          "date": "2026-02-13",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 283,
+          "late": true
+        },
+        {
+          "ticker": "WMB",
+          "asset": "Williams Companies, Inc.",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-04-29",
+          "amount": "$15,001 - $50,000",
+          "days_to_disclose": 208,
+          "late": true
+        },
+        {
+          "ticker": "WDAY",
+          "asset": "Workday, Inc. - Class A Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-02-24",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 272,
+          "late": true
+        },
+        {
+          "ticker": "XYL",
+          "asset": "Xylem Inc. Common Stock New",
+          "type_name": "sale",
+          "owner_name": "spouse",
+          "date": "2026-06-01",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 175,
+          "late": true
+        }
+      ]
+    },
     {
       "member": "Hon. Ed Case",
       "district": "HI01",
@@ -497,48 +2204,7 @@
       "filed": "2026-11-13",
       "doc_id": "20035757",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf",
-      "trades": [
-        {
-          "ticker": "BP",
-          "asset": "BP p.l.c. Common Stock",
-          "type_name": "partial sale",
-          "owner_name": "joint",
-          "date": "2026-10-01",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 43,
-          "late": false
-        },
-        {
-          "ticker": "DDOG",
-          "asset": "Datadog, Inc. - Class A Common Stock",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-10-22",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 22,
-          "late": false
-        },
-        {
-          "ticker": "EL",
-          "asset": "Estee Lauder Companies, Inc.",
-          "type_name": "purchase",
-          "owner_name": "spouse",
-          "date": "2026-10-12",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 32,
-          "late": false
-        },
-        {
-          "ticker": "SPHR",
-          "asset": "Sphere Entertainment Co. Class A Common Stock",
-          "type_name": "sale",
-          "owner_name": "spouse",
-          "date": "2026-10-12",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 32,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. David J. Taylor",
@@ -546,198 +2212,7 @@
       "filed": "2026-11-12",
       "doc_id": "20035831",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
-      "trades": [
-        {
-          "ticker": "GOOGL",
-          "asset": "Alphabet Inc. - Class A Common Stock",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-11-03",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 9,
-          "late": false
-        },
-        {
-          "ticker": "GOOGL",
-          "asset": "Alphabet Inc. - Class A Common Stock",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-11-03",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 9,
-          "late": false
-        },
-        {
-          "ticker": "AMGN",
-          "asset": "Amgen Inc. - Common Stock",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-11-03",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 9,
-          "late": false
-        },
-        {
-          "ticker": "AMGN",
-          "asset": "Amgen Inc. - Common Stock",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-11-03",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 9,
-          "late": false
-        },
-        {
-          "ticker": "T",
-          "asset": "AT&T Inc.",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-11-03",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 9,
-          "late": false
-        },
-        {
-          "ticker": "T",
-          "asset": "AT&T Inc.",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-11-03",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 9,
-          "late": false
-        },
-        {
-          "ticker": "AVGO",
-          "asset": "Broadcom Inc. - Common Stock",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-11-05",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 7,
-          "late": false
-        },
-        {
-          "ticker": "ETN",
-          "asset": "Eaton Corporation, PLC Ordinary Shares",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-11-03",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 9,
-          "late": false
-        },
-        {
-          "ticker": "ETN",
-          "asset": "Eaton Corporation, PLC Ordinary Shares",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-11-03",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 9,
-          "late": false
-        },
-        {
-          "ticker": "LLY",
-          "asset": "Eli Lilly and Company Common Stock",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-11-03",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 9,
-          "late": false
-        },
-        {
-          "ticker": "LLY",
-          "asset": "Eli Lilly and Company Common Stock",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-11-03",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 9,
-          "late": false
-        },
-        {
-          "ticker": "HD",
-          "asset": "Home Depot, Inc.",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-11-05",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 7,
-          "late": false
-        },
-        {
-          "ticker": "IBP",
-          "asset": "Installed Building Products, Inc. Common Stock",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-11-03",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 9,
-          "late": false
-        },
-        {
-          "ticker": "KR",
-          "asset": "Kroger Company",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-11-03",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 9,
-          "late": false
-        },
-        {
-          "ticker": "KR",
-          "asset": "Kroger Company",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-11-03",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 9,
-          "late": false
-        },
-        {
-          "ticker": "LRCX",
-          "asset": "Lam Research Corporation - Common Stock",
-          "type_name": "purchase",
-          "owner_name": "self",
-          "date": "2026-11-05",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 7,
-          "late": false
-        },
-        {
-          "ticker": "PG",
-          "asset": "Procter & Gamble Company",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-11-05",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 7,
-          "late": false
-        },
-        {
-          "ticker": "V",
-          "asset": "Visa Inc.",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-11-03",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 9,
-          "late": false
-        },
-        {
-          "ticker": "V",
-          "asset": "Visa Inc.",
-          "type_name": "sale",
-          "owner_name": "self",
-          "date": "2026-11-03",
-          "amount": "$1,001 - $15,000",
-          "days_to_disclose": 9,
-          "late": false
-        }
-      ]
+      "trades": []
     },
     {
       "member": "Hon. Lloyd Doggett",
@@ -946,25 +2421,11 @@
       "doc_id": "9116389",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116389.pdf",
       "trades": []
-    },
-    {
-      "member": "Hon. Max Miller",
-      "district": "OH07",
-      "filed": "2026-10-27",
-      "doc_id": "20035715",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035715.pdf",
-      "trades": []
-    },
-    {
-      "member": "Hon. Jodey Arrington",
-      "district": "TX19",
-      "filed": "2026-10-27",
-      "doc_id": "20035714",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035714.pdf",
-      "trades": []
     }
   ],
   "rows_read": true,
-  "errors": [],
+  "errors": [
+    "20036848: HTTP 404 for https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036848.pdf"
+  ],
   "note": "Public filings under the STOCK Act. They arrive days or weeks after the trade, and amounts are ranges. House only."
 }
