@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T08:17:14Z",
+  "generated_at": "2026-11-25T18:46:26Z",
   "filings": [
     {
       "member": "Hon. Daniel Meuser",
@@ -7,7 +7,18 @@
       "filed": "2026-11-24",
       "doc_id": "20036848",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036848.pdf",
-      "trades": []
+      "trades": [
+        {
+          "ticker": "NVDA",
+          "asset": "NVIDIA Corporation - Common Stock",
+          "type_name": "partial sale",
+          "owner_name": "spouse",
+          "date": "2026-10-27",
+          "amount": "$1,001 - $15,000",
+          "days_to_disclose": 28,
+          "late": false
+        }
+      ]
     },
     {
       "member": "Hon. Harriet Hageman",
@@ -2424,8 +2435,6 @@
     }
   ],
   "rows_read": true,
-  "errors": [
-    "20036848: HTTP 404 for https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036848.pdf"
-  ],
+  "errors": [],
   "note": "Public filings under the STOCK Act. They arrive days or weeks after the trade, and amounts are ranges. House only."
 }
